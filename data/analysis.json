@@ -1,0 +1,45 @@
+{
+    "analysis": [
+        {
+            "title": "Google Launches Real Time API and JavaScript Library",
+            "author": "Kin Lane",
+            "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/google-real-time-api-playground.png",
+            "url": "http://www.apievangelist.com/2013/03/19/google-launches-real-time-api-and-javascript-library/",
+            "date": "03/19/2013",
+            "link": "http://www.apievangelist.com/2013/03/19/google-launches-real-time-api-and-javascript-library/"
+        },
+        {
+            "title": "Real-Time Notification Layer Within Your API",
+            "author": "Kin Lane",
+            "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/cisimple-plus-pusher.png",
+            "url": "http://www.apievangelist.com/2013/03/15/real-time-notification-layer-within-your-api/",
+            "date": "03/15/2013",
+            "link": "http://www.apievangelist.com/2013/03/15/real-time-notification-layer-within-your-api/"
+        },
+        {
+            "title": "API Trends",
+            "author": "Kin Lane",
+            "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/interoperability-trends.png",
+            "url": "http://www.apievangelist.com/2012/12/21/api-trends/",
+            "date": "12/21/2012",
+            "link": "http://www.apievangelist.com/2012/12/21/api-trends/"
+        },
+        {
+            "title": "Why Every Education Company Needs an API (& Why Educators Should Care When One Doesn't)",
+            "author": "Audrey Watters",
+            "image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/darcy_modified.jpg",
+            "url": "http://www.apievangelist.com/2012/04/13/why-every-education-company-needs-an-api/",
+            "date": "04/13/2012",
+            "link": "http://www.apievangelist.com/2012/04/13/why-every-education-company-needs-an-api/"
+        },
+        {
+            "title": "Superfeedr XMPP over HTML5 WebSockets",
+            "author": "Kin Lane",
+            "image": null,
+            "url": "http://www.apievangelist.com/2011/04/04/superfeedr-xmpp-over-html5-websockets/",
+            "date": "04/04/2011",
+            "link": "http://www.apievangelist.com/2011/04/04/superfeedr-xmpp-over-html5-websockets/"
+        }
+    ],
+    "published": "03/20/2013"
+}
