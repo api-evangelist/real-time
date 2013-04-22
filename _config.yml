@@ -5,8 +5,8 @@ safe: ture
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 lsi: false
-source: hack-weekends
-destination: hack-weekends
+source: backend-as-a-service
+destination: backend-as-a-service
 pygments: true
 
 paginate: 10
@@ -14,7 +14,7 @@ paginate: 10
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Hack Weekends
+title : Backend as a Service
 tagline: 
 author :
   name : Kin Lane
