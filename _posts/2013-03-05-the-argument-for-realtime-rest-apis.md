@@ -1,0 +1,10 @@
+---
+layout: post
+title: The Argument for Real-Time REST APIs
+url: http://blog.programmableweb.com/2013/03/05/the-argument-for-real-time-rest-apis/
+source: http://blog.programmableweb.com/2013/03/05/the-argument-for-real-time-rest-apis/
+domain: blog.programmableweb.com
+---
+{% include JB/setup %}<p>This guest post comes from Bryan Helmig, a self-taught hacker and co-founder of Zapier.By day he hacks on APIs, by night he hacks on APIs (its kind of his thing).Read more at Zapier’s blog and bryanhelmig.com.APIs enable incredible customization.</p>
+<center><p><a href="http://blog.programmableweb.com/2013/03/05/the-argument-for-real-time-rest-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Introducing a free Superfeedr plan!
+url: http://blog.superfeedr.com/adjusting-business-model/
+source: http://blog.superfeedr.com/adjusting-business-model/
+domain: blog.superfeedr.com
+---
+{% include JB/setup %}<p>In the various list of Google Reader alternatives, we found out that a lot of indie hackers were either hosting their own reader or even creating one.These people usually decided to build their own pollers because they could not afford to use Superfeedr for such a low volume of data.That made us sad, so we’re changing it.If your application gets less than 10,000 notifications from us per month, it’s free (as in beer).This means that you can start using Superfeedr and never have to pay for the notifications you get as long as you receive less than 10,000 notifications monthly.</p>
+<center><p><a href="http://blog.superfeedr.com/adjusting-business-model/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
