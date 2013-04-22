@@ -24,11 +24,8 @@
     <script src="{{ ASSET_PATH }}/js/underscore-min.js" type="text/javascript"></script>
     <script src="{{ ASSET_PATH }}/js/github.js" type="text/javascript"></script>
     <script src="{{ ASSET_PATH }}/js/utilities.js" type="text/javascript"></script>
-    
-    <!--Systems--->
-    <script src="{{ ASSET_PATH }}/js/provider.js" type="text/javascript"></script>
-    <script src="{{ ASSET_PATH }}/js/news.js" type="text/javascript"></script>  
-    <script src="{{ ASSET_PATH }}/js/analysis.js" type="text/javascript"></script>       
+
+    <script src="{{ ASSET_PATH }}/js/company.js" type="text/javascript"></script>     
  
     <style type="text/css">
     #logo .site-title, #logo .site-description { display:block; }
@@ -66,9 +63,9 @@
     .bodycontent{
         margin: 8px 0 8px 40px;
         padding: 0px 0px 0px 0px;
-    }
-    
-    p
+        }
+        
+     p
         {
         padding: 2px;   
         }
@@ -126,19 +123,17 @@
 <div id="wrapper">
     
     <div id="header" class="col-full">
-        <div id="logo">
-            
-           <a href="" title=""><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/api-evangelist-logo-400.png"></a>
-
-        </div> 
+        <div id="logo"><a href="" title=""><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/api-evangelist-logo-400.png"></a></div> 
         
     </div>
     
     <div id="navigation" class="col-full">
 
         <ul id="main-nav" class="nav fl">
-            <li class="page_item current_page_item"><a href="/index.html" title="Home">Reciprocity Services</a></li>
-            <li class="page_item page-item-2"><a href="/about.html" title="About">About this Site</a></li>
+            <li class="{% if page.title == 'Realtime' %}page_item current_page_item{% else %}page_item page-item-2{% endif %}"><a href="/index.html" title="Home">Home</a></li>
+            <li class="{% if page.title == 'Realtime - News and Analysis' %}page_item current_page_item{% else %}page_item page-item-2{% endif %}"><a href="/blog.html" title="Home">News & Analysis</a></li>
+            <li class="{% if page.title == 'Companies' %}page_item current_page_item{% else %}page_item page-item-2{% endif %}"><a href="/companies.html" title="Home">Realtime Providers</a></li>
+            <li class="{% if page.title == 'About Realtime' %}page_item current_page_item{% else %}page_item page-item-2{% endif %}"><a href="/about.html" title="About">About this Site</a></li>
          </ul>
         
         <ul class="rss fr">
@@ -148,9 +143,8 @@
             </li>          
         </ul>
 
-    </div><!-- /#navigation -->
+    </div>
 
-    <!-- #content Starts -->
     <div id="content" class="col-full">
 
         <div id="main-sidebar-container">
@@ -169,45 +163,60 @@
 
             <div id="sidebar">
                 
-                <!--- Begin Partners --->
-                <script id="parterListingTemplate" type="text/template"> 
-                    {% raw  %}  
-                    <a href="{{url}}" target="_blank" title="{{title}}">
-                        <img src="{{logo}}" width="{{width}}" style="padding-bottom: {{paddingbottom}}px;" />
-                    </a>   
-                    {% endraw %}                                                                                                                    
-                </script>  
-                 
-                <script type="text/javascript">
-                    function listSponsors()
-                        {
-                        $.getJSON('/data/sponsors.json', function(data) {               
-                             $.each(data['sponsors'], function(key, val) {                  
-                                var template = $('#parterListingTemplate').html();
-                                var html = Mustache.to_html(template, val);
-                                $('#partnerListingContainer').append(html);
-                                });         
-                            });             
-                        }    
-                </script>
-                <div class="widget widget_recent_entries">      
+                {% if page.title == 'Realtime' %}
+    
+                {% else %}
+                    <div class="widget widget_recent_entries"> 
+                        <center>      
+                             <p style="font-size: 16px;"><strong>Realtime</strong></p>
+                            <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/real-time-2.jpg" width="175" />
+                        </center>
+                    </div>
+                {% endif %}
+                
+                 <div class="widget widget_recent_entries">  
+                     
+                    <!--- Begin Partners --->
+                    <script id="parterListingTemplate" type="text/template"> 
+                        {% raw  %}  
+                        <a href="{{url}}" target="_blank" title="{{title}}">
+                            <img src="{{logo}}" width="{{width}}" style="padding-bottom: {{paddingbottom}}px;" />
+                        </a>   
+                        {% endraw %}                                                                                                                    
+                    </script>  
+                     
+                    <script type="text/javascript">
+                        function listSponsors()
+                            {
+                            $.getJSON('/data/sponsors.json', function(data) {               
+                                 $.each(data['sponsors'], function(key, val) {                  
+                                    var template = $('#parterListingTemplate').html();
+                                    var html = Mustache.to_html(template, val);
+                                    $('#partnerListingContainer').append(html);
+                                    });         
+                                });             
+                            }    
+                    </script>
+               
                     <h3>Partner Sites</h3>
-                    <div id="partnerListingContainer" align="center"></div>
+                    <div id="partnerListingContainer" align="center"><br /><br /> </div>
+                    
+                    <script type="text/javascript">
+                        listSponsors();
+                    </script>                    
+                        
                 </div>  
-                <script type="text/javascript">
-                    listSponsors();
-                </script>
-                <!--- End Partners ---> 
-                 
+                <!--- End Partners --->              
+                        
                 <div class="widget widget_recent_entries">  
                 
-                <h3>Federal Government</h3>
-                <center>
-                    <a href="http://www.apievangelist.com/federal_government.php" target="_blank" style="font-size: 18px; color:#000;text-decoration: underline;">
-                        <img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Building-a-21st-century-platform-to-better-serve-the-american-people-1.png" width="150" />
-                    </a>
-                    <br />
-                </center>
+                    <h3>Federal Government</h3>
+                    <center>
+                        <a href="http://www.apievangelist.com/federal_government.php" target="_blank" style="font-size: 18px; color:#000;text-decoration: underline;">
+                            <img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Building-a-21st-century-platform-to-better-serve-the-american-people-1.png" width="150" />
+                        </a>
+                        <br />
+                    </center>
             
                 </div>
             
@@ -243,20 +252,20 @@
 
 </div><!-- /#wrapper -->                  
 
-    <script type="text/javascript">
-    
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-1119465-51']);
-      _gaq.push(['_setDomainName', 'apievangelist.com']);
-      _gaq.push(['_trackPageview']);
-    
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    
-    </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1119465-51']);
+  _gaq.push(['_setDomainName', 'apievangelist.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
         
         <script type="text/javascript">
     adroll_adv_id = "VMTWB5ED65CABO4U5ETVFP";
