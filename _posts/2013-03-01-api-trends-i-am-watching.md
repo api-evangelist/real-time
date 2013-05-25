@@ -1,11 +1,4 @@
----
-layout: post
-title: API Trends I Am Watching
-url: http://www.apievangelist.com/2013/03/01/api-trends-im-watching/
-source: http://www.apievangelist.com/2013/03/01/api-trends-im-watching/
-domain: www.apievangelist.com
----
-{% include JB/setup %}<p>Photo Credit: AVnet
+<p>Photo Credit: AVnet
 
 
 

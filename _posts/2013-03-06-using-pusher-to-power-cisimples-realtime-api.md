@@ -1,10 +1,3 @@
----
-layout: post
-title: Using Pusher to power cisimple’s real-time API
-url: http://blog.pusher.com/using-pusher-to-power-cisimples-real-time-api/
-source: http://blog.pusher.com/using-pusher-to-power-cisimples-real-time-api/
-domain: blog.pusher.com
----
-{% include JB/setup %}<p>Here at cisimple we’re really excited to be announcing the first release of our API.We’ve exposed functionality giving our users a new level of control over build processes for their mobile applications.It’s now possible to kick off new builds, download artifacts and more, all via API calls.One thing we’re doing a bit different from most API’s is that we’re allowing clients to register for real time updates via Pusher channels.We’ve had several folks ping us, interested in developing apps that respond to build activity (i.</p>
+<p>Here at cisimple we’re really excited to be announcing the first release of our API.We’ve exposed functionality giving our users a new level of control over build processes for their mobile applications.It’s now possible to kick off new builds, download artifacts and more, all via API calls.One thing we’re doing a bit different from most API’s is that we’re allowing clients to register for real time updates via Pusher channels.We’ve had several folks ping us, interested in developing apps that respond to build activity (i.</p>
 <center><p><a href="http://blog.pusher.com/using-pusher-to-power-cisimples-real-time-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

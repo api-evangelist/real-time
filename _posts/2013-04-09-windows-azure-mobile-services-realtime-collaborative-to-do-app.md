@@ -1,11 +1,4 @@
----
-layout: post
-title: Windows Azure Mobile Services Realtime Collaborative To Do App
-url: http://www.leggetter.co.uk/2013/04/09/windows-mobile-service-realtime-collaborative-todo.html
-source: http://www.leggetter.co.uk/2013/04/09/windows-mobile-service-realtime-collaborative-todo.html
-domain: www.leggetter.co.uk
----
-{% include JB/setup %}<p>Inspired by the first two talks at #stacked13 by Mike Taulty and then Maarten Balliauw I thought I’d get jump straight into Windows Azure Mobile Services and build an a realtime collaborative synchronised todo list.I’d do this based on the Get started with data in Mobile Services HTML guide.I would then and host it on a Windows Azure web site.Note: I want to publish this quite quickly so that people at the event can have a play.So, the rest of this post will be a bit of a brain dump and I’ll tidy it up later
+<p>Inspired by the first two talks at #stacked13 by Mike Taulty and then Maarten Balliauw I thought I’d get jump straight into Windows Azure Mobile Services and build an a realtime collaborative synchronised todo list.I’d do this based on the Get started with data in Mobile Services HTML guide.I would then and host it on a Windows Azure web site.Note: I want to publish this quite quickly so that people at the event can have a play.So, the rest of this post will be a bit of a brain dump and I’ll tidy it up later
   In Mike’s talk he mentioned that the mobile service JavaScript library has just been released.</p>
 <center><p><a href="http://www.leggetter.co.uk/2013/04/09/windows-mobile-service-realtime-collaborative-todo.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

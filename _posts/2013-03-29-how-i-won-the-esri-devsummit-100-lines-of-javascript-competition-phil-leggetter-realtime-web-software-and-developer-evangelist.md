@@ -1,10 +1,3 @@
----
-layout: post
-title: How I won the ESRI DevSummit 100 lines of JavaScript competition - Phil Leggetter - Real-Time Web Software and Developer Evangelist
-url: http://www.leggetter.co.uk/2013/03/29/how-i-won-the-esri-devsummit-100-lines-of-javascript-competition.html
-source: http://www.leggetter.co.uk/2013/03/29/how-i-won-the-esri-devsummit-100-lines-of-javascript-competition.html
-domain: www.leggetter.co.uk
----
-{% include JB/setup %}<p>First I’d like to emphasise that this is a blog post on how and not why.The why comes down to the judges.So, thanks Judges!Secondly I’d like to thank Rob Dunfey for the idea and for providing additional motivation – I’ll dig deeper into this later.Finally: what am I going to cover?</p>
+<p>First I’d like to emphasise that this is a blog post on how and not why.The why comes down to the judges.So, thanks Judges!Secondly I’d like to thank Rob Dunfey for the idea and for providing additional motivation – I’ll dig deeper into this later.Finally: what am I going to cover?</p>
 <center><p><a href="http://www.leggetter.co.uk/2013/03/29/how-i-won-the-esri-devsummit-100-lines-of-javascript-competition.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

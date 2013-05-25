@@ -1,10 +1,3 @@
----
-layout: post
-title: HopStop Launches Crowd-Sourced Transit Alerts Through HopStop Live!
-url: http://techcrunch.com/2013/04/08/hopstop-launches-crowd-sourced-transit-alerts-through-hopstop-live/
-source: http://techcrunch.com/2013/04/08/hopstop-launches-crowd-sourced-transit-alerts-through-hopstop-live/
-domain: techcrunch.com
----
-{% include JB/setup %}<p>Jordan Crook studied English Literature at New York University before entering the tech space.Prior to joining TechCrunch, Crook dabbled in mobile marketing and mobile apps as well as doing device reviews for MobileMarketer and MobileBurn.Crook is fascinated with alternative energy production and greentech.She is now a writer for CrunchGear.Hello								→ Learn More</p>
+<p>Jordan Crook studied English Literature at New York University before entering the tech space.Prior to joining TechCrunch, Crook dabbled in mobile marketing and mobile apps as well as doing device reviews for MobileMarketer and MobileBurn.Crook is fascinated with alternative energy production and greentech.She is now a writer for CrunchGear.Hello								→ Learn More</p>
 <center><p><a href="http://techcrunch.com/2013/04/08/hopstop-launches-crowd-sourced-transit-alerts-through-hopstop-live/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 
