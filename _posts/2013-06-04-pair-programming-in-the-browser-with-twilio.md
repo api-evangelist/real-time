@@ -1,0 +1,11 @@
+---
+layout: post
+title: Pair Programming in the Browser with Twilio
+url: http://www.twilio.com/blog/2013/06/pair-programming-in-the-browser-with-twilio.html
+source: http://www.twilio.com/blog/2013/06/pair-programming-in-the-browser-with-twilio.html
+domain: www.twilio.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9530_www_twilio_com.png
+---
+{% include JB/setup %}<p>The tools for creating real-time applications in the browser are getting better all the time.Running node.js on the server, in conjunction with libraries like socket.io, makes it ridiculously simple to facilitate server push and event-driven communication between clients.Combine this with Twilio Client for voice communication in the browser and you have an incredibly powerful platform for facilitating communication between users of your application.</p>
+<center><p><a href="http://www.twilio.com/blog/2013/06/pair-programming-in-the-browser-with-twilio.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title: Ditch Your Backend with PubNub Messenger
+url: http://www.pubnub.com/blog/ditch-your-backend-with-pubnub-messenger/
+source: http://www.pubnub.com/blog/ditch-your-backend-with-pubnub-messenger/
+domain: www.pubnub.com
+image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8820_www_pubnub_com.png
+---
+{% include JB/setup %}<p>Although ‘messaging’ has become increasingly popular among web applications, there have been issues with connectivity, a poor feature set, and compatibility with one platform.These are most likely due to the complexity of building a scalable backend that connects in real-time to multiple clients.I set out to fix this with PubNub Messenger.My task for this project was to create a well-featured and scalable chat application that runs on Android, iOS, and Desktop in a few weeks work.No big deal, right?</p>
+<center><p><a href="http://www.pubnub.com/blog/ditch-your-backend-with-pubnub-messenger/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
