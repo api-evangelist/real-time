@@ -1,3 +1,0 @@
-<p>XMPP always had a special place in our heart.It’s an amazing protocol which comes with presence, addressing, as well as PubSub baked in.It’s no surprise we’ve had an XMPP API since day 1 at Superfeedr.Now, though, XMPP scares a lot of people because of it’s X part: it uses XML as its data schema.Knowing that, Lloyd, an extremely talented web developer invented a very elegant solution for people to discover XMPP without dealing with the XML at all, thru XMPP for the Web (XMPP-FTW).</p>
-<center><p><a href="http://blog.superfeedr.com/easy-xmpp-ftw/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

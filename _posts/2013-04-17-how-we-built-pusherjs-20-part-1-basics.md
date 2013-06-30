@@ -1,3 +1,0 @@
-<p>Last month we released pusher-js 2.0  which represents a few months worth of development effort.So, we wanted to share some details about the work involved and the changes included in this latest release.As the release announcement states, our main goal with pusher-js 2.0 was to improve the connectivity, so in this blog post we’ll focus on explaining how the new client tries to establish the best possible connection.</p>
-<center><p><a href="http://blog.pusher.com/how-we-built-pusher20-part-1/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

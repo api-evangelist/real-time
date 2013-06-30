@@ -1,3 +1,0 @@
-<p>Nginx, the lightweight open-source web server, has added support for the WebSocket protocol as part of its 1.3.13 release.WebSockets are a major feature of the HTML5 specification, allowing persistent connections to be maintained between the server and client - particularly useful for online games and IRC clients.With the specification finalised, the WebSocket protocol is now supported by practically all web browsers, as well as Java servers GlassFish, Jetty and Tomcat.</p>
-<center><p><a href="http://jaxenter.com/nginx-switches-on-to-websockets-46260.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
