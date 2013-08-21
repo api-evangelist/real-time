@@ -1,11 +1,0 @@
----
-layout: post
-title: PubNub Expands Staff and Office
-url: http://www.pubnub.com/blog/im-chat-client-with-voice-recognition-in-the-browser/
-source: http://www.pubnub.com/blog/im-chat-client-with-voice-recognition-in-the-browser/
-domain: www.pubnub.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7818_www_pubnub_com.png
----
-{% include JB/setup %}<p>You can only fit so many desks in a given space before you have to start stacking them on top of each other.When looking to accommodate the rapidly growing PubNub team, stacking employees turned out to be unfeasible, so we needed another option.To give everyone a little more room to breathe, PubNub doubled our office space at the current location.The new section has quickly taken on the nickname “The PubNub Annex”.The increased elbow room is one perk of the new space, but the fastest Real-Time Network on earth needs some cool racing stripes too!</p>
-<center><p><a href="http://www.pubnub.com/blog/im-chat-client-with-voice-recognition-in-the-browser/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

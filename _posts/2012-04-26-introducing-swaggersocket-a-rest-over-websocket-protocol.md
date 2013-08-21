@@ -1,11 +1,0 @@
----
-layout: post
-title: Introducing SwaggerSocket: A REST over WebSocket Protocol
-url: http://blog.wordnik.com/introducing-swaggersocket-a-rest-over-websocket-protocol
-source: http://blog.wordnik.com/introducing-swaggersocket-a-rest-over-websocket-protocol
-domain: blog.wordnik.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>REST is a style of software architecture which is almost always delivered over HTTP. It powers most of the World Wide Web and has enabled the rapid construction of APIs–it has allowed developers to easily integrate many complex services with their applications. It has been truly transformational over the last 10 years.The problem is, HTTP is a chatty, synchronous communication protocol based entirely on “request/response”. That is, there is no easy way to open continuous communication between a client and a server.</p>
-<center><p><a href="http://blog.wordnik.com/introducing-swaggersocket-a-rest-over-websocket-protocol" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

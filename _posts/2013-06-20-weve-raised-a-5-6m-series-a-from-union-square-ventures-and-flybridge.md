@@ -1,11 +1,0 @@
----
-layout: post
-title: Weve raised a 5 6M Series A from Union Square Ventures and Flybridge
-url: https://www.firebase.com/blog/2013-06-20-firebase-series-a.html
-source: https://www.firebase.com/blog/2013-06-20-firebase-series-a.html
-domain: www.firebase.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/10276_www_firebase_com.png
----
-{% include JB/setup %}<p>Firebase exists to help developers build extraordinary experiences.Every day we’re inspired by the things you build, from video sharing services to business collaboration tools to disaster simulation software.This new investment lets us pursue this mission even faster, and it provides the solid financial footing we need to ensure we’ll be around in the long term.This raise would not have been possible without the amazing people on our team.Firebase would not be here if it weren’t for their dedication and truly excellent work.</p>
-<center><p><a href="https://www.firebase.com/blog/2013-06-20-firebase-series-a.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
