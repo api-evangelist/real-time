@@ -9,6 +9,8 @@ title: Real-Time APIs
 <p>We get push notifications our friends post new tweets or Facebook wall posts. Our news, stock and sports information streams to us in real-teim.</p>
 <p>With the Internet in our pockets, the opportunity for real-time interaction with what is important to us increases. We fill in the cracks of the day with pushes from each cloud service we connect with, and stay in tune with whats important with information flowing via APIs.</p>
 <p>Real-time approaches to deploying APIs involve technological approaches like PubSubHub, Websockets and Webhooks are can be as simple as an SMS or email sent when there is an update. There are several platforms focusing on the real-time world of APIs. in this section i will be tracking news and companies that are doing interesting things around API interoperability, while also sharing blog analysis I provide on API interoperability as well.</p>
+
+
 {% raw  %}
 <script id="companyListingTemplate" type="text/template">       
     <li style="list-style: none; padding: 30px; border: 0px solid #000;">
@@ -25,5 +27,19 @@ title: Real-Time APIs
 </div>  
 
 <script type="text/javascript">
+
+
+function listCompanies()
+    {
+    $.getJSON('data/companies.json', function(data) {
+        toggle = 0;
+         $.each(data['company'], function(key, val) {
+            var template = $('#companyListingTemplate').html();
+            var html = Mustache.to_html(template, val);
+            $('#companyListing').append(html);                          
+            });
+        });
+    }    
+    
 listCompanies();
 </script>
