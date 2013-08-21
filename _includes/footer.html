@@ -3,22 +3,18 @@
             </div><!-- /#main -->
 
             <div id="sidebar">
-
-                 <div class="widget widget_recent_entries">  
-                 <center>
-                    <table width="250" align="center">
-                    <tbody>
-                    <tr>
-                    <td align="center"><a href="http://bit.ly/1dpjfXB" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/whitepapers/api-deployment-pdf-cover-3.png" width="200" style="border: 0px solid #000;" /></a></td>
-                    </tr>
-                    <tr>
-                    <td align="center"><strong><a href="http://bit.ly/1dpjfXB" target="_blank">Download as PDF</a></strong></td>
-                    </tr>
-                    </tbody>
-                    </table>                     
-                 </center>
-                 </div>                        
                 
+                {% if page.title == 'Realtime' %}
+    
+                {% else %}
+                    <div class="widget widget_recent_entries"> 
+                        <center>      
+                             <p style="font-size: 16px;"><strong>Realtime</strong></p>
+                            <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/real-time-2.jpg" width="175" />
+                        </center>
+                    </div>
+                {% endif %}                
+
                  <div class="widget widget_recent_entries">  
                  
                      <p align="center"><a href="/network.html"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/network/API-Evangelist-Network.png" width="215" /></a></p>
