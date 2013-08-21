@@ -9,3 +9,21 @@ title: Real-Time APIs
 <p>We get push notifications our friends post new tweets or Facebook wall posts. Our news, stock and sports information streams to us in real-teim.</p>
 <p>With the Internet in our pockets, the opportunity for real-time interaction with what is important to us increases. We fill in the cracks of the day with pushes from each cloud service we connect with, and stay in tune with whats important with information flowing via APIs.</p>
 <p>Real-time approaches to deploying APIs involve technological approaches like PubSubHub, Websockets and Webhooks are can be as simple as an SMS or email sent when there is an update. There are several platforms focusing on the real-time world of APIs. in this section i will be tracking news and companies that are doing interesting things around API interoperability, while also sharing blog analysis I provide on API interoperability as well.</p>
+{% raw  %}
+<script id="companyListingTemplate" type="text/template">       
+    <li style="list-style: none; padding: 30px; border: 0px solid #000;">
+        <a href="companies-detail.html?id={{id}}"><img src="{{logo}}" width="200" align="left" style="padding: 15px;" /></a>
+        <a href="companies-detail.html?id={{id}}" style="color: #000;"><strong>{{name}}</strong></a> - {{summary}}... <a href="companies-detail.html?id={{id}}">details</a>.
+    </li>                                                                                               
+</script>
+{% endraw %}
+
+<p><a id="jsonlink" href="data/companies.json" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-json-data-store.png" align="right" width="50" style="padding-top: 10px;" /></a></p>
+<h1>Realtime Companies</h1>
+<div style="padding-left: 10px; padding-right: 10px; width:550px;">
+     <ul id="companyListing" style="padding-left: 30px;"></ul>
+</div>  
+
+<script type="text/javascript">
+listCompanies();
+</script>
