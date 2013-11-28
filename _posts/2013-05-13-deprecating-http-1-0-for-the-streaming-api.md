@@ -1,11 +1,0 @@
----
-layout: post
-title: Deprecating HTTP 1 0 for the Streaming API
-url: https://dev.twitter.com/blog/deprecating-http-1.0-streaming-api
-source: https://dev.twitter.com/blog/deprecating-http-1.0-streaming-api
-domain: dev.twitter.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/8715_dev_twitter_com.png
----
-{% include JB/setup %}<p>Engineers here at Twitter are always looking for ways to increase efficiency and simplify our codebase.To that end, were deprecating HTTP 1.0 support for all streaming API endpoints.While our streaming API continues to grow, this version of the protocol is rarely used.Also, its successor (HTTP 1.</p>
-<center><p><a href="https://dev.twitter.com/blog/deprecating-http-1.0-streaming-api" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
