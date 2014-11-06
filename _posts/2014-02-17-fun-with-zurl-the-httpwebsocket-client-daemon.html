@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'Fun with Zurl, the HTTP/WebSocket client daemon'
+url: http://blog.fanout.io/2014/02/18/fun-with-zurl-the-http-websocket-client-daemon/
+source: http://blog.fanout.io/2014/02/18/fun-with-zurl-the-http-websocket-client-daemon/
+domain: blog.fanout.io
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-fanout-io20140218fun-with-zurl-the-http-websocket-client-daemon.png
+---
+
+<p>Zurl is a gateway that converts between ZeroMQ messages and outbound HTTP requests or WebSocket connections.It gives you powerful access to these protocols from within a message-oriented architecture.The following diagram shows how Zurl may fit in among the entities involved:
+ 
+ Any number of workers can contact any number of HTTP or WebSocket servers, and Zurl will perform conversions to/from ZeroMQ messages as necessary.It uses libcurl under the hood.The format of the messages exchanged between workers and Zurl is described by the ZHTTP protocol.</p>
+

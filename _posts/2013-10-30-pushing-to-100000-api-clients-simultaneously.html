@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'Pushing to 100,000 API clients simultaneously'
+url: http://blog.fanout.io/2013/10/30/pushing-to-100000-api-clients-simultaneously/
+source: http://blog.fanout.io/2013/10/30/pushing-to-100000-api-clients-simultaneously/
+domain: blog.fanout.io
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-fanout-io20131030pushing-to-100000-api-clients-simultaneously.png
+---
+
+<p>Earlier this year we announced the open source Pushpin project, a server component that makes it easy to scale out realtime HTTP APIs.Just what kind of scale are we talking about though?To demonstrate, we put together some code that pushes a truckload of data through a cluster of Pushpin instances.Here’s the output of its dashboard after a successful run: 
+Before getting into the details of how we did this, let’s first establish some goals: 
+We want to scale an arbitrary realtime API.This API, from the perspective of a connecting client, shouldn’t need to be in any way specific to the components we are using to scale it.</p>
+
