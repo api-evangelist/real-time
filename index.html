@@ -3,30 +3,8 @@ layout: page
 title: Realtime APIs
 ---
 
-<h1>Realtime APIs</h1>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/real-time-2.jpg" width="250" align="right" style="padding: 15px;" /></p>
 <p>Technology has changed the pace of how markets operate, how we are informed of global events and outcomes of elections.  Realtime information has become default.</p>
 <p>We get push notifications our friends post new tweets or Facebook wall posts. Our news, stock and sports information streams to us in real-teim.</p>
 <p>With the Internet in our pockets, the opportunity for realtime interaction with what is important to us increases. We fill in the cracks of the day with pushes from each cloud service we connect with, and stay in tune with whats important with information flowing via APIs.</p>
 <p>Realtime approaches to deploying APIs involve technological approaches like PubSubHub, Websockets and Webhooks are can be as simple as an SMS or email sent when there is an update. There are several platforms focusing on the realtime world of APIs. in this section i will be tracking news and companies that are doing interesting things around API interoperability, while also sharing blog analysis I provide on API interoperability as well.</p>
-<hr />                
-   
-<h2>Updates</h2>            
-{% for post in site.posts limit:3 %}
-<div class="post">
-    
-    <p><a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}" style="color:#000;"><h4><strong>{{ post.title }}</strong></h4></a> (<i><strong><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }}</span></strong></i>)
-    <p><a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="175" align="left" style="padding: 15px;" /></a></p>
-    <p>{{ post.content | strip_html | truncatewords: 100 }}...<a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-weight: bold;">read more</a>.</p>
-    <br />
-    <hr />     
-   
-</div> 
-{% endfor %} 
-
-<!-- 3scale -->
-<p align="center">
-    <a href="http://bit.ly/13esk6Q" target="_blank" title="APIs From 3Scale">
-        <img src="https://s3.amazonaws.com/kinlane-productions/api-service-providers/3Scale/empowered-by-3scale.png" width="300" style="padding-bottom: 15px;" />
-    </a>        
-</p> 
