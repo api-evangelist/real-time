@@ -122,8 +122,8 @@
 	{
 		"id": "11790",
 		"name": "The Netty project",
-		"summary": false,
-		"details": "",
+		"summary": "Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients. Netty is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients. It greatly simplifies and streamlines network programming such as TCP and UDP socket server.",
+		"details": "Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients. Netty is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients. It greatly simplifies and streamlines network programming such as TCP and UDP socket server.",
 		"website": "http://netty.io/",
 		"twitter": "https://twitter.com/netty_project",
 		"github": "https://github.com/netty/",
@@ -137,8 +137,8 @@
 	{
 		"id": "1790",
 		"name": "Treaty",
-		"summary": false,
-		"details": "",
+		"summary": "Treaty is a realtime collaborative text editor that makes it easy to add document collaboration to your web application. A few simple lines of Javascript, and your customers will be able to collaborate on their work like never before! Best of all, your customers stay on your site and don't even need to know they're using a third-party application.",
+		"details": "Treaty is a realtime collaborative text editor that makes it easy to add document collaboration to your web application. A few simple lines of Javascript, and your customers will be able to collaborate on their work like never before! Best of all, your customers stay on your site and don't even need to know they're using a third-party application.",
 		"website": "https://treatytime.com/developers",
 		"twitter": "https://twitter.com/treatytime",
 		"github": "",
