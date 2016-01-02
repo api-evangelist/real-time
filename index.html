@@ -1,10 +1,114 @@
 ---
 layout: page
-title: Realtime APIs
+title: Real Time APIs
 ---
+<p style="font-size: 12px; padding:5px;">
+  <img src="{{ site.project_image }}" align="right" width="75" style="padding: 5px;" />
+  {{ site.project_summary }}
+</p>
 
-<p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/real-time-2.jpg" width="250" align="right" style="padding: 15px;" /></p>
-<p>Technology has changed the pace of how markets operate, how we are informed of global events and outcomes of elections.  Realtime information has become default.</p>
-<p>We get push notifications our friends post new tweets or Facebook wall posts. Our news, stock and sports information streams to us in real-teim.</p>
-<p>With the Internet in our pockets, the opportunity for realtime interaction with what is important to us increases. We fill in the cracks of the day with pushes from each cloud service we connect with, and stay in tune with whats important with information flowing via APIs.</p>
-<p>Realtime approaches to deploying APIs involve technological approaches like PubSubHub, Websockets and Webhooks are can be as simple as an SMS or email sent when there is an update. There are several platforms focusing on the realtime world of APIs. in this section i will be tracking news and companies that are doing interesting things around API interoperability, while also sharing blog analysis I provide on API interoperability as well.</p>
+<center><hr style="padding: 5px 5px 5px 5px; margin: 5px; width: 85%;" /></center>
+<div class="row" style="vertical-align: top;" align="center">
+
+  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+
+    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Top Links</strong></p>
+    <ul class="featurelist">
+      <li><a href="http://apis.how/hzp7kypxdw">Cloud Elements</a></li>
+      <li><a href="http://apis.how/1mae5yolg5">Zapier</a></li>
+    </ul>
+
+  </div>
+  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest News</strong><a href="/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
+    <ul class="newslist">
+      {% for post in site.posts limit:2 %}
+        <li><a href="{{ post.source }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+
+  </div>
+  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+
+    <script type="text/javascript">
+      $url = 'http://apievangelist.com/blog.xml';
+      var $listcount = 0;
+      $.get($url, function (data) {
+          $(data).find("item").each(function () {
+              var el = $(this);
+              $title = el.find("title").text();
+              $link = el.find("link").text();
+              if($listcount<2){
+                $listitem = '<li><a href="' + $link + '">' + $title + '</a></li>';
+                $('#rssNews').append($listitem);
+                }
+              $listcount++;
+          });
+      });
+    </script>
+    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest Analysis</strong><a href="http://apievangelist.com/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
+    <ul class="newslist" id="rssNews"></ul>
+
+  </div>
+</div>
+<center><hr style="padding: 5px; margin: 5px; width: 85%;" /></center>
+
+<div class="row" align="center" style="">
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
+
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="#"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-101.jpg" width="45" style="padding-right: 5px;" /><strong>&nbsp;&nbsp;Learn The Basics From This Research</strong></a></li>
+    </ul>
+
+  </div>
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
+
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="http://aggregation.apievangelist.com"><strong>Visit My Research On API Aggregation&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
+    </ul>
+
+  </div>
+
+</div>
+<div class="row" align="center" style="">
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
+
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-journey.png" width="25" style="padding-right: 5px;" /><strong>&nbsp;&nbsp;&nbsp;Take a Journey Through Research</strong></a></li>
+    </ul>
+
+  </div>
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
+
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="http://real-time.apievangelist.com"><strong>Visit My Research Around Real-Time APIs&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
+    </ul>
+
+  </div>
+
+</div>
+<div class="row" align="center" style="">
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
+
+    <!--
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="http://bit.ly/1ISZaev">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-pdf.png" width="22" style="padding-right: 5px;" /><strong>&nbsp;&nbsp;&nbsp;&nbsp;View the PDF of This Research</strong></a></li>
+    </ul>
+    -->
+
+  </div>
+
+  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
+
+    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
+      <li><a href="http://voice.apievangelist.com"><strong>Visit My Research On Voice and APIs&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
+    </ul>
+
+  </div>
+
+</div>
