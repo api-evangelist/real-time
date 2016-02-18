@@ -1,0 +1,94 @@
+---
+layout: page
+title: Organizations
+---
+
+<table width="100%" border="0" cellpadding="3" cellspacing="2">
+  {% for building_block_category_id in site.data.organizations %}
+  <tr>
+    <td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+      <h2>Onboarding</h2>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">
+      <ul>
+        <li><strong>Portal</strong> - A simple, easily accessible portal for engaging with API consumers, providing a single point of entry for all API engagements.</li>
+        <li><strong>Getting Started</strong> - Laying out simple, clear steps for developers on how to register, authenticate, access documentation and code samples, and get support and any other details that are essential to integration.</li>
+        <li><strong>Self-Service Registration</strong> - Providing a self-service registration for a developer portal, allowing developers to signup and get access to an API, 24 hours a day, 7 days a week.</li>
+        <li><strong>Best Practices</strong> - Publishing of a plain english introduction to the best practices around integrating with an API, providing introductory lesson for developers of how to properly integrate with an API.</li>
+        <li><strong>FAQ</strong> - Providing developers a list of the common questions asked of an API platform, with simple answers to each question, allowing them to understand the common problems faced during onboarding.</li>
+        <li><strong>Service Accord</strong> - Service level agreements (SLA) provide a legal framework managing the relationships between API consumers, and service accords provide a plain english explanation of what they expect from a provider, without the legaleze, in a format they can understand without calling the lawyers.</li>
+        <li><strong>Sign Up Email</strong> - Providing a simple, informative, personal email immediately upon signup, letting developers know what they need to onboard.</li>
+        <li><strong>Google Authentication</strong> - Allowing developers to create their API account using their Google account, and allowing the to login in the future using their Google oAuth.</li>
+        <li><strong>Github Authentication</strong> - Allowing developers to create their API account using their Github account, and allowing the to login in the future using their Github oAuth.</li>
+        <li><strong>Facebook Authentication</strong> - Allowing developers to create their API account using their Facebook account, and allowing the to login in the future using their Facebook credentials.</li>
+        <li><strong>Flexible Messaging Area</strong> - Provide a simple, flexible messaging area on the top or bottom of login or signup, providing consumers with simple updates about platform operations.</li>
+      </ul>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td align="left" width="80%" style="border-top: 1px solid #CCC; padding-top:18px;">
+      <a href="{{ org.website }}"><img src="{{ org.logo }}" width="{{ org.logo_width }}" align="left" style="padding: 15px;" /></a>
+      <a href="{{ org.website }}" style="color: #000;"><strong>{{ org.name }}</strong></a>
+      {{ org.details }}
+    </td>
+    <td width="50" align="center" style="border-top: 1px solid #CCC;">
+      <a href="{{ org.website }}" target="_blank" title="Website">
+        <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="28" align="center" />
+    </a>
+    </td>
+    <td width="50" align="center">
+      {% if org.portal_url != empty %}
+        <a href="{{ org.portal_url }}" target="_blank" title="Portal">
+          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-portal-developers.jpg" width="23" align="center" />
+        </a>
+      {% endif %}
+    </td>
+    <td width="50" align="center">
+      {% if org.blog != empty %}
+        <a href="{{ org.blog }}" target="_blank" title="Blog">
+          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png" width="18" align="center" />
+        </a>
+      {% endif %}
+    </td>
+    <td width="50" align="center">
+      {% if org.blogrss != empty %}
+        <a href="{{ org.blogrss }}" target="_blank" title="Blog RSS">
+          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="18" align="center" />
+        </a>
+      {% endif %}
+    </td>
+    <td width="50" align="center">
+      {% if org.twitter != empty %}
+        <a href="{{ org.twitter }}" target="_blank" title="Twitter">
+          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png" width="23" align="center" />
+        </a>
+      {% endif %}
+    </td>
+    <td width="50" align="center">
+      {% if org.github != empty %}
+        <a href="{{ org.github }}" target="_blank" title="Github">
+          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github-icon.png" width="25" align="center" />
+        </a>
+      {% endif %}
+    </td>
+    <td width="50" align="center">
+      {% if org.apisjson_url != empty %}
+        <a href="{{ org.apisjson_url }}" target="_blank" title="APIs.json">
+          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png" width="25" align="center" />
+        </a>
+      {% endif %}
+    </td>
+    <td width="50" align="center">
+      {% if org.sdksio_url != empty %}
+        <a href="{{ org.sdksio_url }}" target="_blank" title="SDKs.io">
+          <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/sdks-io/sdks-io-icon.png" width="25" align="center" />
+        </a>
+      {% endif %}
+    </td>
+  </tr>
+  {% endfor %}
+</table>
