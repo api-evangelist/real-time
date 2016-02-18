@@ -1,4 +1,13 @@
 ---
 layout: page
-title: Organizations
+title: Building Blocks
 ---
+<table width="100%" border="0" cellpadding="3" cellspacing="2">
+  {% for category in site.data.buildingblocks %}
+  <tr>
+    <td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+      <h2>{{ category.category_name }}</h2>
+    </td>
+  </tr>
+  {% endfor %}
+</table>
