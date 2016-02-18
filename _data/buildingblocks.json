@@ -1,0 +1,1531 @@
+[
+	{
+		"category_name": "Technology",
+		"building_blocks": [
+			{
+				"building_block_id": "Mk2naNk1hGSVIA123nsf123UchW1CDsi123cTQ4vY0qW7ASlQ117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "Simple (or Streaming) Text Orientated Messaging Protocol (STOMP)",
+				"about": "STOMP is the Simple (or Streaming) Text Orientated Messaging Protocol. STOMP provides an interoperable wire format so that STOMP clients can communicate with any STOMP message broker to provide easy and widespread messaging interoperability among many languages, platforms and brokers.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://stomp.github.io/",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "blArdNk6tAK3OwKTi2SuWRm116jUNP8RorU81238hZOEOIo117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "Advanced Message Queuing Protocol (AMQP)",
+				"about": "The Advanced Message Queuing Protocol (AMQP) is an open standard for passing business messages between applications or organizations.  It connects systems, feeds business processes with the information they need and reliably transmits onward the instructions that achieve their goals. ",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://www.amqp.org",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "0DslYD123wsCdq334IDa2blPfhunRtrHpij1237BUZHNw3s117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "MQTT",
+				"about": "MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport. It is useful for connections with remote locations where a small code footprint is required and/or network bandwidth is at a premium.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "http://mqtt.org/",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "mgP4Amd4H116mB123MckbmUpOZxp4dXyjMTwKDWbXoTmGM0117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "RSS",
+				"about": "RSS (Rich Site Summary; originally RDF Site Summary; often called Really Simple Syndication) uses a family of standard web feed formats to publish frequently updated information: blog entries, news headlines, audio, video. An RSS document (called "feed", "web feed", or "channel") includes full or summarized text, and metadata, like publishing date and author's name.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/RSS",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Dn116cQKtOp9l2sgcdw0JEohYw4gJg8E0Z7yOC123PfLzJE117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "Atom",
+				"about": "The name Atom applies to a pair of related Web standards. The Atom Syndication Format is an XML language used for web feeds, while the Atom Publishing Protocol (AtomPub or APP) is a simple HTTP-based protocol for creating and updating web resources.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/Atom_(standard)",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "v5aKSDlh1169YROKXS6PsnNPbnd5rtB116pcNmlHKawqn4A117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "JSON",
+				"about": "JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. ",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "http://www.json.org/",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Mg7116GP0GyiINUDaMAEgXEi116TfROdHAdgD4116w9ukpt5E117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "OpenWire",
+				"about": "OpenWire is our cross language Wire Protocol to allow native access to ActiveMQ from a number of different languages and platforms. The Java OpenWire transport is the default transport in ActiveMQ 4.x or later.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "http://activemq.apache.org/openwire.html",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "RW9xWf0qwgxijC8nBfPp2xIFuIol123DYEhOL116jCPgHAE117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "Webhooks",
+				"about": "A webhook in web development is a method of augmenting or altering the behavior of a web page, or web application, with custom callbacks. These callbacks may be maintained, modified, and managed by third-party users and developers who may not necessarily be affiliated with the originating website or application. ",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/Webhook",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "O8or7CPMzu6Nk8FiYe123iAp3aFH8123NnpqtkZwnVVFB5c117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "Websockets",
+				"about": "WebSocket is a protocol providing full-duplex communication channels over a single TCP connection. The WebSocket protocol was standardized by the IETF as RFC 6455 in 2011, and the WebSocket API in Web IDL is being standardized by the W3C.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/WebSocket",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "116lMteIDL7fjT3nfBkXyb2zsJYAgtNZw78V6r2BMWReQ117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "Extensible Messaging and Presence Protocol (XMPP)",
+				"about": "XMPP is the Extensible Messaging and Presence Protocol, a set of open technologies for instant messaging, presence, multi-party chat, voice and video calls, collaboration, lightweight middleware, content syndication, and generalized routing of XML data.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "http://xmpp.org/",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "lOjkXZ5e2vityEPaoUoB6oqAm116iovC123PH2OPa6Nc8fQ117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "SockJS",
+				"about": "SockJS is a browser JavaScript library that provides a WebSocket-like object. SockJS gives you a coherent, cross-browser, Javascript API which creates a low latency, full duplex, cross-domain communication channel between the browser and the web server.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://github.com/sockjs/sockjs-client",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Dz9pg9IRVF9c42vFUWk123szIw6BUbgJav9X0fw4GHpgA117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "PubSubHubbub",
+				"about": "PubSubHubbub is an open protocol for distributed publish/subscribe communication on the Internet. Initially designed to extend the Atom (and RSS) protocols for data feeds, the protocol can be applied to any data type (e.g. HTML, text, pictures, audio, video) as long as it is accessible via HTTP. Its main purpose is to provide real-time notifications of changes, which improves upon the typical situation where a client periodically polls the feed server at some arbitrary interval. In this way, PubSubHubbub provides pushed HTTP notifications without requiring clients to spend resources on polling for changes.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/PubSubHubbub",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "nHEJxEjJ1jROI61236BpAA8slA85kA9UGMWmblZ6PJbiU117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "Protocol Buffers",
+				"about": "Protocol buffers are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data u2013 think XML, but smaller, faster, and simpler. You define how you want your data to be structured once, then you can use special generated source code to easily write and read your structured data to and from a variety of data streams and using a variety of languages.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://developers.google.com/protocol-buffers/",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "VX0yZnuwHk116NEmo32k4r7RwyzLn6O7Eduh116fkZkks9w117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "Real Time Streaming Protocol (RTSP)",
+				"about": "The Real Time Streaming Protocol (RTSP) is a network control protocol designed for use in entertainment and communications systems to control streaming media servers. The protocol is used for establishing and controlling media sessions between end points. Clients of media servers issue VCR-style commands, such as play and pause, to facilitate real-time control of playback of media files from the server.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "whYGVonHCFmeDu0zOOj116a5k6LCUNDC9hBDUy9H79f6w117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "Hypertext Transfer Protocol (HTTP)",
+				"about": "The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems.[1] HTTP is the foundation of data communication for the World Wide Web.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Rg116QvqDpRCJ6E9Szm9OnfpJor5iRFx5gEPCK0sOxoW4117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "Transmission Control Protocol (TCP)",
+				"about": "The Transmission Control Protocol (TCP) is a core protocol of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol (IP). Therefore, the entire suite is commonly referred to as TCP/IP. TCP provides reliable, ordered, and error-checked delivery of a stream of octets between applications running on hosts communicating over an IP network. ",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/Transmission_Control_Protocol",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "UxJAQuo6AQ9Mh123116VDCvavm116e4DB116AryxkpeBLHGrTCc117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "User Datagram Protocol (UDP)",
+				"about": "The User Datagram Protocol (UDP) is one of the core members of the Internet protocol suite. The protocol was designed by David P. Reed in 1980 and formally defined in RFC 768. UDP uses a simple connectionless transmission model with a minimum of protocol mechanism. It has no handshaking dialogues, and thus exposes the user's program to any unreliability of the underlying network protocol. There is no guarantee of delivery, ordering, or duplicate protection. UDP provides checksums for data integrity, and port numbers for addressing different functions at the source and destination of the datagram.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/User_Datagram_Protocol",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "smKhUgqARCsCMHCubndOaKoQldWFr4FIuVBcgVe0ZyU117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "FTP",
+				"about": "The File Transfer Protocol (FTP) is a standard network protocol used to transfer computer files between a client and server on a computer network. FTP is built on a client-server model architecture and uses separate control and data connections between the client and the server.[1] FTP users may authenticate themselves with a clear-text sign-in protocol, normally in the form of a username and password, but can connect anonymously if the server is configured to allow it. ",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/File_Transfer_Protocol",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "ebVDHEhftZWoUDXwqOsR9HNVqfM4aDog116fGIV6izRvI117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "Simple Mail Transfer Protocol (SMTP)",
+				"about": "Simple Mail Transfer Protocol (SMTP) is an Internet standard for electronic mail (email) transmission. First defined by RFC 821 in 1982, it was last updated in 2008 with the Extended SMTP additions by RFC 5321u2014which is the protocol in widespread use today. SMTP by default uses TCP port 25.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Rb3EOLAl116nfBwU5gNc2hef116VtFmKtNPN71ABQRA2VdE117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "Server-Sent Events",
+				"about": "Server-sent events (SSE) is a technology where a browser receives automatic updates from a server via HTTP connection. The Server-Sent Events EventSource API is standardized as part of HTML5 by the W3C.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/Server-sent_events",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "tdsd7UYInxzMfw4zY0E03ib6exnR0123Xj3ALU2gvi1rI117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "HTTP Live Streaming (HLS)",
+				"about": "HTTP Live Streaming (also known as HLS) is an HTTP-based media streaming communications protocol implemented by Apple Inc. as part of its QuickTime, Safari, OS X, and iOS software.",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/HTTP_Live_Streaming",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "U0loOLiqTpbojHTnJ5DGElrVIL1hlWF2SyAfOzpJaK4117",
+				"building_block_category_id": "ZZW4RhQ1gd5lmLv1yQ4VA3J9Wf8Hch123vWkEMGwEyn1230117",
+				"name": "HTTP Long Polling",
+				"about": "HTTP long polling, where the client polls the server requesting new information.  The server holds the request open until new data is available. Once available, the server responds and sends the new information. When the client receives the new information, it immediately sends another request, and the operation is repeated. This effectively emulates a server push feature. ",
+				"category_id": "277",
+				"category": "Technology",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://www.pubnub.com/blog/2014-12-01-http-long-polling/",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Features",
+		"building_blocks": [
+			{
+				"building_block_id": "DqZrCEHxcvZVPgT1160HXJixoiNgOy116S8qSi6LpsaUfII117",
+				"building_block_category_id": "YK0Khb9a7GO452TaviEh4cOQKuArzF448AuACpJvxMQ117",
+				"name": "Presence",
+				"about": "Presence provides information on when a user has joined or left a channel, who, and how many, users are subscribed to a particular channel, which channel(s) an individual user is subscribed to associated state information for these users, which may include latitude / longitude, typing status, and more.",
+				"category_id": "278",
+				"category": "Features",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://www.pubnub.com/docs/web-javascript/presence",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "HtIPSjjmwrzUPblHnKpUzo9yJ1rvepLU9X116HueU0w3s117",
+				"building_block_category_id": "YK0Khb9a7GO452TaviEh4cOQKuArzF448AuACpJvxMQ117",
+				"name": "Push Notifications",
+				"about": "Push notifications let your application notify a user of new messages or events even when the user is not actively using your application. On Android devices, when a device receives a push notification, your application's icon and a message appear in the status bar.",
+				"category_id": "278",
+				"category": "Features",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://parse.com/tutorials/android-push-notifications",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "yVHfclNYUEFGivSryAhyl7o123116lUeeuZ1y7PT8K3lcKM117",
+				"building_block_category_id": "YK0Khb9a7GO452TaviEh4cOQKuArzF448AuACpJvxMQ117",
+				"name": "Messaging",
+				"about": "Approaches to enabling messaging for users from custom formats, to SMTP, XMPP chat, and any other way of sending messages back and forth between clients.",
+				"category_id": "278",
+				"category": "Features",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "116kfBvL6BZNUk306Pq116VLpXPx3TajKtLbmuL0llTUpIQ117",
+				"building_block_category_id": "YK0Khb9a7GO452TaviEh4cOQKuArzF448AuACpJvxMQ117",
+				"name": "Chat",
+				"about": "Providing a always on experience when messaging, establishing presence awareness of each user that is part of a conversation.",
+				"category_id": "278",
+				"category": "Features",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "AZh116CVThHKWT1116mprNhGd1167kVTkM33ZSa9ZtoU8A48o117",
+				"building_block_category_id": "YK0Khb9a7GO452TaviEh4cOQKuArzF448AuACpJvxMQ117",
+				"name": "Groups",
+				"about": "Allow users and applications to be put into lists, allowing real time features to participants of these groups.",
+				"category_id": "278",
+				"category": "Features",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "7v1NIiQCQ1234wDrSmA4MOnGBbEW9UoKzpp16LIqEZNns117",
+				"building_block_category_id": "YK0Khb9a7GO452TaviEh4cOQKuArzF448AuACpJvxMQ117",
+				"name": "Search",
+				"about": "Providing search features, allowing the real time search of users, messages, and other data or content.",
+				"category_id": "278",
+				"category": "Features",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "o116agKdXLuwmN15JiKfhhzPsdgOSLT1PhEg6yy4wDWVo117",
+				"building_block_category_id": "YK0Khb9a7GO452TaviEh4cOQKuArzF448AuACpJvxMQ117",
+				"name": "Scheduling",
+				"about": "Offering the ability to schedule messages, jobs, and other events, and allow triggering of them on defined schedules.",
+				"category_id": "278",
+				"category": "Features",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "87JlUIWQmMSHSiIHwZ9P5Zkeg215HB7naZzEJuIUjTA117",
+				"building_block_category_id": "YK0Khb9a7GO452TaviEh4cOQKuArzF448AuACpJvxMQ117",
+				"name": "Multi-Lingual",
+				"about": "Providing default multi-lingual support, either natively or through real time translation.",
+				"category_id": "278",
+				"category": "Features",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "1TgzKVRW8HE0AX6bs1mwOFAmSFPUeMMoK0NfbKHf123VY117",
+				"building_block_category_id": "YK0Khb9a7GO452TaviEh4cOQKuArzF448AuACpJvxMQ117",
+				"name": "Offline",
+				"about": "Provide graceful degradation of services when their is no network connection, allowing for seamless on and offline transitions.",
+				"category_id": "278",
+				"category": "Features",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Authentication",
+		"building_blocks": [
+			{
+				"building_block_id": "3kBKgJZIrrRtwLmuSVz3ATMvXHTK6ZKYl4Pb123NQ116OU8117",
+				"building_block_category_id": "IqJ78MtLHvnMi2lDTo6Pz3AFt1231S116pr2N4XqH75izvI117",
+				"name": "Java Authentication and Authorization Service (JaaS)",
+				"about": "Java Authentication and Authorization Service, or JAAS, pronounced "Jazz", is the Java implementation of the standard Pluggable Authentication Module (PAM) information security framework. JAAS was introduced as an extension library to the Java Platform, Standard Edition 1.3 and was integrated in version 1.4.",
+				"category_id": "279",
+				"category": "Authentication",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/Java_Authentication_and_Authorization_Service",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "54g1G6C18iACin123u7sqtN58g7hsV5lyyZ13ehh9ncbk117",
+				"building_block_category_id": "IqJ78MtLHvnMi2lDTo6Pz3AFt1231S116pr2N4XqH75izvI117",
+				"name": "ACL-Based Authorization",
+				"about": "An access control list (ACL), with respect to a computer file system, is a list of permissions attached to an object. An ACL specifies which users or system processes are granted access to objects, as well as what operations are allowed on given objects.[1] Each entry in a typical ACL specifies a subject and an operation. For instance, if a file object has an ACL that contains (Alice: read,write; Bob: read), this would give Alice permission to read and write the file and Bob to only read it.",
+				"category_id": "279",
+				"category": "Authentication",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/Access_control_list",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Security",
+		"building_blocks": [
+			{
+				"building_block_id": "TTlEAW2nEs1VohQ1230B0jg2G8nWqAy3Kl3b8aW0TJncY117",
+				"building_block_category_id": "1wrOFWK123V98kxA4t8SfM123m123MZjUXkJx2OR3X116bIu7JY117",
+				"name": "Transport Layer Security (TLS) & Secure Sockets Layer (SSL)",
+				"about": "Transport Layer Security (TLS) and its predecessor, Secure Sockets Layer (SSL), both of which are frequently referred to as 'SSL', are cryptographic protocols designed to provide communications security over a computer network.",
+				"category_id": "280",
+				"category": "Security",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "x6KmTFtetTP123mJgSuvU9hncQTd116YVtQDcEZ116G4OQdRA117",
+				"building_block_category_id": "1wrOFWK123V98kxA4t8SfM123m123MZjUXkJx2OR3X116bIu7JY117",
+				"name": "Security Rules Language",
+				"about": "Firebase provides a flexible, expression-based rules language with JavaScript-like syntax to easily define how your data should be structured and when your data can be read from and written to. Combined with our login service which allows for easy authentication, you can define who has access to what data and keep all of your user's personal information secure. The Security and Firebase Rules live on the Firebase servers and are automatically enforced at all times.",
+				"category_id": "280",
+				"category": "Security",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://www.firebase.com/docs/security/quickstart.html",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Management",
+		"building_blocks": [
+			{
+				"building_block_id": "XxY25WM3pDZNXfrgCYKUx9GWAWMbMAVSR8sausty150117",
+				"building_block_category_id": "BU1160DcROd8DT1EPGHsyz2Ws63jJ5116mkMWxbNOj7116ab0117",
+				"name": "Analytics",
+				"about": "Providing analytics on all activity via account(s), allowing users to review their usage in a visual way.",
+				"category_id": "281",
+				"category": "Management",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "GSygTITrhB0KGg72Srlm7ce116SyQVqTiuO123eKNm1LlKk117",
+				"building_block_category_id": "BU1160DcROd8DT1EPGHsyz2Ws63jJ5116mkMWxbNOj7116ab0117",
+				"name": "Deep Linking",
+				"about": "Deep linking is the use of a hyperlink that links to a specific, generally searchable or indexed, piece of web content on a website.",
+				"category_id": "281",
+				"category": "Management",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "0B1lVt8TQo2U123gGKOYaBMp0zp5MTC0r7DgyMjwrzfoo117",
+				"building_block_category_id": "BU1160DcROd8DT1EPGHsyz2Ws63jJ5116mkMWxbNOj7116ab0117",
+				"name": "Logging",
+				"about": "Allow the logging of all activity that occurs, and access by end users and developers.",
+				"category_id": "281",
+				"category": "Management",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Rxom0TaX0IhLRsnLjQzOKnPtst77s40lhgh3inkIr6o117",
+				"building_block_category_id": "BU1160DcROd8DT1EPGHsyz2Ws63jJ5116mkMWxbNOj7116ab0117",
+				"name": "Rate Limiting",
+				"about": "Provide tools for controlling the rate limits of activities on a platform, via a number of different mechanisms.",
+				"category_id": "281",
+				"category": "Management",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "788116ci1IH2CljWu1163KsxbzMX48Q3pml9MZwUqOLYNSw117",
+				"building_block_category_id": "BU1160DcROd8DT1EPGHsyz2Ws63jJ5116mkMWxbNOj7116ab0117",
+				"name": "Debugging",
+				"about": "Offering debugging tools to assist developers when they are building applications using real time technology.",
+				"category_id": "281",
+				"category": "Management",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Geo",
+		"building_blocks": [
+			{
+				"building_block_id": "kOJPFNVqhj0aLGGAbaGKUpB116MVrnPxf11Sy0W491I8M117",
+				"building_block_category_id": "cED116irASOP5GECR7thw23n0Oy5q7116CSuqsZBveU2A48117",
+				"name": "Geofencing",
+				"about": "A geofence is a virtual barrier. Programs that incorporate geo-fencing allow an administrator to set up triggers so when a device enters (or exits) the boundaries defined by the administrator, a text message or email alert is sent.",
+				"category_id": "282",
+				"category": "Geo",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "123Jkp5X2SQpBPw6rxzURqfht8EO0KvkNowg25nvSWrbQ117",
+				"building_block_category_id": "cED116irASOP5GECR7thw23n0Oy5q7116CSuqsZBveU2A48117",
+				"name": "GeoLocation",
+				"about": "Geolocation is the identification of the real-world geographic location of an object, such as a radar source, mobile phone or Internet-connected computer terminal. Geolocation may refer to the practice of assessing the location, or to the actual assessed location.",
+				"category_id": "282",
+				"category": "Geo",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/Geolocation",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "1ItdFpJ8mxzUH26WOP2kejjqfi4dp4nUvFg2KDcUaGI117",
+				"building_block_category_id": "cED116irASOP5GECR7thw23n0Oy5q7116CSuqsZBveU2A48117",
+				"name": "Beacon",
+				"about": "A beacon is an intentionally conspicuous device designed to attract attention to a specific location. Beacons can also be combined with semaphoric or other indicators to provide important information, such as the status of an airport, by the color and rotational pattern of its airport beacon, or of pending weather as indicated on a weather beacon mounted at the top of a tall building or similar site. When used in such fashion, beacons can be considered a form of optical telegraphy.",
+				"category_id": "282",
+				"category": "Geo",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "Architecture",
+		"building_blocks": [
+			{
+				"building_block_id": "2G80d1gGnEPJc7V365kzAmeSINQDvE6cf3dwgZe756A117",
+				"building_block_category_id": "pXmlHmbMOX7w123ihXLZ123usaRWTVP3Wmkb1AY116RY4JCao117",
+				"name": "Proxy",
+				"about": "A proxy server is a server (a computer system or an application) that acts as an intermediary for requests from clients seeking resources from other servers.",
+				"category_id": "283",
+				"category": "Architecture",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Website",
+						"url": "https://en.wikipedia.org/wiki/Proxy_server",
+						"text": null
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "bEQTbKrok6116evqIBE6DJevw2DBOaCMHiXyVM9wlmS6E117",
+				"building_block_category_id": "pXmlHmbMOX7w123ihXLZ123usaRWTVP3Wmkb1AY116RY4JCao117",
+				"name": "Compute",
+				"about": "Providing cloud compute infrastructure to accompany and support real time technology.",
+				"category_id": "283",
+				"category": "Architecture",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "fnhId0zEQds76moYMvLgK123qt60kQaqpK7HrTik5ZanQ117",
+				"building_block_category_id": "pXmlHmbMOX7w123ihXLZ123usaRWTVP3Wmkb1AY116RY4JCao117",
+				"name": "Containers",
+				"about": "Providing container virtualization infrastructure to accompany and support real time technology.",
+				"category_id": "283",
+				"category": "Architecture",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "lMg2KObv116ROdRzE6HwYsxUAVoYUIRx802Z9PfNl9rY0117",
+				"building_block_category_id": "pXmlHmbMOX7w123ihXLZ123usaRWTVP3Wmkb1AY116RY4JCao117",
+				"name": "Database",
+				"about": "Providing database infrastructure to accompany and support real time technology.",
+				"category_id": "283",
+				"category": "Architecture",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "pvkxwS9aw116iwcZzTVGpqNZGBs0OwWfBZj123OaIYm116HDI117",
+				"building_block_category_id": "pXmlHmbMOX7w123ihXLZ123usaRWTVP3Wmkb1AY116RY4JCao117",
+				"name": "Storage",
+				"about": "Providing cloud storage infrastructure to accompany and support real time technology.",
+				"category_id": "283",
+				"category": "Architecture",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "pCd66w2PLDPyqU2k123w7F116DKiXYDIE68a7z9ygHyX116YU117",
+				"building_block_category_id": "pXmlHmbMOX7w123ihXLZ123usaRWTVP3Wmkb1AY116RY4JCao117",
+				"name": "Content Delivery Network (CDN)",
+				"about": "Providing content deliver network (CDN) infrastructure to accompany and support real time technology.",
+				"category_id": "283",
+				"category": "Architecture",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "jQFPQxh9ILtRwlDj9ZMJJUhQ5zwE8LnKEnuXOi2rkZ8117",
+				"building_block_category_id": "pXmlHmbMOX7w123ihXLZ123usaRWTVP3Wmkb1AY116RY4JCao117",
+				"name": "Caching",
+				"about": "Providing caching infrastructure to accompany and support real time technology.",
+				"category_id": "283",
+				"category": "Architecture",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "r123KVjc1239AZQ7tbAZD123123lcLdZJXEiCqVUSj1231vyOxvbk117",
+				"building_block_category_id": "pXmlHmbMOX7w123ihXLZ123usaRWTVP3Wmkb1AY116RY4JCao117",
+				"name": "Compression",
+				"about": "Providing request and response compression infrastructure to accompany and support real time technology.",
+				"category_id": "283",
+				"category": "Architecture",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "dpN1232GU6LtYttIKulMYaEEN123lyRWpzD4G35CQuXXSNw117",
+				"building_block_category_id": "pXmlHmbMOX7w123ihXLZ123usaRWTVP3Wmkb1AY116RY4JCao117",
+				"name": "Open Source",
+				"about": "Providing open source tooling to accompany and support real time technology.",
+				"category_id": "283",
+				"category": "Architecture",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "5oY9IiOE7Ew1Nd7123dtNsR1231lqN123P0rlNNyv0wmulJVE117",
+				"building_block_category_id": "pXmlHmbMOX7w123ihXLZ123usaRWTVP3Wmkb1AY116RY4JCao117",
+				"name": "DNS",
+				"about": "Providing DNS infrastructure to accompany and support real time technology.",
+				"category_id": "283",
+				"category": "Architecture",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	},
+	{
+		"category_name": "SDK",
+		"building_blocks": [
+			{
+				"building_block_id": "cJd2V7jpQUj0v9Utd116GKBiwHIr2dWEbQTiyZWszXpU0117",
+				"building_block_category_id": "Otaw5Iv116d116Iv7wXze6uQuUmwEdtoZPJpqSjrQmlEuD0117",
+				"name": "Android",
+				"about": "Providing an Android SDK for mobile developers to put to use.",
+				"category_id": "284",
+				"category": "SDK",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "3n116usLeQB6qNr116UP6w7rk1E4Esu0SuPK2kwCss3epWQ117",
+				"building_block_category_id": "Otaw5Iv116d116Iv7wXze6uQuUmwEdtoZPJpqSjrQmlEuD0117",
+				"name": "IOS",
+				"about": "Providing an IOS SDK for mobile developers to put to use.",
+				"category_id": "284",
+				"category": "SDK",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "7BvDY0KjCfv116QAYbfxnSl1DggRtCNUCS5tf55CQYJVk117",
+				"building_block_category_id": "Otaw5Iv116d116Iv7wXze6uQuUmwEdtoZPJpqSjrQmlEuD0117",
+				"name": "JavaScript",
+				"about": "Providing a JavaScript SDK for mobile developers to put to use.",
+				"category_id": "284",
+				"category": "SDK",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "0",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
+	}
+]
