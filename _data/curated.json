@@ -1,0 +1,938 @@
+[
+	{
+		"curated_id": "EWFINr5wqdCBBjk0ofhNzEO9zuGdgqV123ChFkagOjD0760IhGq4ldc8cmmkmUY9nTWo487UhTORGQLxth5xMNsg117117",
+		"item_date": "2016-09-02 00:00:00",
+		"title": "Audit Trail Dashboard with CloudBees Jenkins Analytics",
+		"url": "https://dzone.com/articles/audit-trail-dashboard-with-cloudbees-jenkins-analy-1?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mZFyBdJBdwZCykuwmxCvNnh49EOzlOSjx7fgTOR3WN163aOKzuJTzF8s4sVLbDxDe0HgYCZLUenBHtms6MM1Hw117117",
+		"item_date": "2016-09-02 15:04:51",
+		"title": "ManoMarksdockerswarmvisualizer A visualizer for Docker Swarm using the Docker Remote API NodeJS and D3",
+		"url": "https://github.com/ManoMarks/docker-swarm-visualizer",
+		"domain": "github.com",
+		"image": ""
+	},
+	{
+		"curated_id": "DBvMPNrEZuROZjiqwT5kzUjTkVEzDB5mA3iyT116ALhNV123lgNm8zkxvvhesGabHDqgeonA0YWHVlXCiA5QmIVZ4w117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "New Restlet Studio Streamlines API DevOps Workflows",
+		"url": "http://restlet.com/blog/2016/08/30/new-restlet-studio-streamlines-api-devops-workflows/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ajst2x123BHkbbzKXz97bhdmC6Pe2OwYVvuNvHRPhZy86KZXmOse8vwPKBQJqSkP116XX8W123FLGn5116vqsBy8jE3QBQ117117",
+		"item_date": "2016-08-29 00:00:00",
+		"title": "Security Considerations for Container Orchestration",
+		"url": "http://blogs.adobe.com/security/2016/08/security-considerations-for-container-orchestration.html",
+		"domain": "blogs.adobe.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mJlm2wFey8ZvFcNu15tx5ZWOeKKU6J150dqkUm81236BjtgXjW1nUZLm116Cw9c0a8aiYSQQsPqwGw7hVc7a1FJZPA117117",
+		"item_date": "2016-08-26 00:00:00",
+		"title": "GitLab CI Deployment  Environments",
+		"url": "https://about.gitlab.com/2016/08/26/ci-deployment-and-environments/",
+		"domain": "about.gitlab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gHjPV8GZXm0CnZAwrVsh9QTjWrkT92123GWdbWmiiy0I79VSyYwapF116D123B2bKpQOcZ5mVgHvj0gtaZ2wljJsgP6A117117",
+		"item_date": "2016-08-26 00:00:00",
+		"title": "Containerized CI Solutions in AWS  Part 1 Jenkins in ECS",
+		"url": "https://dzone.com/articles/containerized-ci-solutions-in-aws-part-1-jenkins-i",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "r9IrZAqOLykPdYtNju3a6S5rRtzgYms36gKnTwu76FZIy123izbJwQGjzK1233123Pe4HZPwj123g4v2HSmTpmOc7lorsg117117",
+		"item_date": "2016-08-22 00:00:00",
+		"title": "Jenkins Templates for AWS CloudFormation",
+		"url": "https://dzone.com/articles/jenkins-templates-for-aws-cloudformation",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ychr3pnkpiWGUygWlhPeWx32K116mnxr1ZsRF0RgH2R2HyKtO0DxNv05znu2tpWCTwRE5cE3UVEojeK123MTkJ116f3Q117117",
+		"item_date": "2016-08-17 00:00:00",
+		"title": "Use Jenkins to List the Slowest Steps in Deployment",
+		"url": "https://dzone.com/articles/list-the-slowest-steps-in-deployment",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3DgOdJSzhCOi34ZvAqfacMHbn22Fzmzb4yWepJAirXxnvXx85h2U1InksSzHtrYwrys8d6tO0QzRerQOpcmtKA117117",
+		"item_date": "2016-08-18 00:00:00",
+		"title": "DevOps Monitoring Is a MultiTool Affair",
+		"url": "https://dzone.com/articles/devops-monitoring-is-a-multi-tool-affair",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "j4SZXSFCjEHm123dxdmqP18Rmtd123Kw4aXJAMz123NcvG123fmpPHJRNaCLPsE2uXFmdq1v1238lszlYCVCwc8IyI116bCJDw117117",
+		"item_date": "2016-08-19 00:00:00",
+		"title": "The Role of System Testing in Automated Infrastructure",
+		"url": "http://blog.smartbear.com/api-testing/system-testing-in-automated-infrastructure/",
+		"domain": "blog.smartbear.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eGM6ZjzJitXc0FWpidX9pN7pm319GLLZDbZ7Fe7tkllbNd2qh8cmDbb0owdKuyU1163AX3B62OXxa123qfq1231efnOg117117",
+		"item_date": "2016-08-18 00:00:00",
+		"title": "Testing Your Automations Is Now Easier Than Ever",
+		"url": "http://www.activecampaign.com/blog/testing-your-automations-is-now-easier-than-ever/",
+		"domain": "www.activecampaign.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qJ2Bwq44RiVC6Eqx123DnzWwA6CFDvuctwwZwEpVsWpBtcbyw9ROPShPWndjMnWueWRumGJySv2EoRmRgwdQ3duA117117",
+		"item_date": "2016-08-18 09:40:12",
+		"title": "GitHub  paypalsqubs AkkaSpray for LargeScale Production Deployments",
+		"url": "https://github.com/paypal/squbs",
+		"domain": "github.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1230vokbbbSCo0OfpFrxlWeeg6B123NjK0KrH6DDsPmZ1116aW0jsx116jZM6X2c123TDlVAEw2JOq3ZydK12320lcVsXeb4oA117117",
+		"item_date": "2016-08-16 00:00:00",
+		"title": "Automating With Puppet Initial setup",
+		"url": "https://dzone.com/articles/automating-with-puppet-initial-setup",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gR2rYbhy0x22cxzjN3paN5QvE9UwApB4wd7T1AwpjOzME16AwJNsKmRptW123e09YrZL11Tly0dMYTFQxTYac57A117117",
+		"item_date": "2016-08-13 15:14:33",
+		"title": "Tweet RT shamasis Have you used the new postmanclient newman v3 cli yet api JavaScript nodejs httpstco0gn2ZOSnKR",
+		"url": "https://twitter.com/shamasis/status/764548629235273728",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6KAhukmUX6IeAO1yCuy1f5JLDf0SCWI9hfTmE7oga1JZHKwYnLX6Qko159XtmH7oR0VQwvbaNaql8pV116123a00pQ117117",
+		"item_date": "2016-08-14 00:00:00",
+		"title": "From Bamboo to Jenkins 2016 means continuously integrating",
+		"url": "http://itknowledgeexchange.techtarget.com/coffee-talk/bamboo-jenkins-2016-means-continuously-integrating/",
+		"domain": "itknowledgeexchange.techtarget.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VsidwTEdo6b116M0KBLlYXHFRNFtRRuSEDvP8IPBozcIVZx0MoJbvY4G43Km7NeCxabsnhmVVzfaCCEjcdBKSYkg117117",
+		"item_date": "2016-08-14 00:00:00",
+		"title": "Using Amazon EC2 Tags to Deploy Servers with Puppet",
+		"url": "https://dzone.com/articles/using-amazon-ec2-tags-to-deploy-servers-with-puppe",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GDzHsqblF116123hampTOixzyWZYL123Z2HXMCiL7GkIyeguYgsISyc7Z6pq5FgGSELSvRfVHiThlsybjp3M116sAjLodA117117",
+		"item_date": "2016-08-11 00:00:00",
+		"title": "Maturity Levels of Continuous Integration",
+		"url": "https://dzone.com/articles/82-maturity-levels-of-continuous-integration",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VTm7dC2XpDedgpukSvx9LsMtE32S123hadGJ2pXWg5ZxBdVnRlD1WTZCQNGA7l7HY60Y4Wgc3W3XrsNxQdU1234N116A117117",
+		"item_date": "2016-08-09 00:00:00",
+		"title": "Intersections DevOps Release Engineering and Security",
+		"url": "https://dzone.com/articles/intersections-devops-release-engineering-and-secur",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "e4FuO3WU5AI116SusKDLq8e123aBmOdGhG4123N116LZF116SGrb0BN123fiG9f0zUkaVI62nD4zIHxad6q60bXZISA6116Jmqng117117",
+		"item_date": "2016-08-05 00:00:00",
+		"title": "Continuous Integration Delivery and Deployment with GitLab",
+		"url": "https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/",
+		"domain": "about.gitlab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "06fWEakioh8bxYobUi123i7x116yms2o6m0hUcneBpG1ezBhrUo0c2hJC1W116gO96eeSlSiwiYB7GXebY1161af3hug0A117117",
+		"item_date": "2016-08-04 00:00:00",
+		"title": "Automating Habitat With AWS CodePipeline",
+		"url": "https://dzone.com/articles/automating-habitat-with-aws-codepipeline",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RnQSmCbJc6n40ehCsBE116cko2MG3a7Vf11JL8OLe1123h8ClBb1eXSaMFR00OgIZbXYfKbizCPLngF1HUg7jPN6oQ117117",
+		"item_date": "2016-08-02 00:00:00",
+		"title": "Installing NGINX and NGINXPlus with Puppet",
+		"url": "https://www.nginx.com/blog/installing-nginx-and-nginxplus-with-puppet/",
+		"domain": "www.nginx.com",
+		"image": ""
+	},
+	{
+		"curated_id": "e0WnnkHWWrMZ00avXVvkP1123N421161235Z2zw7zcHgLrqDTuxIjtFjEUgdUQVHT11MQwTNe4NpeV123KV64116d1eSi0fQ117117",
+		"item_date": "2016-08-01 00:00:00",
+		"title": "Stringify Flow Basics",
+		"url": "https://www.stringify.com/connectedthings/stringify-flow-basics/",
+		"domain": "www.stringify.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GBEp123QDOtfIexVymvLFewFGD5kTiorwBOIeULBImuwQvT1231E7ZvxmBfnipZ7SU116GzT1AobYOeSreigaMNGxJrw117117",
+		"item_date": "2016-08-01 00:00:00",
+		"title": "Introduction to Container Orchestration",
+		"url": "https://dzone.com/articles/introduction-to-container-orchestration",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "e0KA9kl9Rnzi6JGNSCPei5zEKSW2REDK8vLfHES7CIt4eRbQ123BjXE43U14123NbG5Z6Brwf92123wV7ismp4fR4XRQ117117",
+		"item_date": "2016-07-29 00:00:00",
+		"title": "GitLab CI Run jobs sequentially in parallel or build a custom pipeline",
+		"url": "https://about.gitlab.com/2016/07/29/the-basics-of-gitlab-ci/",
+		"domain": "about.gitlab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PPGy123AmMgeJaVd4l7XATkwpA6UA0ixenDDXgAVtZegF96n8yLZaWkngjaW5leHg1165mlZkXmiWlfOgnG8123fnj4g117117",
+		"item_date": "2016-07-29 00:00:00",
+		"title": "GitHub Enterprise and Bluemix a Foundation for Your DevOps Toolchain",
+		"url": "https://dzone.com/articles/github-enterprise-and-bluemix-a-foundation-for-you",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "s3SZR5Z35DipPSOMOSetrqqyC6TElzbcqLdBL116MEfVHkEuwN9x4mKRDW8AvHXEvX8WpKsr4bGYzni2i3SI1123116A117117",
+		"item_date": "2016-07-20 00:00:00",
+		"title": "Presentation Wheres My DevOps API",
+		"url": "https://www.infoq.com/presentations/devops-api",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CwzRgHwtz9TTO5KqlgV6JW50cknCS5I8dDNG3WZPyvPrrWx9XR9agS8OSfukgphDFXWD116j3PryhlgwqAfRtZbw117117",
+		"item_date": "2016-07-21 00:00:00",
+		"title": "The Ultimate Jenkins CI Resources Guide",
+		"url": "https://dzone.com/articles/the-ultimate-jenkins-ci-resources-guide",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "edqI6Dw6Mve5tyVDfi116Py123ngYV2b8sVP59lxJ1VYCeDxyzU123SBeTo2116Yf123imJvYgFeyckHSZ6OM05123octy1167ug117117",
+		"item_date": "2016-07-21 00:00:00",
+		"title": "Jenkins Cluster Setup With Docker Containers",
+		"url": "https://dzone.com/articles/jenkins-cluster-setup-with-docker-containers",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1yluvmW123NoleQG0EPPatnlnXtfBfBdbjjg4h0OpOOJjw1xuXroSkA116Ol2DBz1jFsqhZyekPtde0x96kaS3WBMg117117",
+		"item_date": "2016-07-20 00:00:00",
+		"title": "Puppet Releases DockerFocused Features in Project Blueshift",
+		"url": "https://www.infoq.com/news/2016/07/docker-features-puppet-blueshift",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "od8H8v0iGmW53NjL1sUzzkbNfIDz0wWUwpJjw2U1162E2usFINmaWQk116kSNmBXA5EMGqi8Gdbc95qpR9zCOWBa0Q117117",
+		"item_date": "2016-07-17 00:00:00",
+		"title": "Official Consul Docker Image",
+		"url": "https://www.hashicorp.com/blog/official-consul-docker-image.html",
+		"domain": "www.hashicorp.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wXaTEaKiEzOH2jmuzZUn8f3TzGacVjeUxdyxdF116UxcArANz55tIZfOuuj77W120cXsPPTCCST0YsJEh3s6izgQ117117",
+		"item_date": "2016-07-15 00:00:00",
+		"title": "Steering an Automation Platform at Wercker with Kubernetes",
+		"url": "http://blog.kubernetes.io/2016/07/automation-platform-at-wercker-with-kubernetes.html",
+		"domain": "blog.kubernetes.io",
+		"image": ""
+	},
+	{
+		"curated_id": "BQWahLnZGM7EsdgzUco70HbU32xQNwKdJGmOfDrL6l123KTbix4Y9IpMYxT116ysAVBaobusjQ5eFihPdXvKdv0NGg117117",
+		"item_date": "2016-05-16 00:00:00",
+		"title": "Mission Pattern Lets Create Fluent Automation APIs",
+		"url": "https://dzone.com/articles/mission-pattern-a-means-to-modularise-automation-c",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2UlDdqj0z6oIROPYObINEMTcC7rkH116CbQXDjdIRMffqqBG9tQBFvBc6x2s3hgttwOy8ZEao3w116Jf1pv7DtW6aA117117",
+		"item_date": "2016-05-17 00:00:00",
+		"title": "Docker and Jenkins Orchestrating Continuous Delivery",
+		"url": "https://dzone.com/articles/docker-and-jenkins-orchestrating-continuous-delive",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "W5IJ4e3HKjh2EYgpISmHRv1230wBsqYYr7z8kc0k1exdiVogSQd8kfcZAD1NRYVfSjcee3VNIYQoRvowVzI4MEFw117117",
+		"item_date": "2016-05-18 00:00:00",
+		"title": "A Devs Perspective on Automation",
+		"url": "http://blog.bittitan.com/2016/05/18/a-devs-perspective-on-automation/",
+		"domain": "blog.bittitan.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SU29YJNpyvkZZfNBXDCvYbfmqfBhFfmHywZyt96wDIWY123adeLfKZDkj18zGzpGaUFL8JxRrghzohD3SWT7MnUg117117",
+		"item_date": "2016-05-19 00:00:00",
+		"title": "Automating Machine Learning Workflows",
+		"url": "https://blog.bigml.com/2016/05/19/automating-machine-learning-workflows/",
+		"domain": "blog.bigml.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pgyK1EoE0VUTlVsvgGsvI5JDS5zgt5bgMzFyDCL5bpL01TVdR123J4Tgz8cUyQJV116WxV3OBE5aAnKx1UO2yjsjKg117117",
+		"item_date": "2016-07-10 00:00:00",
+		"title": "As Online Video Surges Publishers Turn to Automation",
+		"url": "http://www.nytimes.com/2016/07/11/business/media/as-online-video-surges-publishers-turn-to-automation.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MdGfyMwvz4NmG6SSpU3CkSEV09J0xLbImKrzO9XfMq75biw7vvr6Q7Y8KS123bOdaEZI9g0YVKwaVCspGNO1OVrA117117",
+		"item_date": "2016-05-23 00:00:00",
+		"title": "Changing the workflow at Zynx Health with Chef",
+		"url": "https://blog.chef.io/2016/05/23/changing-the-workflow-at-zynx-health-with-chef/",
+		"domain": "blog.chef.io",
+		"image": ""
+	},
+	{
+		"curated_id": "aJhG1HeN5ZBNar123yplWoSH123aCvy0fm77vKdotFlh123rUUbiUotFluBne25oF1163RvtxvOGmLDAKfevvdAh4eFeKw117117",
+		"item_date": "2016-05-24 00:00:00",
+		"title": "Chef Server HA Beta The best way to run Chef Server",
+		"url": "https://blog.chef.io/2016/05/24/chef-server-ha-beta-the-best-way-to-run-chef-server/",
+		"domain": "blog.chef.io",
+		"image": ""
+	},
+	{
+		"curated_id": "f61ADAbRKGS4ygfUpamLbdw6pvUCu9YR9T4uLqmKoaccHGVOR2U101xPitZoheB116gJZt62qsCR1uD3a123mhhwpQ117117",
+		"item_date": "2016-05-31 00:00:00",
+		"title": "Cloud API security How to interface with DevOps",
+		"url": "http://searchcloudsecurity.techtarget.com/opinion/Cloud-API-security-How-to-interface-with-DevOps",
+		"domain": "searchcloudsecurity.techtarget.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VrN123Jbjx4mpvagyPGPY6ftEB123fOQfGBO0pHubbd8rXD7qfGOgY8L31l0DriVlYjBhcZRQ9BLlOoOSatIkhfOYA117117",
+		"item_date": "2016-06-06 00:00:00",
+		"title": "Aligning applications with business strategy at Wells Fargo",
+		"url": "https://puppet.com/blog/aligning-applications-business-strategy-wells-fargo",
+		"domain": "puppet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "i88DabTJG6ZtZIt50b1UhA4VPgDmlX8QvdqHNNfFoR69x116hWMpt9a8dr123ouuNzIQ2nwwpZyN2a123iv5JJDSnYqQ117117",
+		"item_date": "2016-06-07 00:00:00",
+		"title": "Warewolf V1 Release Candidate",
+		"url": "https://warewolf.io/ESB-blog/warewolf-v1-release-candidate/",
+		"domain": "warewolf.io",
+		"image": ""
+	},
+	{
+		"curated_id": "116oqXG1164123nU3jUMN3gfBCHOvVgd116CtFekhPaO4AnfUyMzOfmccFtLGqBE9Rg116erQCQYxyH1xpcP116TjXq4j0rAAg117117",
+		"item_date": "2016-06-10 00:00:00",
+		"title": "Running Puppet on ContainerCentric Infrastructure",
+		"url": "https://dzone.com/articles/running-puppet-on-container-centric-infrastructure",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IAKI9mmX4123YjIwluVWIVlsoE8WaTd6IBgs1dhA67kMgcd6JHJ0Vq04voa0Qc9SdeSO116PG1pcMJlQpoZHxJ538g117117",
+		"item_date": "2016-06-13 00:00:00",
+		"title": "Rackspace and the Chef Partner Cookbook Program",
+		"url": "https://blog.chef.io/2016/06/13/rackspace-and-the-chef-partner-cookbook-program/",
+		"domain": "blog.chef.io",
+		"image": ""
+	},
+	{
+		"curated_id": "me8AHCu9s6PlTZ49adBnEOIu17ePP7PchRqqojW8r3stez8xZVf4YV6AUX116WCg12A2JbFCV1233vZUMPUmf116Y5mA117117",
+		"item_date": "2016-06-14 00:00:00",
+		"title": "Open Source at Docker Part 3 The Tooling and Automation",
+		"url": "https://blog.docker.com/2016/06/open-source-docker-tooling-automation/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pWBwVZTbgllH116LGxnX1236a3cMEmnelwu5dk116Y0feRC1123msrvb7tAtHmK3kspqF116j00iC7JWUiDao44FQ123ep8QoQ117117",
+		"item_date": "2016-06-14 00:00:00",
+		"title": "Chef Launches Habitat New Open Source Project to Automate Applications",
+		"url": "https://blog.chef.io/2016/06/14/chef-launches-habitat-new-open-source-project-to-automate-applications/",
+		"domain": "blog.chef.io",
+		"image": ""
+	},
+	{
+		"curated_id": "BmNr1166iykf5fNhqtc1164oxgAYx5MPXXcBabFOGNd116jconjuctTSWnLIwtYWnfiU59QysLHqq0g0B123KcOJpU1tCg117117",
+		"item_date": "2016-06-15 00:00:00",
+		"title": "The Evolution of ETL and Continuous Integration",
+		"url": "http://www.talend.com/blog/2016/06/15/the-evolution-of-etl-and-continuous-integration",
+		"domain": "www.talend.com",
+		"image": ""
+	},
+	{
+		"curated_id": "B8I47ObjKr6Vx0ddEGo2116Uw1IYPDv8TrWJEvQUAXBx5XXmxD12f2TDyX3123CfvXNP9iPeAEsgYBB5yQW0WTlJvQ117117",
+		"item_date": "2016-06-19 00:00:00",
+		"title": "GitHub Continuous Deployment to a Raspberry Pi",
+		"url": "https://dzone.com/articles/github-continuous-deployment-to-a-raspberry-pi",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9OTvY4RTRvvJ9rWlgSBjgLgue7u3kIP0RTJw67w5KH6YeXGzzuUrd52vtiAzE1165EkrIT123go123zJcllT5kygdZNQ117117",
+		"item_date": "2016-06-20 00:00:00",
+		"title": "Docker 112 Now with Builtin Orchestration",
+		"url": "https://blog.docker.com/2016/06/docker-1-12-built-in-orchestration/",
+		"domain": "blog.docker.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Gk6fc85OTGHVecExPSqCzvqnMogYIbrCHnFSy123DX7cOa0gwe5TNmzqWrhyl116PTeydBz3B6a41usky6iDz6Uy123g117117",
+		"item_date": "2016-06-20 00:00:00",
+		"title": "NGINX as a Reverse Proxy for Docker Swarm Clusters",
+		"url": "https://dzone.com/articles/nginx-as-a-reverse-proxy-for-docker-swarm-clusters",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YB116pD1234jlWcrL2IjVi5sH8rHIiavA123KOE2TYmF5jrbYkpVkagzuffbPo116THiPORtG123CYSuLQXGsmwIt3CbddPg117117",
+		"item_date": "2016-06-21 00:00:00",
+		"title": "Managing Docker Containers With Shipyard",
+		"url": "https://dzone.com/articles/managing-docker-containers-with-shipyard",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fs5qBm6gF0rBLDKayKvqgDBorshnUML3x1wrMkKIM4n7fy0oJOflawZ1ZxvANSMvOxfYB54vms4CUwDkwPVmxQ117117",
+		"item_date": "2016-06-21 00:00:00",
+		"title": "Docker Introduces New Orchestration Capabilities",
+		"url": "https://dzone.com/articles/docker-introduces-new-orchestration-capabilities",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GjzrblSpoZhXM1gTQgDafIh9yKdbun2oi7RzVtI8BGzwTyIYOg123Kibg6If9sHZDt5u89fjFhq9huaIGqgQFi1A117117",
+		"item_date": "2016-07-07 00:00:00",
+		"title": "DBmaestro Releases Expanded Open API to Support Continuous Integration",
+		"url": "http://www.dbta.com/Editorial/News-Flashes/DBmaestro-Releases-Expanded-Open-API-to-Support-Continuous-Integration-112223.aspx",
+		"domain": "www.dbta.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QT116kMDbXAT6ruJWIi4116NYjaCnzZL8StUQaLGHmy5xjFrm9WHHcP9a7Z116z9VOIVn5kYasdA2d9QikZX2tfpN8yw117117",
+		"item_date": "2016-06-28 00:00:00",
+		"title": "NGINX and Zookeeper Dynamic Load Balancing and Deployments",
+		"url": "https://www.nginx.com/blog/nginx-and-zookeeper-dynamic-load-balancing-and-deployments/",
+		"domain": "www.nginx.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nCWtKwslnvRLztxHeS123HtTd123Q0Hux7VPF1163DLUpmCcrZuxXN8YP0RGyaWRLjL9CCJEDrcDp2ULQlzYpXc1116LxA117117",
+		"item_date": "2016-06-29 00:00:00",
+		"title": "Jenkins REST API Create job",
+		"url": "http://stackoverflow.com/questions/38137760/jenkins-rest-api-create-job",
+		"domain": "stackoverflow.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116FFpicti10qPErEZmqNNYMyESGKmftb71l5p2m123ZYWikc6kJjG1td1QCTKPJKapkPQp7RjEu9IIPQTeaZYA4Pw117117",
+		"item_date": "2016-06-29 00:00:00",
+		"title": "Automating Penetration Testing in a CICD Pipeline Part 2",
+		"url": "https://dzone.com/articles/automating-penetration-testing-in-a-cicd-pipeline-1",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uv6CcLzk116A1Fmzbn6dXK178oGpkAd123isHsCuW2EYYGLMKRcXg1jJx0rIUYoV1161169qwTkhWzsqsf8HAIg5TAp6Iw117117",
+		"item_date": "2016-06-14 00:00:00",
+		"title": "Checklists Are Prerequisites for Release Automation",
+		"url": "https://dzone.com/articles/checklists-are-prerequisites-for-release-automatio",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rYAR6kpKrjdlDqZh123IJTsnf123vgmUQFdDEDDHh2JFOa5XA2mQWo7Bbla6iAOMsk91UmdGfMeJl9ZFQhJ7MDy0KQ117117",
+		"item_date": "2016-05-23 00:00:00",
+		"title": "Enhancing Security With SDN Automation",
+		"url": "https://www.sdxcentral.com/articles/contributed/enhancing-network-security-sdn-automation-rob-chee/2016/05/",
+		"domain": "www.sdxcentral.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PlzbzzgCbp0NxWtUvxD4RDw1bKGdPMMt9mi116L116u6W23nlc6mI116QIrq2SriEi9kF116m2JbzHmShbVHACYGFn9ukg117117",
+		"item_date": "2016-05-12 00:00:00",
+		"title": "Get Started With Jenkins 20 With Docker",
+		"url": "https://dzone.com/articles/get-started-with-jenkins-20-with-docker",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nnTDmhW8iwifX116QDXcStiTuNbzVvkicA2OQ5mr6A6I6P4L7sP9VgMKT8fW3m9VNp1JGMSs0vJ7123Q7J123123d8P5vQ117117",
+		"item_date": "2016-05-09 00:00:00",
+		"title": "Automate CodeCommit and CodePipeline in AWS CloudFormation",
+		"url": "https://dzone.com/articles/automate-codecommit-and-codepipeline-in-aws-cloudf",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wccw1W123nFQlCpTUEXPighjoxTWfQXQ2u1HPyUGo1u123gnTP4Hbg1Wq46IP8YmJ8KF6ufoGtcXsZdTyARxXLgdwQ117117",
+		"item_date": "2016-05-05 00:00:00",
+		"title": "Getting Started with GitLab and Shippable Continuous Integration",
+		"url": "https://about.gitlab.com/2016/05/05/getting-started-gitlab-and-shippable/",
+		"domain": "about.gitlab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3sDMeF5cDnlAhS7k0dW1aotc9BeL57atODaN2r123Gt4NQ1232I7IaE02Uq2ID6Y1MvkdxzxBOrz0OFbR5GwzbFiKA117117",
+		"item_date": "2016-05-03 00:00:00",
+		"title": "A Template System for Google Docs Google Drive Automation and PDF Generation With Google Execution API",
+		"url": "https://dzone.com/articles/a-template-system-for-google-docs-google-drive-aut-1",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mKD2lSQxvrxkUrZuegxkavKSiFoBsRm116kyX116Epk4bnqn4bIuII2ps1bA1123C74vLQNuYqoDZFm77ubBcj9MT42Q117117",
+		"item_date": "2016-05-01 00:00:00",
+		"title": "Continuous Delivery With Jenkins  Part 2",
+		"url": "https://dzone.com/articles/continuous-delivery-with-jenkins-part-2",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dq8RMVeliAzMH6dZg9BdNNKQw6doT3NiagZtZ7UydcQE1IC5UeH116AYcBKNQkpS1CLr7DQSdPSDt08x5fb01Ekw117117",
+		"item_date": "2016-04-28 00:00:00",
+		"title": "Continuous Delivery With Jenkins  Part 1",
+		"url": "https://dzone.com/articles/continuous-delivery-with-jenkins-part-1",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "u87LV2vABhHKA56P7og116SmoAFSIqgNbR7pPBC42feDSOcyS2WNsvaFTCoSn6tB8CqTxZkfLtVR4sgo7CvFzjOA117117",
+		"item_date": "2016-04-26 00:00:00",
+		"title": "Updating CI Environments With Travis",
+		"url": "https://dzone.com/articles/moving-minimesos-ci-from-jenkins-to-travis",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FqscAh1ZM9e8v2hBTuNmFxoma7c8Q6pnVkLiF6fAH7YyZI8116mQ1GpQJGm3C80FOm6RW1pk8mctPzjMQKGe0Vzw117117",
+		"item_date": "2016-04-18 00:00:00",
+		"title": "Welcome to the Puppet Community Slack",
+		"url": "https://puppet.com/blog/welcome-to-puppet-community-slack",
+		"domain": "puppet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wWrqLRUlM1D123116qXwGGIuzqvPwaBTuX4rS1235xvBkIApxMpDb6z0wC0OiAVz9tlVAto123JGFsCbm16PuYwL5Jo1233A117117",
+		"item_date": "2016-04-19 00:00:00",
+		"title": "Apprenda Brings Continuous Integration Pipeline to Enterprise PaaS",
+		"url": "https://apprenda.com/blog/apprenda-brings-continuous-integration-pipeline-enterprise-paas/",
+		"domain": "apprenda.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Po6SEACuEP4Mii4Gv8nsXTmnOlOOHN2dlai123Rd8tCxVTIVUTvIz0gzDkPKuRZ7Fo123ZjDTbcsJIkubcL6ArzcJw117117",
+		"item_date": "2016-04-16 00:00:00",
+		"title": "Patterns and Processes for Continuous Delivery of Microservices",
+		"url": "https://dzone.com/articles/patterns-and-processes-for-continuous-delivery-of",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qmhygPPNiU39R32a6HmXVLUpJnT2111645xgC3THY6bhpm1uaBkA62RI8123ilGZlh1D22f7tge1yCZbC1L116k1htNw117117",
+		"item_date": "2016-03-29 00:00:00",
+		"title": "Chef Delivery Tutorial on Learn Chef",
+		"url": "https://blog.chef.io/2016/03/29/chef-delivery-tutorial-on-learn-chef/",
+		"domain": "blog.chef.io",
+		"image": ""
+	},
+	{
+		"curated_id": "BH9KM6YNKCD1L0p4Egb116GmYmCbWMHXTz729IeAkKmyT8pauOF8cp6116xidRQxGxXXpIQdtEf7QQlcZFdG1Jh7lg117117",
+		"item_date": "2016-04-01 00:00:00",
+		"title": "Chef Compliance 10 Release",
+		"url": "https://blog.chef.io/2016/04/01/chef-compliance-1-0-release/",
+		"domain": "blog.chef.io",
+		"image": ""
+	},
+	{
+		"curated_id": "aXtXhy3p7Hx3cAdcegk12371CEjqep3vn11645fuggSwMwUQtBme1MRLLqar9nPtLPtupcD116yO8s9jcOylOGiWt3qQ117117",
+		"item_date": "2016-04-06 00:00:00",
+		"title": "Guest Blog Best Practices using Chef with AWS",
+		"url": "https://blog.chef.io/2016/04/06/guest-blog-best-practices-using-chef-with-aws/",
+		"domain": "blog.chef.io",
+		"image": ""
+	},
+	{
+		"curated_id": "9JRv9PaBA6im123vwosmaMyO6vD9yWPkGy30byYTxBxmLseb2EWBjy1mzGHjjlZqL0GGSajOLmIwA3Lmf7116JE5HA117117",
+		"item_date": "2016-03-14 00:00:00",
+		"title": "Automating Like a Human",
+		"url": "https://pinkflamingo.helpscout.net/blog/support-automation/",
+		"domain": "pinkflamingo.helpscout.net",
+		"image": ""
+	},
+	{
+		"curated_id": "2G1PDztIc8oTfeX5tTMLkF9PyGYEOesT8Cv453MF123pwED7E116LXMgzeyqjxH6kIIMXk61230nqbpYvjkIaibgs1lg117117",
+		"item_date": "2016-03-18 00:00:00",
+		"title": "Puppet tips to know before you start automating",
+		"url": "https://puppet.com/blog/puppet-tips-to-know-before-you-start-automating",
+		"domain": "puppet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ijwE116TRxc6Gi7SfOxCS5zL2Y0dX7j9pxqDLc3116lyzGdVRxqYwR1aRzmEdVBHZ3zGlKp6ox4NJmWMh0TZBXaOMA117117",
+		"item_date": "2016-04-04 00:00:00",
+		"title": "Deploying Docker Swarm with Puppet",
+		"url": "https://puppet.com/blog/deploying-docker-swarm-puppet",
+		"domain": "puppet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gnKDttpDDqUNCMcSuTCO6FGHu9jITlZ9afsjUgd9ReKROBK4JlvS8knNAGxSpbS116iIAxbuz1233vAn3IW81WOs4g117117",
+		"item_date": "2016-04-07 00:00:00",
+		"title": "Ops love APIs Here is Why",
+		"url": "https://blog.serverdensity.com/how-to-use-apis/",
+		"domain": "blog.serverdensity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "A7TgGQhnkvjBzJ82x01162wdJAi116NXGP8a61Ed4bhqH53tRvi14Ri116FbPBxr123LwbhnspWVlZPFleNM116hBC0KbOwQ117117",
+		"item_date": "2016-04-07 00:00:00",
+		"title": "Deploying Docker Swarm with Puppet",
+		"url": "https://puppet.com/blog/deploying-docker-swarm-puppet",
+		"domain": "puppet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ojOrDCwaAH4ztzWARyiBv116oArnmnEfZDovHC4Eg6iB1j9vU6GiR5fwl4y6CkArMSdN0Cge9C6CJT5Q6rB1dC9A117117",
+		"item_date": "2016-04-07 00:00:00",
+		"title": "Using Puppet with Mesos",
+		"url": "https://puppet.com/blog/using-puppet-mesos",
+		"domain": "puppet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JSkOG0prOomak5EVZu6TMyTTOYw5eD7sw8Ox1163QORtCdHFARXnbFumH116HD7fQBb0dULqjdsBdNNKVR8IIXvfnQ117117",
+		"item_date": "2016-04-07 00:00:00",
+		"title": "Puppet tips to know before you start automating",
+		"url": "https://puppet.com/blog/puppet-tips-to-know-before-you-start-automating",
+		"domain": "puppet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "DV6A123JI7Vs116mfTs9gQmAQQ8t3KVCHBdOESLNZRd2Nx2ZnQn116aJ7Kwpp2Fk116sVWeXPRX4otfUn7VDFGX5123GKCFg117117",
+		"item_date": "2016-03-29 00:00:00",
+		"title": "Smart Alerts for Anomaly Detection and Data Aggregations",
+		"url": "https://dzone.com/articles/smart-alerts-for-anomaly-detection-and-data-aggreg",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "suvfVaxKxUOj5bwwk207qd6jGiJTR1231mheu116iqyQHEjXv5XsDa116eUJ0qqzoE50yEFBi5LkZTCaatnieOvAj8kQ117117",
+		"item_date": "2016-03-28 00:00:00",
+		"title": "Deploying NGINX Plus for High Availability with Chef",
+		"url": "https://www.nginx.com/blog/nginx-plus-high-availability-chef/",
+		"domain": "www.nginx.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116SBG8vEOsHqT43Vx0G548mS08z1KIS0jBY3zptO5ePFZCqThQWmQGF4zVPTYPlXVUFcx5Xj123MQ621162FFptSGbA117117",
+		"item_date": "2016-03-29 00:00:00",
+		"title": "How to Detect and Automatically Revoke Unintended IAM Access with Amazon CloudWatch Events",
+		"url": "https://blogs.aws.amazon.com/security/post/Tx2XGINRKCK9XNS/How-to-Detect-and-Automatically-Revoke-Unintended-IAM-Access-with-Amazon-CloudWa",
+		"domain": "blogs.aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3cagOta10AVJsjMmkutcVbca3WBYL7QBWkWhRj0SVLKhfVBsKvHXRM123U9dqgl9xDbNPVtKlR4123YbsbMxfOYCyw117117",
+		"item_date": "2016-03-29 00:00:00",
+		"title": "Orchestration and Choreography  When To Use An ESB vs a Workflow Engine",
+		"url": "http://wso2.com/blogs/thesource/2016/03/orchestration-and-choreography-when-to-use-an-esb-vs-a-workflow-engine/",
+		"domain": "wso2.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LwBMSGmL5c116RrzszbwNyAPn7yXyF6Xza0tBqN2jo7116ZgJ40PFabc3Nb6luGDHQf9kHL2cdBiZX1238zKDyA9123coQ117117",
+		"item_date": "2016-03-24 00:00:00",
+		"title": "Is DevOps Bad for Security",
+		"url": "https://dzone.com/articles/is-devops-bad-for-security",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wOovIC0hyo123Bt1xTJ5DQBdAharxL5jD1pJroeO9uBqLRi123z9482cT4VDLRfhNgNCB5XPRgZRGM4kTSPZLMJklw117117",
+		"item_date": "2016-03-24 00:00:00",
+		"title": "Using Puppet with Mesos",
+		"url": "https://puppetlabs.com/blog/using-puppet-with-mesos",
+		"domain": "puppetlabs.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ClSsPA2DDUC3116a96rgOFKFQ8JUc1PssWIl7I3123Tpp6sa0JArc405wZGWlSb7yC4A5T0wEEJagaTLjUULFbUpWQ117117",
+		"item_date": "2016-03-23 00:00:00",
+		"title": "Why Most Companies Are Getting Continuous Delivery Wrong",
+		"url": "https://dzone.com/articles/why-most-companies-are-getting-continuous-delivery",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bUveaDaBir8X9GtoKwcz123EGK8ljjnBK4g6m5ISw4r97DW3zmi123T123h05sxdi75fhs123Zs1f5vV519jXZybOH9oBw117117",
+		"item_date": "2016-03-22 00:00:00",
+		"title": "Kubernetes Template and Walkthrough on Skytap",
+		"url": "https://dzone.com/articles/kubernetes-template-and-walkthrough-on-skytap",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123hHxjkZNDbjsMyBYUBegMw1nSPhj4coLgzvORuKuhXel4eTpIFr116Q4RlbGb116HaA6mXbh7zvz5dMvwmKK4Kuf116Q117117",
+		"item_date": "2016-03-23 00:00:00",
+		"title": "Devops Certifications Will Damage Devops",
+		"url": "https://dzone.com/articles/devops-certification-part-2",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "frgPfMgxNZzDqcweJAdqWg9yJGUex7ea0841rm116p3WD9le5Wp2xZx3UQm0VsKAch8BJiQ7123m123TNJT1lPNvbixw117117",
+		"item_date": "2016-03-22 00:00:00",
+		"title": "Conditional Workflows in Postman",
+		"url": "http://blog.getpostman.com/2016/03/23/conditional-workflows-in-postman/",
+		"domain": "blog.getpostman.com",
+		"image": ""
+	},
+	{
+		"curated_id": "elHFclHDmXFkD116vcjM7s116oRIOA123WmMojOAqjFpN2pU123YLNf0stYeASIctWY0tqFFhQJszqsLSja7DwYnHUF6Hw117117",
+		"item_date": "2016-03-08 00:00:00",
+		"title": "Running Web API tests in your Continuous Integration pipeline",
+		"url": "http://restlet.com/blog/2016/03/08/running-web-api-tests-in-your-continuous-integration-pipeline/",
+		"domain": "restlet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Xlo4bx7wJwIyLsKb14hmaXCNFT3ZM0HUhhd123WyzG9KBf4o6hmu0aEwdnTSkEzHhs2z4e2tKT854A5CgDJ0qjbw117117",
+		"item_date": "2016-03-08 00:00:00",
+		"title": "Why Automated Tests Are Important",
+		"url": "https://dzone.com/articles/why-automated-tests-are-important",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dOBQH123iE116rmay0pSy2fPatGmKCoa116tTQ4sswoz4hfEjmhqBxpSRV2Yliy6123psH9116sQdkb3J7YUFL87pT5JkTtg117117",
+		"item_date": "2016-03-10 00:00:00",
+		"title": "Is Continuous Localization Possible for Dev Teams",
+		"url": "https://www.transifex.com/blog/2016/continuous-localization-for-development-teams/",
+		"domain": "www.transifex.com",
+		"image": ""
+	},
+	{
+		"curated_id": "I6jTumU13M7k10RikNMKhxIj4TS1AMMc1239BQNbOdBZV4cuZ50dbF116NFVQxOnRj3zwEB128fKpRvrxmqs8XK0og117117",
+		"item_date": "2016-03-07 00:00:00",
+		"title": "Engine Yard Unveils New Public API",
+		"url": "http://www.programmableweb.com/news/engine-yard-unveils-new-public-api/brief/2016/03/07",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "U116116ztPhE1ElA116RUyTJgfzO8421BsFKe5LA510dv7p9cCGSQBaHen04R4116ImkocXD4GukMB116KzG2blGvOLHX5ew117117",
+		"item_date": "2016-03-01 00:00:00",
+		"title": "Top 8 Continuous Integration Tools",
+		"url": "https://dzone.com/articles/top-8-continuous-integration-tools",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lBfkmRo9j7MDRR4GsKy8zgmoWQvJa07E1162BozGeNVrG4q9cG7ASbCVtkAII3123YtGxIELIMduVw2z116gbIaOStqw117117",
+		"item_date": "2016-02-24 00:00:00",
+		"title": "Install Docker Universal Control Plane with Puppet",
+		"url": "https://puppetlabs.com/blog/install-docker-universal-control-plane-puppet",
+		"domain": "puppetlabs.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WvNEe5r0QR6ynf7PdoXpbaFNuAERDvzvPI9eKgZYRpnNpL22FWYqH7YaIVCcjS7jnqPLq8aJURoL7HBmNIUO4g117117",
+		"item_date": "2016-02-23 06:34:07",
+		"title": "Chef Launches Partner Cookbook Program to Expand DevOpsReady Technology Ecosystem",
+		"url": "https://www.chef.io/blog/2016/02/23/chef-launches-partner-cookbook-program-to-expand-devops-ready-technology-ecosystem/",
+		"domain": "www.chef.io",
+		"image": ""
+	},
+	{
+		"curated_id": "0BchJMlWwjUGVux123W7iWBXEg11160NrEf9MrWwtqTyCBX5pMT8SJXyO9x86wYu3NzNeqNpvu116cwtCGv7xeKUzC9w117117",
+		"item_date": "2016-02-21 00:00:00",
+		"title": "Docker Amazon EC2 and continuous builds using Jenkins",
+		"url": "https://www.magnolia-cms.com/blogs/jan-haderka/detail~@docker--amazon-ec2-and-continuous-builds-using-jenkins~.html",
+		"domain": "www.magnolia-cms.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CwYZjZQhDjBRBhcnQI7894XNvsOcLWci1do6axpiejLLnYyhCC6NqdBarvhlmApxz9U4pk97Al7lp7123msEhyfA117117",
+		"item_date": "2016-02-17 00:00:00",
+		"title": "Notifications for AWS CodeDeploy Events",
+		"url": "https://aws.amazon.com/blogs/aws/new-notifications-for-aws-codedeploy-events/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "sNlQ4wJkZWeMep6Gp2vT4HrKi116XO0h116lrS21ZJQOLtyX1urhFGOqIM1167IwodEbrVMuXFySa5VdhAoZMuIlycaw117117",
+		"item_date": "2016-02-16 00:00:00",
+		"title": "How to Build Your Flow Control With the Bandwidth API",
+		"url": "http://www.programmableweb.com/news/how-to-build-your-flow-control-bandwidth-api/sponsored-content/2016/02/16",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BPr03tJ5AZppXrnehDjVe8PXwHSTxOPPl3QS116X7y0gQSg8JN9F116O9HtrifiweOhaBW3k9116aObh5rgpkD6wAxpg117117",
+		"item_date": "2016-02-16 00:00:00",
+		"title": "Deploying NGINX with Ansible",
+		"url": "https://blog.serverdensity.com/deploying-nginx-with-ansible/",
+		"domain": "blog.serverdensity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "DDUOEvTkRDeE5wV123TmNtdTwemjByQIiVP3RVHC9GdOcIWhpNLCX116NdlP4eiBESZ9OvtTw9wg9udi96PUf0RdpQ117117",
+		"item_date": "2016-02-04 00:00:00",
+		"title": "Orchestration is the Ultimate Order of Deployment Operations",
+		"url": "http://lorimacvittie.sys-con.com/node/3666018",
+		"domain": "lorimacvittie.sys-con.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EPmyAolG123g116vdEIyiMpLmvqURSOKAZNd6siVVXKdlfAStAF1ydxLM4MMORV5p5xeQNfj0AH01160DvDBWHXWA0fg117117",
+		"item_date": "2016-02-03 00:00:00",
+		"title": "Weekly Top 10 DevOps and Microservices",
+		"url": "https://dzone.com/articles/weekly-top-10-devops-microservices",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "d116vo08liEzCMuMHTnvvbTirGxTINE8Jzy5n4kabEs123116H123ZD6VEHAO57tA51CUFqRKFmMTziXIDDvtEIPHynQ0g117117",
+		"item_date": "2016-02-02 00:00:00",
+		"title": "Making life with Puppet and AWS or other cloud services easier",
+		"url": "https://puppetlabs.com/blog/making-life-puppet-and-aws-or-other-cloud-services-easier",
+		"domain": "puppetlabs.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jpAytabJAgaTGPYYYsgURn93123Rg1WX6Gnec6RgQ1MbEWzHzbp7WgsMCxO3zS58w123Lwes6uAG4ri0WpdH9mvJDg117117",
+		"item_date": "2016-01-19 00:00:00",
+		"title": "Continuous Delivery and Release Automation for Microservices",
+		"url": "https://dzone.com/articles/continuous-delivery-and-release-automation-for-mic",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QfVY5L5hDhFWga62PACst0VbNkggzxEl5q3CdxjVflRRyYeE8kZVn1kS6gBFV0Gag565oWufuoJgEmpcpkofmQ117117",
+		"item_date": "2016-01-27 00:00:00",
+		"title": "Continuous Deployment With Heroku and Github",
+		"url": "https://dzone.com/articles/continuous-deployment-with-heroku-and-github",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "d116t59aqkj9uaeGUZ123vyz1W9HA0EWj85aiEUIqQxJp7KDawUVjfbaknaT6KZOz0P7iV123BA4qFoh123OBWdSonNacQ117117",
+		"item_date": "2016-01-12 12:49:13",
+		"title": "API Aggregation Reciprocity and Orchestration",
+		"url": "http://apievangelist.com/2016/01/12/api-aggregation-reciprocity-and-orchestration/",
+		"domain": "apievangelist.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Jcrx4ZHfE911OPXgOxVkM1VY72gRHHbb8F94HFhChw6zcCxbJW7bn3xnu9fkh9GiOKvXb116nmP5e1144vTEp13w117117",
+		"item_date": "2015-12-23 00:00:00",
+		"title": "Automating APIs Is a Good ThingSome of the Time",
+		"url": "http://www.programmableweb.com/news/automating-apis-good-thing-some-time/analysis/2015/12/23",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsautomating-apis-good-thing-some-timeanalysis20151223.png"
+	},
+	{
+		"curated_id": "6bMGe1123KQVUcTXZqwA116xD1VqIIfw6116CWG0bzGXNTyoqPJz123kCzTqyYSEAogr3W0VpgAcZI3l77RHiN123tWi7YUA117117",
+		"item_date": "2015-12-18 00:00:00",
+		"title": "New Templates Make Building Segments and Workflows Even Easier",
+		"url": "http://blog.bronto.com/product/new-templates-make-building-segments-and-workflows-even-easier/",
+		"domain": "blog.bronto.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-bronto-comproductnew-templates-make-building-segments-and-workflows-even-easier.png"
+	},
+	{
+		"curated_id": "GsLDCCaDLALlChcZd7SV9qi1uML0QB2rew4tewSNLmKdl7M8S9atyYuDM0KHhaNnAILwYl11646km4gLIS6YXI8A117117",
+		"item_date": "2015-11-06 00:00:00",
+		"title": "F5 Friday DevOps Tools and F5",
+		"url": "http://lorimacvittie.sys-con.com/node/3543607",
+		"domain": "lorimacvittie.sys-con.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6com9YZyKy5TnQucfO5RMaTSO123R703BRv68hgu0RQWTnmwqGemzPuL54QOv1mdCK123BiSMwhsw9DdjORfonP71A117117",
+		"item_date": "2015-08-10 00:00:00",
+		"title": "Using App Service Web Apps continuous deployment with GitHub organizations",
+		"url": "http://azure.microsoft.com/blog/2015/08/10/using-app-service-web-apps-continuous-deployment-with-github-organizations/",
+		"domain": "azure.microsoft.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comblog20150810using-app-service-web-apps-continuous-deployment-with-github-organizations.png"
+	},
+	{
+		"curated_id": "6zC7feBQAe4jMSdn3Z2LJ5uqHPnvVXKaLxtCx5eqW884UT6HChNTRsXNkbtmDsurfiby1234gzZNg3kw2scSdUYw117117",
+		"item_date": "2015-07-09 00:00:00",
+		"title": "Azure Batch Generally Available",
+		"url": "https://azure.microsoft.com/blog/2015/07/09/azure-batch-generally-available/",
+		"domain": "azure.microsoft.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comblog20150709azure-batch-generally-available.png"
+	},
+	{
+		"curated_id": "DMZeRWassRt9dd13iqT0oK0Bvxump1232kEo3pWiHTBt7b3KpHBhDzXbM123SVYAMRJngoNAK9KDNZ5v7KV2J5vZPw117117",
+		"item_date": "2015-06-25 00:00:00",
+		"title": "Puppet Enterprise Integrates with Red Hat Satellite",
+		"url": "https://puppetlabs.com/blog/puppet-enterprise-integrates-red-hat-satellite",
+		"domain": "puppetlabs.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/puppetlabs-comblogpuppet-enterprise-integrates-red-hat-satellite.png"
+	},
+	{
+		"curated_id": "y8dHS4fzCnNFipZAhe6D6A4DdT9wxY8JPYM6bWEVz116wsFA57qZ116lM7ehymltNbfbaL2y116MuO123mdf2Q9Rs3gxZg117117",
+		"item_date": "2015-06-25 00:00:00",
+		"title": "Continuous Integration and Delivery Monitoring and Metering with OpenShift Enterprise 3 Partners",
+		"url": "https://blog.openshift.com/continuous-integration-delivery-monitoring-metering-openshift-enterprise-3-partners/",
+		"domain": "blog.openshift.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-openshift-comcontinuous-integration-delivery-monitoring-metering-openshift-enterprise-3-partners.png"
+	},
+	{
+		"curated_id": "Ib9Eaohx123SshCnEa6dPyylrcFgefdYyETy7JPHFM116tZe4E6udXtN7KCno4YNTLQxCxKnIlXR9dEmbOYycQ6Blg117117",
+		"item_date": "2015-06-24 00:00:00",
+		"title": "Visualizations of Continuous Delivery",
+		"url": "http://blog.loadimpact.com/continuous-delivery/visualizations-of-continuous-delivery/",
+		"domain": "blog.loadimpact.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-loadimpact-comcontinuous-deliveryvisualizations-of-continuous-delivery.png"
+	},
+	{
+		"curated_id": "JMRHRYoaDa5rqL123A7ejIolp1b3cvamNqxaf230AU7vPIwSG9rY6rUtiJLJHcNg1EWO0tZCd3NOyo6lo7j123RQQQ117117",
+		"item_date": "2015-06-22 00:00:00",
+		"title": "Announcing Compose 13 Swarm 03 and Machine 03",
+		"url": "http://blog.docker.com/2015/06/compose-1-3-swarm-0-3-machine-0-3/",
+		"domain": "blog.docker.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-docker-com201506compose-1-3-swarm-0-3-machine-0-3.png"
+	},
+	{
+		"curated_id": "5sInbP067vy7sUeuvjoAtePb9wRWzxHQVtrvHSlvm59SSwQO70DxQ116eaheUq1c1L07Z29kV8UsTB6iYyxi42Jw117117",
+		"item_date": "2015-06-22 00:00:00",
+		"title": "Announcing Docker 17 Multihost networking plugins and orchestration updates",
+		"url": "http://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates/",
+		"domain": "blog.docker.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-docker-com201506announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates.png"
+	},
+	{
+		"curated_id": "2xzMWcuibnd2rNckinGsfK116Pd3UphKWbEtXTTYhkfiHlrCDYkL06lcqGWHsqB34H0Lws5WDL0gVF1MWIULPSbQ117117",
+		"item_date": "2015-06-09 00:00:00",
+		"title": "Getting BuyIn How To Sell Puppet to Managers  Developers",
+		"url": "https://puppetlabs.com/blog/how-to-sell-puppet-to-managers-and-developers",
+		"domain": "puppetlabs.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/puppetlabs-comhow-to-sell-puppet-to-managers-and-developers.png"
+	},
+	{
+		"curated_id": "Bz1UGXy9123eLNHjVRAXTyFTirM45khR3J123TOIZKxLkdZEMefKhyqTVo4n025kIWqB123D3L6YjIMtzGDjTLE0NkCw117117",
+		"item_date": "2015-06-06 00:00:00",
+		"title": "Google Create Kubernetesbased VMDocker Image Building Framework",
+		"url": "http://www.infoq.com/news/2015/06/gce-image-builder",
+		"domain": "www.infoq.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201506gce-image-builder.png"
+	},
+	{
+		"curated_id": "pHJO4NaBmkqKhL8z02YHqddiCw2F5BbMHEt93Iv7Gq8RFdT23123ulw0jH6qwZSqTSAg116txkFmxYT3MHzYhVD0Og117117",
+		"item_date": "2015-04-29 00:00:00",
+		"title": "Microsoft previews template deployments in Azure Resource Manager",
+		"url": "http://venturebeat.com/2015/04/29/microsoft-previews-vm-template-deployments-virtual-networks-in-azure-resource-manager/",
+		"domain": "venturebeat.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20150429microsoft-previews-vm-template-deployments-virtual-networks-in-azure-resource-manager.png"
+	}
+]
