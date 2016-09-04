@@ -21,46 +21,6 @@
 		]
 	},
 	{
-		"tool_id": "sCzqA3u0CGMcoNpdNXq02PqfnEBbROuYI7YTxoHhPsLgXNlVUjn0wRunfT5amRRmJCsuJCz3fXb12376ufNv9T116w117117",
-		"name": "Ascoltatori",
-		"user": "",
-		"details": "Ascoltatoriu0026nbsp;is the publish/subscribe library that supports every broker/protocol out there. This list currently includes:nnRabbitMQu0026nbsp;and all implementations of theu0026nbsp;AMQPu0026nbsp;protocol.nRedis, the fabulous key/value store byu0026nbsp;@antirez.nMosquittou0026nbsp;and all implementations of theu0026nbsp;MQTTu0026nbsp;protocol.nMongoDB, the documental NoSQL that is revolutioning how web apps are built.nZeroMQu0026nbsp;without a central broker, so Ascoltatori can also be used in a P2P fashion.nnThe source code ofu0026nbsp;Ascoltatoriu0026nbsp;had been annotated withu0026nbsp;doxu0026nbsp;and the generated documentation is available at:http://mcollina.github.com/ascoltatori/docs/ascoltatori.js.html",
-		"post_date": "2013-05-25 21:31:22",
-		"url": "",
-		"blog_url": "",
-		"blog_rss_url": "",
-		"twitter_url": "",
-		"github_url": "",
-		"logo": "",
-		"forks": 0,
-		"followers": 0,
-		"watchers": 0,
-		"tags": [
-			"Subscribe",
-			"Real Time",
-			"Publish"
-		]
-	},
-	{
-		"tool_id": "eua0hpxKBB7YQtXxcvIopgWvkC1BX9EAAAd9oiFKS9M24UHmFV3P7KlYu8Rk2FhCS3ncyv7UcaZLMIGm6EMLiQ117117",
-		"name": "Backplane",
-		"user": "",
-		"details": "Backplane Protocol serves as a u0026ldquo;message bus,u0026rdquo;enabling applications developed by disparate vendors to communicate with each other in real time.",
-		"post_date": "2013-06-03 22:02:09",
-		"url": "http://backplanex.com",
-		"blog_url": "",
-		"blog_rss_url": "",
-		"twitter_url": "",
-		"github_url": "",
-		"logo": "",
-		"forks": 0,
-		"followers": 0,
-		"watchers": 0,
-		"tags": [
-			"Real Time"
-		]
-	},
-	{
 		"tool_id": "ckhj2ZOpvUDFDOumu1hM3pDBYz8LaCB5oHY7h0JlMCjC7dRwZBHO7mG1smNFz0X4qwzVhvUi2ZjKSUioI24EVg117117",
 		"name": "deployd",
 		"user": "deployd",
