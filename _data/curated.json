@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "aI0GBztUvDgMcPb1EJax87123eKo5XX6GbHQcMRH2bckzk2WRm5Y3k3G4wr742QdBvFiODSSRht0ozQlKdvSDSmw117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Apache Kafka on Heroku is Now Generally Available",
+		"url": "https://blog.heroku.com/kafka-on-heroku-generally-available",
+		"domain": "blog.heroku.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UhRF2Z34nkXZpSkHs4v123jLfSBVy4Ks9ETYipdmf3A0jIyimLxTFyCaA116svHsJWJs1QRqu8tw3HWNWqhzWVQ6Fg117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Serverless WebSocket chat",
+		"url": "http://blog.fanout.io/2016/09/29/serverless-websocket-chat/",
+		"domain": "blog.fanout.io",
+		"image": ""
+	},
+	{
+		"curated_id": "NdyoLBHMTf2euWshOB1OTHwtZDTde6h5JkbGphA0VvCn2qwqJn618271dTLlaU6WUkHdmJqEUPGuFQEcQ8v123yg117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Twitter Open Sources Stream Processing Engine Heron",
+		"url": "https://www.infoq.com/news/2016/09/twitter-opensources-heron",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EBY0zLFLmJL1168xJyLUG7NtkP923LLeFYrzHywttPkf2JYLbsssM89GCSh123H036xS4jVSnJ8ZZyJRnB1s43OvAQ117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Introducing Apache Kafka on Heroku EventDriven Architecture for the Cloud Era",
+		"url": "https://developer.salesforce.com/blogs/developer-relations/2016/09/introducing-apache-kafka-heroku-event-driven-architecture-cloud-era.html",
+		"domain": "developer.salesforce.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123ymqHrW6aGhvFgMF1RtJd9koh9SPKaweuHuwoC1I6b9ksESwK2vbrcBbHnD4TyglKqEKdcFjnDOszDTOdR6g2Q117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Article Traffic Data Monitoring Using IoT Kafka and Spark Streaming",
+		"url": "http://www.infoq.com/articles/traffic-data-monitoring-iot-kafka-and-spark-streaming?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
 		"curated_id": "9IB6116rczhU99vSf0fJWOboigWTkhfeQKz2PS3BHICxWi9jCARRObaZmgpMv76hEqBqDBm5vt0pKpfRPrUAk02g117117",
 		"item_date": "2016-09-21 00:00:00",
 		"title": "Google Analytics RealTime Integration",
