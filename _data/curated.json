@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "nrksByu4KkQ8EOTRUssa4fPS6lYQ8kgEthrt68123j7U2EyFa116Fr72U7tOXPAVNbUNoe7NyKTlCeZiwDDGnr7JLg117117",
+		"item_date": "2016-10-04 00:00:00",
+		"title": "Netflix Zuul Gets a Makeover to a Asynchronous and NonBlocking Architecture",
+		"url": "https://www.infoq.com/news/2016/10/netflix-zuul-asynch-nonblocking",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
 		"curated_id": "5kOkhbGiu1230DcVsRVqSzdbU4dk8b116Fy2TmE123elXxEPHewzDdvTUF6EasQGRN6uhFbwoVMSXFz123VeXhDyDCIm7w117117",
 		"item_date": "2016-09-26 00:00:00",
 		"title": "How to View JMeter Test Results in RealTime",
