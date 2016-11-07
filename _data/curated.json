@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "BgwiTmvj5hLKrJi2htgJUM4eGspp5q5xYpS9cC5bJkyHl65Shy6SFO4YR0zX0xuYqE1160bstDgl98bglAhrTMAg117117",
+		"item_date": "2016-11-02 00:00:00",
+		"title": "PubSub A Short Introduction",
+		"url": "http://dret.typepad.com/dretblog/2016/11/pubsub-a-short-introduction.html",
+		"domain": "dret.typepad.com",
+		"image": ""
+	},
+	{
+		"curated_id": "iqHZEGf3HoaAK7KJXQAt0dNN1bKmTVKvKi42TSJ1238mN1rzlDwVYRa2UxpOZJ1164SjKCFRf116GiTlHQN7jttgN8QA117117",
+		"item_date": "2016-11-06 00:00:00",
+		"title": "Configuring WebSocket Server Endpoints",
+		"url": "https://dzone.com/articles/configuring-websocket-servernbspendpoints?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "NYSzfCVZqZ5123Jx4HzFM64skmp49QMmCvnZ116hdWWlTTOUy9IMhKiVadEcoRf6VvLBEE4hDPrnIcC0yIPAj2sfXQ117117",
 		"item_date": "2016-10-21 00:00:00",
 		"title": "Persistent Connections With Nodejs and Socketio",
