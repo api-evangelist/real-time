@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "jrEtLM7QF6j4eZpCP37AUodrRdyNdU5j0hCw123QGEyWAWEmeeftld116fk116Ia4qweFYwxht7heWRSY9DECICQyBvg117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Microservices and Stream Processing Architecture at Zalando Using Apache Flink",
+		"url": "https://www.infoq.com/news/2016/10/zalando-stream-processing-flink",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
 		"curated_id": "BgwiTmvj5hLKrJi2htgJUM4eGspp5q5xYpS9cC5bJkyHl65Shy6SFO4YR0zX0xuYqE1160bstDgl98bglAhrTMAg117117",
 		"item_date": "2016-11-02 00:00:00",
 		"title": "PubSub A Short Introduction",
