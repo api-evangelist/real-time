@@ -1,9 +1,17 @@
 [
 	{
+		"curated_id": "aV3Xn6YfwMqTWlli1BomBzqVOZi7WRe7NJSAoD52V0UHdX34123WZ4Ci1APzviii123HaVtFybfxGvewX6u2Bt93xg117117",
+		"item_date": "2017-02-25 00:00:00",
+		"title": "REST over WebSockets instead of HTTP",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
 		"curated_id": "sGkPOeaGcdUgHMP99mrHuhkxQ123BkcDys0IA415qLAsL123hQEf5EXB4jyYXw9FlHMS0aE116EkHDpMga7IipG42x0g117117",
 		"item_date": "2017-02-22 00:00:00",
 		"title": "Enhancing Slacks Events API",
-		"url": "https://medium.com/slack-developer-blog/enhancing-slacks-events-api-7535827829ab?source=rss----d76c0605b922---4",
+		"url": "https://medium.com/slack-developer-blog/enhancing-slacks-events-api-7535827829ab",
 		"domain": "medium.com",
 		"image": ""
 	},
