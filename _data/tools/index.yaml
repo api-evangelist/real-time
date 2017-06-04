@@ -1,0 +1,44 @@
+- slug: angularfire
+  name: angularfire
+  description: AngularJS bindings for Firebase
+  url: 'https://github.com/firebase/angularfire'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Single Page Applications,Real Time'
+- slug: deployd
+  name: deployd
+  description: a toolkit for building realtime APIs
+  url: 'https://github.com/deployd/deployd'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Design,Design,Deployment,Real Time'
+- slug: pushpin
+  name: pushpin
+  description: Reverse proxy for realtime web services
+  url: 'https://github.com/fanout/pushpin'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Real Time
+- slug: hookbot
+  name: hookbot
+  description: Turn webhooks into websockets
+  url: 'https://github.com/scraperwiki/hookbot'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Webhooks,WebSockets,Real Time'
