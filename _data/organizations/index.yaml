@@ -1,0 +1,378 @@
+- slug: amazon-web-services
+  name: Amazon Web Services
+  description: >-
+    Amazon Web Services(AWS) is a collection of remote computing services (also
+    called web services) that together make up a cloud computing platform,
+    offered over the Internet by Amazon.com. The most central and well-known of
+    these services are Amazon EC2 and Amazon S3. The service is advertised as
+    providing a large computing capacity (potentially many servers) much faster
+    and cheaper than building a physical server farm.
+  url: 'http://aws.amazon.com'
+  short_url: ''
+  twitter: 'https://twitter.com/awscloud'
+  blog: 'http://aws.amazon.com/blogs/aws/'
+  blog_rss: 'http://feeds.feedburner.com/AmazonWebServicesBlog'
+  github: 'https://github.com/amazonwebservices'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg
+  tags: >-
+    Storage,DNS,BaaS,Payments,Hypermedia,Cloud,Compute,My API
+    Stack,Management,Voice,Partners,Plans,API LIfeycle,Real
+    Time,Serverless,Advertising,Commerce,Database,Command Line Interface,DNS
+    Cloud,Getting Started,Orchestration
+- slug: beaconpush
+  name: Beaconpush
+  description: >-
+    Beaconpush is a push service for creating real-time web apps using HTML5
+    WebSockets and Comet. Beaconpush changes the traditional request-response
+    flow of the web by creating a persistent real-time message stream to each of
+    your visitors. Enabling you to reach your visitors without requiring them to
+    constantly poll your website.
+  url: 'http://beaconpush.com'
+  short_url: ''
+  twitter: 'https://twitter.com/beaconpush'
+  blog: ''
+  blog_rss: 'http://pushingtheweb.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/beacon-push.png
+  tags: 'Realtime,Messaging,Notifications,Real Time Dead'
+- slug: streamdataio
+  name: StreamdataIO
+  description: >-
+    streamdata.io is a real-time cache proxy allowing you to poll standard
+    public REST APIs and push updates to clients. But wait, there is more :
+    streamdata.io keeps a history of modifications that occur on the data
+    between two pollings! This way, streamdata.io is able to give you the list
+    of modifications which happened since last time you fetched the data.
+  url: 'http://streamdata.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/StreamdataIO'
+  blog: 'http://streamdata.io/blog/'
+  blog_rss: 'http://streamdata.io/feed/'
+  github: 'https://github.com/streamdataio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/streamdata-io-logo.png
+  tags: 'Real Time,Deployment'
+- slug: cloudboost.io
+  name: CloudBoost.io
+  description: >-
+    CloudBoost can power your app's backend, including data storage, user
+    authentication, real-time notifications, search and more. Focus on creating
+    extraordinary user experiences for your users. We'll take care of the
+    rest.&nbsp;
+  url: 'https://www.cloudboost.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/cloudboostio'
+  blog: 'https://blog.cloudboost.io/'
+  blog_rss: 'http://cbblog.azurewebsites.net/rss/'
+  github: 'https://github.com/cloudboost'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudboost-logo.png
+  tags: 'Real Time,BaaS'
+- slug: firebase
+  name: Firebase
+  description: >-
+    Firebase is a mobile platform that helps you
+    quickly&nbsp;develop&nbsp;high-quality apps,&nbsp;grow&nbsp;your user base,
+    and&nbsp;earn&nbsp;more money. Firebase is made up of complementary features
+    that you can mix-and-match to fit your needs.
+  url: 'https://firebase.google.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/firebase'
+  blog: 'https://firebase.googleblog.com/'
+  blog_rss: 'http://firebase.googleblog.com/feeds/posts/default?alt=rss'
+  github: 'https://github.com/firebase'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png
+  tags: >-
+    Real Time,API LIfeycle,Database,Command Line Interface,Links,Google
+    APIs,Security,Testing,Virtualization
+- slug: pubnub
+  name: PubNub
+  description: >-
+    PubNub is a blazingly fast cloud-hosted messaging service for building
+    real-time web and mobile apps. Hundreds of apps and thousands of developers
+    rely on PubNub for delivering &ldquo;human-perceptive&rdquo; real-time
+    experiences that scale to millions of users worldwide. PubNub delivers the
+    infrastructure needed to build amazing MMO games, social apps, business
+    collaborative solutions, and more.
+  url: 'http://pubnub.com'
+  short_url: ''
+  twitter: 'https://twitter.com/pubnub'
+  blog: 'http://blog.pubnub.com'
+  blog_rss: 'http://blog.pubnub.com/feed/'
+  github: 'https://github.com/pubnub'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/pubnub-large.png
+  tags: 'Real Time,API LIfeycle'
+- slug: apache-flink
+  name: Apache Flink
+  description: >-
+    Flink&rsquo;s core is a streaming dataflow engine that provides data
+    distribution, communication, and fault tolerance for distributed
+    computations over data streams. Flink includes several APIs for creating
+    applications that use the Flink engine. You can integrate Flink easily with
+    other well-known open source systems both for data input and output as well
+    as deployment.
+  url: 'https://flink.apache.org/'
+  short_url: ''
+  twitter: ''
+  blog: 'https://flink.apache.org/blog/'
+  blog_rss: 'https://flink.apache.org/blog/feed.xml'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-fink.jpeg
+  tags: Real Time
+- slug: fanout
+  name: Fanout
+  description: >-
+    Fanout offers software and cloud services that assist with implementing and
+    scaling real-time functionality in websites, apps, and APIs. Add realtime
+    push to your apps and services. Realtime updates get pushed to your app or
+    website without an explicit refresh. It's great for notifications, gaming,
+    chat programs, and more!
+  url: 'https://fanout.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/fanout'
+  blog: 'http://blog.fanout.io/'
+  blog_rss: 'http://blog.fanout.io/feed/'
+  github: 'https://github.com/fanout'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fanout-io-logo.png
+  tags: Real Time
+- slug: heartbeat
+  name: Heartbeat
+  description: >-
+    Heartbeat tranforms REST endpoints into streaming APIs painlessly, with zero
+    lines of code. Heartbeat transformed streams are accessible from the
+    dashboard, or universally via Javascript and REST based APIs. With the flick
+    of a switch, heartbeat can store updates for up to six hours. It also
+    provides an API and a data view for visually accessing historical data.
+  url: 'https://heartbeat.appbase.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Heartbeat-Logo.png
+  tags: Real Time
+- slug: realtime.co
+  name: Realtime.co
+  description: >-
+    Realtime is a technology that comes to life via 4 products that allow
+    website visitors to interact in real time with the website server. So
+    whether they are shopping online, visiting a newspaper site or just
+    browsing, they can receive dedicated information, be offered products based
+    on a truly individual profile that can be updated second by second, or
+    receive special ad contents pushed to the browser.
+  url: 'http://www.realtime.co/'
+  short_url: ''
+  twitter: 'https://twitter.com/RTWworld'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/RTWWorld'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2182_logo.png
+  tags: Real Time
+- slug: superfeedr
+  name: superfeedr
+  description: >-
+    Superfeedr fetches and parses RSS or Atom feeds on behalf of its users and
+    then pushes them the new entries in these feeds. Superfeedr implements most
+    of the current Real-time technologies and guarantees an entry detection time
+    inferior to 15 min. Superfeedr has both an XMPP and a PubSubHubbub API.
+  url: 'https://superfeedr.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/superfeedr'
+  blog: 'http://blog.superfeedr.com/'
+  blog_rss: 'http://blog.superfeedr.com/atom.xml'
+  github: 'https://github.com/superfeedr'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/superfeedr-logo.png
+  tags: Real Time
+- slug: the-netty-project
+  name: The Netty project
+  description: >-
+    Netty is an asynchronous event-driven network application framework for
+    rapid development of maintainable high performance protocol servers &amp;
+    clients. Netty is a NIO client server framework which enables quick and easy
+    development of network applications such as protocol servers and clients. It
+    greatly simplifies and streamlines network programming such as TCP and UDP
+    socket server.
+  url: 'http://netty.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/netty_project'
+  blog: ''
+  blog_rss: 'http://feeds.feedburner.com/netty_project'
+  github: 'https://github.com/netty/'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/netty-project.png
+  tags: Real Time
+- slug: pushwoosh
+  name: Pushwoosh
+  description: >-
+    Explore our brilliant service with the free Pushwoosh account and send
+    unlimited push notifications to up to one million devices! Engage your
+    users, stay in touch with your customers, and push up your sales with a
+    single easy-to-use service.
+  url: 'http://www.pushwoosh.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/Pushwoosh'
+  blog: 'http://www.pushwoosh.com/blog/'
+  blog_rss: 'http://www.pushwoosh.com/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/push-woosh-logo.png
+  tags: 'Push Notifications,Real Time'
+- slug: google-cloud-pub/sub
+  name: Google Cloud Pub/Sub
+  description: >-
+    Cloud Pub/Sub is a fully-managed real-time messaging service that allows you
+    to send and receive messages between independent applications. You can
+    leverage Cloud Pub/Sub&rsquo;s flexibility to decouple systems and
+    components hosted on Google Cloud Platform or elsewhere on the Internet. By
+    building on the same technology Google uses, Cloud Pub/Sub is designed to
+    provide &ldquo;at least once&rdquo; delivery at low latency with on-demand
+    scalability to 1 million messages per second (and beyond).
+  url: 'https://cloud.google.com/pubsub/docs/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-pub-sub-middleware.png
+  tags: 'Messaging,Real Time,Google APIs,Internet of Things'
+- slug: matrix
+  name: Matrix
+  description: >-
+    Matrix is an open standard for decentralised communication, providing simple
+    HTTP APIs and open source reference implementations for securely
+    distributing and persisting JSON over an open federation of servers.
+  url: 'http://matrix.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/matrixdotorg'
+  blog: 'http://matrix.org/blog/posts/'
+  blog_rss: 'http://matrix.org/blog/comments/feed/'
+  github: 'https://github.com/matrix-org'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/matrix.png
+  tags: 'Messaging,Real Time'
+- slug: pusher
+  name: Pusher
+  description: >-
+    Pusher is a hosted service that allows developers to quickly and easily add
+    realtime functionality into their web and mobile applications. Our goal is
+    to take away the management and operations of a company's realtime
+    infrastructure, so that developers can focus energy on the features of their
+    product that make them unique.
+  url: 'http://pusher.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/pusher'
+  blog: 'http://blog.pusher.com/'
+  blog_rss: 'http://feeds.feedburner.com/pusherb'
+  github: 'https://github.com/pusher'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/pusher-logo.png
+  tags: 'HTML5,Infrastructure,WebSockets,API United Kingdom,Real Time,API LIfeycle'
+- slug: zeit
+  name: Zeit
+  description: >-
+    Make cloud computing as easy and accessible as mobile computing. To be truly
+    easy, cloud computing should be as easy as a tap or command. To connect
+    everyone, applications have to be fast from every geographical point. To be
+    accessible, great care has to go into the user experience and design. We
+    build products for developers and designers. And those who aspire to become
+    one.
+  url: 'https://zeit.co/'
+  short_url: ''
+  twitter: 'https://twitter.com/zeithq'
+  blog: 'https://zeit.co/blog'
+  blog_rss: ''
+  github: 'https://github.com/zeit/'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2017-01-11 at 10.19.30 PM.png
+  tags: 'Deployment,Real Time'
+- slug: logmatic
+  name: Logmatic
+  description: >-
+    Funnel all logs, metrics, and machine events into a single hub. Get a clear
+    overview of what is happening across your distributed environments, and spot
+    the needle in the haystack in no time. We believe that with the right
+    information, driving your business to success is much easier. Machine data
+    is that kind of incredibly valuable information, coming from the very core
+    of your business operations. So we created Logmatic.io; a friendly platform
+    continuously evolving to make your life simpler.
+  url: 'http://logmatic.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/logmatic_'
+  blog: 'http://logmatic.io/blog/'
+  blog_rss: ''
+  github: 'https://github.com/logmatic'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Logmatic-io-Logo.png
+  tags: 'Data,Real Time,Logging'
+- slug: treaty
+  name: Treaty
+  description: >-
+    Treaty is a realtime collaborative text editor that makes it easy to add
+    document collaboration to your web application. A few simple lines of
+    Javascript, and your customers will be able to collaborate on their work
+    like never before! Best of all, your customers stay on your site and don't
+    even need to know they're using a third-party application.
+  url: 'https://treatytime.com/developers'
+  short_url: ''
+  twitter: 'https://twitter.com/treatytime'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/treaty-logo.png
+  tags: 'Collaboration,Real Time'
+- slug: apache-apollo
+  name: Apache Apollo
+  description: >-
+    ActiveMQ Apollo is a faster, more reliable, easier to maintain messaging
+    broker built from the foundations of the original ActiveMQ. It accomplishes
+    this using a radically different threading and message dispatching
+    architecture. Like ActiveMQ, Apollo is a multi-protocol broker and supports
+    STOMP, AMQP, MQTT, Openwire, SSL, and WebSockets.
+  url: 'http://activemq.apache.org/apollo/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://activemq.apache.org/apollo/blog/index.html'
+  blog_rss: 'http://activemq.apache.org/apollo/blog/index.rss'
+  github: 'https://github.com/apache/activemq-apollo'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-apollo-logo.png
+  tags: 'Apache,Real Time'
+- slug: aws-kinesis-firehose
+  name: AWS Kinesis Firehose
+  description: >-
+    Amazon Kinesis Firehose is the easiest way to load&nbsp;streaming
+    data&nbsp;into AWS. It can capture, transform,&nbsp;and load streaming data
+    into&nbsp;Amazon Kinesis Analytics,&nbsp;Amazon S3,&nbsp;Amazon Redshift,
+    and&nbsp;Amazon Elasticsearch Service, enabling near real-time analytics
+    with existing business intelligence tools and dashboards you&rsquo;re
+    already using today. It is a fully managed service that automatically scales
+    to match the throughput of your data and requires no ongoing administration.
+    It can also batch, compress, and encrypt the data before loading it,
+    minimizing the amount of storage used at the destination and increasing
+    security. You can easily create a Firehose delivery stream from the&nbsp;AWS
+    Management Console, configure it with a few clicks, and start sending data
+    to the stream from hundreds of thousands of data sources to be loaded
+    continuously to AWS &ndash; all in just a few minutes. With Amazon Kinesis
+    Firehose, you only pay for the amount of data you transmit through the
+    service. There is no minimum fee or setup cost.
+  url: 'https://aws.amazon.com/kinesis/firehose/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  tags: 'Amazon Web Services,Real Time,Database,Data'
