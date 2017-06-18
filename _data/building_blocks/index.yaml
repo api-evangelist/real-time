@@ -1,264 +1,596 @@
-- building_block_id: load-testing
-  type: Testing
-  category: Core Testing
-  name: Load Testing
-  description: Offer loading testing services for HTTP endpoints.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-load-testing.jpeg
-  tags: Testing
-- building_block_id: response-header-inspector
-  type: Testing
-  category: Core Testing
-  name: Response Header Inspector
-  description: Ability to inspect a response header.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-inspection.png
-  tags: Testing
-- building_block_id: response-body-inspector
-  type: Testing
-  category: Core Testing
-  name: Response Body Inspector
-  description: Ability to inspect a response body.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-inspection.png
-  tags: Testing
-- building_block_id: request-retry
-  type: Testing
-  category: Core Testing
-  name: Request Retry
-  description: Ability to retry a specific request.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-retry.png
-  tags: Testing
-- building_block_id: request-sharing
-  type: Testing
-  category: Core Testing
-  name: Request Sharing
-  description: Allow for the sharing of requests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-sharing.jpeg
-  tags: Testing
-- building_block_id: request-playback
-  type: Testing
-  category: Core Testing
-  name: Request Playback
-  description: Enable the playback of a single request.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-play.jpg
-  tags: Testing
-- building_block_id: request-scheduling
-  type: Testing
-  category: Core Testing
-  name: Request Scheduling
-  description: Allow for the scheduling of requests at a specific time.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-scheduling.jpeg
-  tags: Testing
-- building_block_id: request-compare
-  type: Testing
-  category: Core Testing
-  name: Request Compare
-  description: Allow for the comparing of two requests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-compare.png
-  tags: Testing
-- building_block_id: request-scripting
-  type: Testing
-  category: Core Testing
-  name: Request Scripting
-  description: Provide the ability to script against requests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-html-code.png
-  tags: Testing
-- building_block_id: request-automation
-  type: Testing
-  category: Core Testing
-  name: Request Automation
-  description: Allow for the automation of multiple requests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-clock-gear.png
-  tags: Testing
-- building_block_id: request-commenting
-  type: Testing
-  category: Core Testing
-  name: Request Commenting
-  description: Enabling users to comment on a specific request.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-chat.png
-  tags: Testing
-- building_block_id: simulator
-  type: Testing
-  category: Core Testing
-  name: Simulator
-  description: Provide tools for simulating requests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-siimulation.png
-  tags: Testing
-- building_block_id: templates
-  type: Testing
-  category: Core Testing
-  name: Templates
-  description: Offer templates of common or specialized requests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-data-template.png
-  tags: Testing
-- building_block_id: data-scenarios
-  type: Testing
-  category: Core Testing
-  name: Data Scenarios
-  description: Provide specific data scenarios that can be executed.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-scenario.png
-  tags: Testing
-- building_block_id: region-based-testing
-  type: Testing
-  category: Targeted Testing
-  name: Region Based Testing
-  description: Allow for testing from a specific region.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-region.png
-  tags: Testing
-- building_block_id: provider-based-testing
-  type: Testing
-  category: Targeted Testing
-  name: Provider Based Testing
-  description: Allow for testing from a specific provider
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-api-provider.png
-  tags: Testing
-- building_block_id: basicauth
-  type: Testing
+- building_block_id: simple-or-streaming-text-orientated-messaging-protocol-stomp
+  type: Real Time
+  category: Technology
+  name: Simple (or Streaming) Text Orientated Messaging Protocol (STOMP)
+  description: >-
+    STOMP is the Simple (or Streaming) Text Orientated Messaging Protocol. STOMP
+    provides an interoperable wire format so that STOMP clients can communicate
+    with any STOMP message broker to provide easy and widespread messaging
+    interoperability among many languages, platforms and brokers.
+  image: ''
+  tags: Real Time
+- building_block_id: advanced-message-queuing-protocol-amqp
+  type: Real Time
+  category: Technology
+  name: Advanced Message Queuing Protocol (AMQP)
+  description: >-
+    The Advanced Message Queuing Protocol (AMQP) is an open standard for passing
+    business messages between applications or organizations.  It connects
+    systems, feeds business processes with the information they need and
+    reliably transmits onward the instructions that achieve their goals.
+  image: ''
+  tags: Real Time
+- building_block_id: mqtt
+  type: Real Time
+  category: Technology
+  name: MQTT
+  description: >-
+    MQTT is a machine-to-machine (M2M)/Internet of Things connectivity protocol.
+    It was designed as an extremely lightweight publish/subscribe messaging
+    transport. It is useful for connections with remote locations where a small
+    code footprint is required and/or network bandwidth is at a premium.
+  image: ''
+  tags: Real Time
+- building_block_id: rss
+  type: Real Time
+  category: Technology
+  name: RSS
+  description: >-
+    RSS (Rich Site Summary; originally RDF Site Summary; often called Really
+    Simple Syndication) uses a family of standard web feed formats to publish
+    frequently updated information: blog entries, news headlines, audio, video.
+    An RSS document (called feed, web feed, or channel) includes full or
+    summarized text, and metadata, like publishing date and author's name.
+  image: ''
+  tags: Real Time
+- building_block_id: atom
+  type: Real Time
+  category: Technology
+  name: Atom
+  description: >-
+    The name Atom applies to a pair of related Web standards. The Atom
+    Syndication Format is an XML language used for web feeds, while the Atom
+    Publishing Protocol (AtomPub or APP) is a simple HTTP-based protocol for
+    creating and updating web resources.
+  image: ''
+  tags: Real Time
+- building_block_id: json
+  type: Real Time
+  category: Technology
+  name: JSON
+  description: >-
+    JSON (JavaScript Object Notation) is a lightweight data-interchange format.
+    It is easy for humans to read and write. It is easy for machines to parse
+    and generate.
+  image: ''
+  tags: Real Time
+- building_block_id: openwire
+  type: Real Time
+  category: Technology
+  name: OpenWire
+  description: >-
+    OpenWire is our cross language Wire Protocol to allow native access to
+    ActiveMQ from a number of different languages and platforms. The Java
+    OpenWire transport is the default transport in ActiveMQ 4.x or later.
+  image: ''
+  tags: Real Time
+- building_block_id: webhooks
+  type: Real Time
+  category: Technology
+  name: Webhooks
+  description: >-
+    A webhook in web development is a method of augmenting or altering the
+    behavior of a web page, or web application, with custom callbacks. These
+    callbacks may be maintained, modified, and managed by third-party users and
+    developers who may not necessarily be affiliated with the originating
+    website or application.
+  image: ''
+  tags: Real Time
+- building_block_id: websockets
+  type: Real Time
+  category: Technology
+  name: Websockets
+  description: >-
+    WebSocket is a protocol providing full-duplex communication channels over a
+    single TCP connection. The WebSocket protocol was standardized by the IETF
+    as RFC 6455 in 2011, and the WebSocket API in Web IDL is being standardized
+    by the W3C.
+  image: ''
+  tags: Real Time
+- building_block_id: extensible-messaging-and-presence-protocol-xmpp
+  type: Real Time
+  category: Technology
+  name: Extensible Messaging and Presence Protocol (XMPP)
+  description: >-
+    XMPP is the Extensible Messaging and Presence Protocol, a set of open
+    technologies for instant messaging, presence, multi-party chat, voice and
+    video calls, collaboration, lightweight middleware, content syndication, and
+    generalized routing of XML data.
+  image: ''
+  tags: Real Time
+- building_block_id: sockjs
+  type: Real Time
+  category: Technology
+  name: SockJS
+  description: >-
+    SockJS is a browser JavaScript library that provides a WebSocket-like
+    object. SockJS gives you a coherent, cross-browser, Javascript API which
+    creates a low latency, full duplex, cross-domain communication channel
+    between the browser and the web server.
+  image: ''
+  tags: Real Time
+- building_block_id: pubsubhubbub
+  type: Real Time
+  category: Technology
+  name: PubSubHubbub
+  description: >-
+    PubSubHubbub is an open protocol for distributed publish/subscribe
+    communication on the Internet. Initially designed to extend the Atom (and
+    RSS) protocols for data feeds, the protocol can be applied to any data type
+    (e.g. HTML, text, pictures, audio, video) as long as it is accessible via
+    HTTP. Its main purpose is to provide real-time notifications of changes,
+    which improves upon the typical situation where a client periodically polls
+    the feed server at some arbitrary interval. In this way, PubSubHubbub
+    provides pushed HTTP notifications without requiring clients to spend
+    resources on polling for changes.
+  image: ''
+  tags: Real Time
+- building_block_id: protocol-buffers
+  type: Real Time
+  category: Technology
+  name: Protocol Buffers
+  description: >-
+    Protocol buffers are Google's language-neutral, platform-neutral, extensible
+    mechanism for serializing structured data – think XML, but smaller, faster,
+    and simpler. You define how you want your data to be structured once, then
+    you can use special generated source code to easily write and read your
+    structured data to and from a variety of data streams and using a variety of
+    languages.
+  image: ''
+  tags: Real Time
+- building_block_id: real-time-streaming-protocol-rtsp
+  type: Real Time
+  category: Technology
+  name: Real Time Streaming Protocol (RTSP)
+  description: >-
+    The Real Time Streaming Protocol (RTSP) is a network control protocol
+    designed for use in entertainment and communications systems to control
+    streaming media servers. The protocol is used for establishing and
+    controlling media sessions between end points. Clients of media servers
+    issue VCR-style commands, such as play and pause, to facilitate real-time
+    control of playback of media files from the server.
+  image: ''
+  tags: Real Time
+- building_block_id: hypertext-transfer-protocol-http
+  type: Real Time
+  category: Technology
+  name: Hypertext Transfer Protocol (HTTP)
+  description: >-
+    The Hypertext Transfer Protocol (HTTP) is an application protocol for
+    distributed, collaborative, hypermedia information systems.[1] HTTP is the
+    foundation of data communication for the World Wide Web.
+  image: ''
+  tags: Real Time
+- building_block_id: transmission-control-protocol-tcp
+  type: Real Time
+  category: Technology
+  name: Transmission Control Protocol (TCP)
+  description: >-
+    The Transmission Control Protocol (TCP) is a core protocol of the Internet
+    protocol suite. It originated in the initial network implementation in which
+    it complemented the Internet Protocol (IP). Therefore, the entire suite is
+    commonly referred to as TCP/IP. TCP provides reliable, ordered, and
+    error-checked delivery of a stream of octets between applications running on
+    hosts communicating over an IP network.
+  image: ''
+  tags: Real Time
+- building_block_id: user-datagram-protocol-udp
+  type: Real Time
+  category: Technology
+  name: User Datagram Protocol (UDP)
+  description: >-
+    The User Datagram Protocol (UDP) is one of the core members of the Internet
+    protocol suite. The protocol was designed by David P. Reed in 1980 and
+    formally defined in RFC 768. UDP uses a simple connectionless transmission
+    model with a minimum of protocol mechanism. It has no handshaking dialogues,
+    and thus exposes the user's program to any unreliability of the underlying
+    network protocol. There is no guarantee of delivery, ordering, or duplicate
+    protection. UDP provides checksums for data integrity, and port numbers for
+    addressing different functions at the source and destination of the
+    datagram.
+  image: ''
+  tags: Real Time
+- building_block_id: ftp
+  type: Real Time
+  category: Technology
+  name: FTP
+  description: >-
+    The File Transfer Protocol (FTP) is a standard network protocol used to
+    transfer computer files between a client and server on a computer network.
+    FTP is built on a client-server model architecture and uses separate control
+    and data connections between the client and the server.[1] FTP users may
+    authenticate themselves with a clear-text sign-in protocol, normally in the
+    form of a username and password, but can connect anonymously if the server
+    is configured to allow it.
+  image: ''
+  tags: Real Time
+- building_block_id: simple-mail-transfer-protocol-smtp
+  type: Real Time
+  category: Technology
+  name: Simple Mail Transfer Protocol (SMTP)
+  description: >-
+    Simple Mail Transfer Protocol (SMTP) is an Internet standard for electronic
+    mail (email) transmission. First defined by RFC 821 in 1982, it was last
+    updated in 2008 with the Extended SMTP additions by RFC 5321—which is the
+    protocol in widespread use today. SMTP by default uses TCP port 25.
+  image: ''
+  tags: Real Time
+- building_block_id: serversent-events
+  type: Real Time
+  category: Technology
+  name: Server-Sent Events
+  description: >-
+    Server-sent events (SSE) is a technology where a browser receives automatic
+    updates from a server via HTTP connection. The Server-Sent Events
+    EventSource API is standardized as part of HTML5 by the W3C.
+  image: ''
+  tags: Real Time
+- building_block_id: http-live-streaming-hls
+  type: Real Time
+  category: Technology
+  name: HTTP Live Streaming (HLS)
+  description: >-
+    HTTP Live Streaming (also known as HLS) is an HTTP-based media streaming
+    communications protocol implemented by Apple Inc. as part of its QuickTime,
+    Safari, OS X, and iOS software.
+  image: ''
+  tags: Real Time
+- building_block_id: http-long-polling
+  type: Real Time
+  category: Technology
+  name: HTTP Long Polling
+  description: >-
+    HTTP long polling, where the client polls the server requesting new
+    information.  The server holds the request open until new data is available.
+    Once available, the server responds and sends the new information. When the
+    client receives the new information, it immediately sends another request,
+    and the operation is repeated. This effectively emulates a server push
+    feature.
+  image: ''
+  tags: Real Time
+- building_block_id: presence
+  type: Real Time
+  category: Features
+  name: Presence
+  description: >-
+    Presence provides information on when a user has joined or left a channel,
+    who, and how many, users are subscribed to a particular channel, which
+    channel(s) an individual user is subscribed to associated state information
+    for these users, which may include latitude / longitude, typing status, and
+    more.
+  image: ''
+  tags: Real Time
+- building_block_id: push-notifications
+  type: Real Time
+  category: Features
+  name: Push Notifications
+  description: >-
+    Push notifications let your application notify a user of new messages or
+    events even when the user is not actively using your application. On Android
+    devices, when a device receives a push notification, your application's icon
+    and a message appear in the status bar.
+  image: ''
+  tags: Real Time
+- building_block_id: messaging
+  type: Real Time
+  category: Features
+  name: Messaging
+  description: >-
+    Approaches to enabling messaging for users from custom formats, to SMTP,
+    XMPP chat, and any other way of sending messages back and forth between
+    clients.
+  image: ''
+  tags: Real Time
+- building_block_id: chat
+  type: Real Time
+  category: Features
+  name: Chat
+  description: >-
+    Providing a always on experience when messaging, establishing presence
+    awareness of each user that is part of a conversation.
+  image: ''
+  tags: Real Time
+- building_block_id: groups
+  type: Real Time
+  category: Features
+  name: Groups
+  description: >-
+    Allow users and applications to be put into lists, allowing real time
+    features to participants of these groups.
+  image: ''
+  tags: Real Time
+- building_block_id: search
+  type: Real Time
+  category: Features
+  name: Search
+  description: >-
+    Providing search features, allowing the real time search of users, messages,
+    and other data or content.
+  image: ''
+  tags: Real Time
+- building_block_id: scheduling
+  type: Real Time
+  category: Features
+  name: Scheduling
+  description: >-
+    Offering the ability to schedule messages, jobs, and other events, and allow
+    triggering of them on defined schedules.
+  image: ''
+  tags: Real Time
+- building_block_id: multilingual
+  type: Real Time
+  category: Features
+  name: Multi-Lingual
+  description: >-
+    Providing default multi-lingual support, either natively or through real
+    time translation.
+  image: ''
+  tags: Real Time
+- building_block_id: offline
+  type: Real Time
+  category: Features
+  name: Offline
+  description: >-
+    Provide graceful degradation of services when their is no network
+    connection, allowing for seamless on and offline transitions.
+  image: ''
+  tags: Real Time
+- building_block_id: java-authentication-and-authorization-service-jaas
+  type: Real Time
   category: Authentication
-  name: Basic-Auth
-  description: Use Basic Auth for authentication.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-basic-auth.jpg
-  tags: Testing
-- building_block_id: api-keys
-  type: Testing
+  name: Java Authentication and Authorization Service (JaaS)
+  description: >-
+    Java Authentication and Authorization Service, or JAAS, pronounced Jazz, is
+    the Java implementation of the standard Pluggable Authentication Module
+    (PAM) information security framework. JAAS was introduced as an extension
+    library to the Java Platform, Standard Edition 1.3 and was integrated in
+    version 1.4.
+  image: ''
+  tags: Real Time
+- building_block_id: aclbased-authorization
+  type: Real Time
   category: Authentication
-  name: API Keys
-  description: Use API keys for authentication.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-key.png
-  tags: Testing
-- building_block_id: oauth
-  type: Testing
-  category: Authentication
-  name: OAuth
-  description: Use OAuth for authentication.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/oauth-logo.png
-  tags: Testing
-- building_block_id: collections
-  type: Testing
-  category: Utility
-  name: Collections
-  description: Allow tests to be organized into collections.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-collection.png
-  tags: Testing
-- building_block_id: command-line-interface
-  type: Testing
-  category: Utility
-  name: Command Line Interface
-  description: Provide a command line interface for working with tests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
-  tags: Testing
-- building_block_id: teams
-  type: Testing
-  category: Utility
-  name: Teams
-  description: Allow for team interaction when testing.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-team-male-female.png
-  tags: Testing
-- building_block_id: api
-  type: Testing
-  category: Utility
-  name: API
-  description: Provide an API for all parts of testing platform.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/api-commons-icon.png
-  tags: Testing
-- building_block_id: postman
-  type: Testing
-  category: Import
-  name: Postman
-  description: Allow for the importing of APIs with Postman.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-postman.png
-  tags: Testing
-- building_block_id: openapi-spec
-  type: Testing
-  category: Import
-  name: OpenAPI Spec
-  description: Allow for the importing of APIs with OpenAPI Spec.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-swagger-round.png
-  tags: Testing
-- building_block_id: raml
-  type: Testing
-  category: Import
-  name: RAML
-  description: Allow for the importing of APIs with RAML.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-raml.png
-  tags: Testing
-- building_block_id: har
-  type: Testing
-  category: Import
-  name: HAR
-  description: Allow for the importing of APIs with HAR
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-har-file.png
-  tags: Testing
-- building_block_id: jmeter
-  type: Testing
-  category: 3rd Party
-  name: JMeter
-  description: Provide 3rd party integration with JMeter.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/jmeter-logo.jpg
-  tags: Testing
-- building_block_id: selenium
-  type: Testing
-  category: 3rd Party
-  name: Selenium
-  description: Provide 3rd party integration with Selenium.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/selenium-icon.png
-  tags: Testing
-- building_block_id: jenkins
-  type: Testing
-  category: 3rd Party
-  name: Jenkins
-  description: Provide 3rd party integration with Jenkins.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/jenkins-logo.png
-  tags: Testing
-- building_block_id: teamcity
-  type: Testing
-  category: 3rd Party
-  name: TeamCity
-  description: Provide 3rd party integration with TeamCity.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/teamcity_logo.png
-  tags: Testing
-- building_block_id: bamboo
-  type: Testing
-  category: 3rd Party
-  name: Bamboo
-  description: Provide 3rd party integration with Bamboo.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bamboo-icon.png
-  tags: Testing
-- building_block_id: travis
-  type: Testing
-  category: 3rd Party
-  name: Travis
-  description: Provide 3rd party integration with Travis.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/travis-mascot-200px.png
-  tags: Testing
+  name: ACL-Based Authorization
+  description: >-
+    An access control list (ACL), with respect to a computer file system, is a
+    list of permissions attached to an object. An ACL specifies which users or
+    system processes are granted access to objects, as well as what operations
+    are allowed on given objects.[1] Each entry in a typical ACL specifies a
+    subject and an operation. For instance, if a file object has an ACL that
+    contains (Alice: read,write; Bob: read), this would give Alice permission to
+    read and write the file and Bob to only read it.
+  image: ''
+  tags: Real Time
+- building_block_id: transport-layer-security-tls--secure-sockets-layer-ssl
+  type: Real Time
+  category: Security
+  name: Transport Layer Security (TLS) & Secure Sockets Layer (SSL)
+  description: >-
+    Transport Layer Security (TLS) and its predecessor, Secure Sockets Layer
+    (SSL), both of which are frequently referred to as 'SSL', are cryptographic
+    protocols designed to provide communications security over a computer
+    network.
+  image: ''
+  tags: Real Time
+- building_block_id: security-rules-language
+  type: Real Time
+  category: Security
+  name: Security Rules Language
+  description: >-
+    Firebase provides a flexible, expression-based rules language with
+    JavaScript-like syntax to easily define how your data should be structured
+    and when your data can be read from and written to. Combined with our login
+    service which allows for easy authentication, you can define who has access
+    to what data and keep all of your user's personal information secure. The
+    Security and Firebase Rules live on the Firebase servers and are
+    automatically enforced at all times.
+  image: ''
+  tags: Real Time
+- building_block_id: analytics
+  type: Real Time
+  category: Management
+  name: Analytics
+  description: >-
+    Providing analytics on all activity via account(s), allowing users to review
+    their usage in a visual way.
+  image: ''
+  tags: Real Time
+- building_block_id: deep-linking
+  type: Real Time
+  category: Management
+  name: Deep Linking
+  description: >-
+    Deep linking is the use of a hyperlink that links to a specific, generally
+    searchable or indexed, piece of web content on a website.
+  image: ''
+  tags: Real Time
+- building_block_id: logging
+  type: Real Time
+  category: Management
+  name: Logging
+  description: >-
+    Allow the logging of all activity that occurs, and access by end users and
+    developers.
+  image: ''
+  tags: Real Time
+- building_block_id: rate-limiting
+  type: Real Time
+  category: Management
+  name: Rate Limiting
+  description: >-
+    Provide tools for controlling the rate limits of activities on a platform,
+    via a number of different mechanisms.
+  image: ''
+  tags: Real Time
+- building_block_id: debugging
+  type: Real Time
+  category: Management
+  name: Debugging
+  description: >-
+    Offering debugging tools to assist developers when they are building
+    applications using real time technology.
+  image: ''
+  tags: Real Time
+- building_block_id: statistics
+  type: Real Time
+  category: Management
+  name: Statistics
+  description: >-
+    Providing statistical information about how API resources are being consumed
+    in a client.
+  image: ''
+  tags: Real Time
+- building_block_id: geofencing
+  type: Real Time
+  category: Geo
+  name: Geofencing
+  description: >-
+    A geofence is a virtual barrier. Programs that incorporate geo-fencing allow
+    an administrator to set up triggers so when a device enters (or exits) the
+    boundaries defined by the administrator, a text message or email alert is
+    sent.
+  image: ''
+  tags: Real Time
+- building_block_id: geolocation
+  type: Real Time
+  category: Geo
+  name: GeoLocation
+  description: >-
+    Geolocation is the identification of the real-world geographic location of
+    an object, such as a radar source, mobile phone or Internet-connected
+    computer terminal. Geolocation may refer to the practice of assessing the
+    location, or to the actual assessed location.
+  image: ''
+  tags: Real Time
+- building_block_id: beacon
+  type: Real Time
+  category: Geo
+  name: Beacon
+  description: >-
+    A beacon is an intentionally conspicuous device designed to attract
+    attention to a specific location. Beacons can also be combined with
+    semaphoric or other indicators to provide important information, such as the
+    status of an airport, by the color and rotational pattern of its airport
+    beacon, or of pending weather as indicated on a weather beacon mounted at
+    the top of a tall building or similar site. When used in such fashion,
+    beacons can be considered a form of optical telegraphy.
+  image: ''
+  tags: Real Time
+- building_block_id: proxy
+  type: Real Time
+  category: Architecture
+  name: Proxy
+  description: >-
+    A proxy server is a server (a computer system or an application) that acts
+    as an intermediary for requests from clients seeking resources from other
+    servers.
+  image: ''
+  tags: Real Time
+- building_block_id: compute
+  type: Real Time
+  category: Architecture
+  name: Compute
+  description: >-
+    Providing cloud compute infrastructure to accompany and support real time
+    technology.
+  image: ''
+  tags: Real Time
+- building_block_id: containers
+  type: Real Time
+  category: Architecture
+  name: Containers
+  description: >-
+    Providing container virtualization infrastructure to accompany and support
+    real time technology.
+  image: ''
+  tags: Real Time
+- building_block_id: database
+  type: Real Time
+  category: Architecture
+  name: Database
+  description: >-
+    Providing database infrastructure to accompany and support real time
+    technology.
+  image: ''
+  tags: Real Time
+- building_block_id: storage
+  type: Real Time
+  category: Architecture
+  name: Storage
+  description: >-
+    Providing cloud storage infrastructure to accompany and support real time
+    technology.
+  image: ''
+  tags: Real Time
+- building_block_id: content-delivery-network-cdn
+  type: Real Time
+  category: Architecture
+  name: Content Delivery Network (CDN)
+  description: >-
+    Providing content deliver network (CDN) infrastructure to accompany and
+    support real time technology.
+  image: ''
+  tags: Real Time
+- building_block_id: caching
+  type: Real Time
+  category: Architecture
+  name: Caching
+  description: >-
+    Providing caching infrastructure to accompany and support real time
+    technology.
+  image: ''
+  tags: Real Time
+- building_block_id: compression
+  type: Real Time
+  category: Architecture
+  name: Compression
+  description: >-
+    Providing request and response compression infrastructure to accompany and
+    support real time technology.
+  image: ''
+  tags: Real Time
+- building_block_id: open-source
+  type: Real Time
+  category: Architecture
+  name: Open Source
+  description: Providing open source tooling to accompany and support real time technology.
+  image: ''
+  tags: Real Time
+- building_block_id: dns
+  type: Real Time
+  category: Architecture
+  name: DNS
+  description: Providing DNS infrastructure to accompany and support real time technology.
+  image: ''
+  tags: Real Time
+- building_block_id: android
+  type: Real Time
+  category: SDK
+  name: Android
+  description: Providing an Android SDK for mobile developers to put to use.
+  image: ''
+  tags: Real Time
+- building_block_id: ios
+  type: Real Time
+  category: SDK
+  name: IOS
+  description: Providing an IOS SDK for mobile developers to put to use.
+  image: ''
+  tags: Real Time
+- building_block_id: javascript
+  type: Real Time
+  category: SDK
+  name: JavaScript
+  description: Providing a JavaScript SDK for mobile developers to put to use.
+  image: ''
+  tags: Real Time
