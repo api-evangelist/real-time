@@ -5,4 +5,1539 @@
   url: https://tune.com/blog/startups-need-api/
   domain: tune.com
   image: ""
+- curated_id: 55dc92981758dedc65f457452d601c60
+  item_date: "2015-01-07 00:00:00"
+  title: PubNub Rolls Out SDK for IoT Platforms
+  url: http://www.programmableweb.com/news/pubnub-rolls-out-sdk-iot-platforms/2015/01/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 9001904a67571e1907216da0b85774b0
+  item_date: "2015-01-22 00:00:00"
+  title: Appbase Launches Real-Time, Events-Based Database API
+  url: http://www.programmableweb.com/news/appbase-launches-real-time-events-based-database-api/2015/01/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 0c1d6b58f35de37b1ec40075f432ebc3
+  item_date: "2015-02-17 08:04:06"
+  title: ""
+  url: https://github.com/joewalnes/websocketd
+  domain: github.com
+  image: ""
+- curated_id: 69df764ddccfb83e89fad48ce0d596e2
+  item_date: "2015-02-18 00:00:00"
+  title: Introducing TaskRouter
+  url: https://www.twilio.com/blog/2015/02/introducing-the-taskrouter-api.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: fa5405b884ba7988a0ec3a875f1784ef
+  item_date: "2015-02-20 00:00:00"
+  title: Microsoft Makes Apache Storm Generally Available And Improves Productivity
+    for Real-Time Analytics on Big Data
+  url: https://azure.microsoft.com/en-us/blog/2015/02/20/microsoft-makes-apache-storm-generally-available-and-improves-productivity-for-real-time-analytics-on-big-data/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 7f3e8f071f44093c37e3fa2771e84364
+  item_date: "2015-02-20 00:00:00"
+  title: Real-Time APIs and Big Business APIs
+  url: http://restlet.com/blog/2015/02/20/real-time-apis-and-big-business-apis/
+  domain: restlet.com
+  image: ""
+- curated_id: 1fba7563b82949020ebaff44057b7a33
+  item_date: "2015-02-20 00:00:00"
+  title: The Druid real-time database moves to an Apache license
+  url: https://gigaom.com/2015/02/20/the-druid-real-time-database-moves-to-an-apache-license/
+  domain: gigaom.com
+  image: ""
+- curated_id: acefb17a8d68eb5ddefc041159b344d6
+  item_date: "2015-02-24 00:00:00"
+  title: Programming a Tessel Camera App with JavaScript
+  url: https://www.pubnub.com/blog/2015-02-24-programming-a-tessel-camera-app-with-javascript/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: 8f64c8c9735efd29dd0831eef53afb74
+  item_date: "2015-02-26 16:02:58"
+  title: 'Google Developers Blog: Introducing gRPC, a new open source HTTP/2 RPC Framework'
+  url: https://developers.googleblog.com/2015/02/introducing-grpc-new-open-source-http2.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: 1937b361518af336e12b50c89d0d4f95
+  item_date: "2015-02-27 00:00:00"
+  title: Google Releases gRPC to Speed Up HTTP/2 Support in Applications
+  url: http://www.programmableweb.com/news/google-releases-grpc-to-speed-http2-support-applications/2015/02/27
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ab157001822a55c6ad489cb25bceb9cf
+  item_date: "2015-03-04 00:00:00"
+  title: Google?s new service will ease real-time communications for applications
+  url: https://gigaom.com/2015/03/04/googles-new-service-will-ease-real-time-communications-for-applications/
+  domain: gigaom.com
+  image: ""
+- curated_id: 154da3648ccb676a752982f5c0bc3e8b
+  item_date: "2015-03-04 00:00:00"
+  title: Introducing AngularFire 1.0
+  url: https://firebase.googleblog.com/2015/03/introducing-angularfire-10_99.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 4cae5334cfc44f92566a04cddff10070
+  item_date: "2015-03-04 00:00:00"
+  title: Google releases a new API for real-time messaging between services
+  url: http://thenextweb.com/insider/2015/03/04/google-releases-a-new-api-for-real-time-messaging-between-services/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 18fdb60327ad6c67ecffb53fd25609cd
+  item_date: "2015-03-04 00:00:00"
+  title: Using Google Cloud Pub/Sub to Connect Applications and Data Streams
+  url: https://cloudplatform.googleblog.com/2015/03/using-Google-Cloud-pubsub-to-Connect-applications-and-data-streams.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 80d7c3d5cdc1dcceb725b7f57fc51e11
+  item_date: "2015-03-04 00:00:00"
+  title: Private Backups for Firebase Data
+  url: https://firebase.googleblog.com/2015/03/private-backups-for-firebase-data_21.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 1f1ee9c9ff16d4323a40668990d646bd
+  item_date: "2015-03-06 00:00:00"
+  title: Animating Web UIs for Realtime Apps with Famo.us and AngularJS
+  url: https://www.pubnub.com/blog/2015-03-06-animating-web-uis-for-realtime-apps-with-famous-and-angularjs/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: e4df8a95e7c2ecc14c7e31bd726d1e2f
+  item_date: "2015-03-06 00:00:00"
+  title: Google Cloud Platform Unveils Pub/Sub Messaging Service
+  url: http://www.programmableweb.com/news/google-cloud-platform-unveils-pubsub-messaging-service/2015/03/06
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 21008ae70a66f6b0630814d1b8db6aaf
+  item_date: "2015-03-08 00:00:00"
+  title: Stateless WebSockets with Express and Pushpin
+  url: http://blog.fanout.io/2015/03/09/stateless-websockets-with-express-and-pushpin/
+  domain: blog.fanout.io
+  image: ""
+- curated_id: 7233f95d21d71472bdb490a6462e53a2
+  item_date: "2015-03-10 00:00:00"
+  title: Real-time data with a VaadinDrone in Bluemix
+  url: http://www.slideshare.net/freducom/realtime-data-with-a-vaadindrone-in-bluemix-at-ibm-interconnect-2015
+  domain: www.slideshare.net
+  image: ""
+- curated_id: 24240ac0f0b07af03f18f4a4c2cb2a73
+  item_date: "2015-03-11 00:00:00"
+  title: Building a Realtime Statistics Streaming App w/ AngularJS (Pt. 2)
+  url: https://www.pubnub.com/blog/2015-03-11-building-realtime-statistics-streaming-app-w-angularjs-pt-2/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: e3ec00c7acecf410daa75c5555801196
+  item_date: "2015-03-12 00:00:00"
+  title: Creating Realtime Updating Data Visualizations with NVD3
+  url: https://www.pubnub.com/blog/2015-03-12-creating-realtime-updating-data-visualizations-with-nvd3/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: 75a1155f770868e06e3b654df881bf56
+  item_date: "2015-03-16 00:00:00"
+  title: 'Netty: A Different Kind of Web(Socket) Server'
+  url: http://www.codeproject.com/Articles/887163/Netty-A-Different-Kind-of-Web-Socket-Server
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 5f081568063d4c5cc835ab4cb282bf6e
+  item_date: "2015-03-23 00:00:00"
+  title: Netty 3.10.1.Final released
+  url: http://netty.io/news/2015/03/23/3-10-1-Final.html
+  domain: netty.io
+  image: ""
+- curated_id: 03da81f37d0ee266b66becec14ecc436
+  item_date: "2015-03-24 10:19:01"
+  title: 'Superfeedr : Retrieving Multiple Feeds'
+  url: https://blog.superfeedr.com/retrieve-multiple-feeds/
+  domain: blog.superfeedr.com
+  image: ""
+- curated_id: f2643c874c33867a1821a8643b24455c
+  item_date: "2015-03-31 00:00:00"
+  title: Stream Location Coordinates Data Broadcast with JavaScript
+  url: https://www.pubnub.com/blog/2015-03-31-stream-location-coordinates-data-broadcast-with-javascript/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: 1564c0af87b27fea073c01384496e89e
+  item_date: "2015-04-01 00:00:00"
+  title: Realtime API design guide
+  url: http://blog.fanout.io/2015/04/02/realtime-api-design-guide/
+  domain: blog.fanout.io
+  image: ""
+- curated_id: ea2a7acb78cf4b48e21814e421ec985f
+  item_date: "2015-04-01 15:44:20"
+  title: 'PubNub Demo Showcase: Second Screen Gaming with a Smartphone Controller
+    on Vimeo'
+  url: https://vimeo.com/122151095
+  domain: vimeo.com
+  image: ""
+- curated_id: 2339a00e3ea35e1547996da963913529
+  item_date: "2015-04-02 00:00:00"
+  title: Netty 4.0.27.Final released
+  url: HTTP://s/2015/04/02/4-0-27-Final.html
+  domain: s
+  image: ""
+- curated_id: 3d5bc8c6fd44604068b66ded563d4120
+  item_date: "2015-04-02 00:00:00"
+  title: A real-time processing revival
+  url: https://www.oreilly.com/ideas/a-real-time-processing-revival
+  domain: www.oreilly.com
+  image: ""
+- curated_id: a0cd9defa3d50969859259e06eec88f9
+  item_date: "2015-04-09 00:00:00"
+  title: Build Realtime Firebase Maps with CartoDB
+  url: https://firebase.googleblog.com
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 16c1b0d9aa159f73b45c2aaf909fe25e
+  item_date: "2015-04-14 00:00:00"
+  title: 'The Realtime API: In memory mode, debug tools, and more'
+  url: http://googleappsdeveloper.blogspot.com/2015/04/the-realtime-api-in-memory-mode-debug.html
+  domain: googleappsdeveloper.blogspot.com
+  image: ""
+- curated_id: 182be1a6cee465ff7dc43e8604c33022
+  item_date: "2015-04-14 00:00:00"
+  title: Tracking Metadata in Real-time
+  url: https://developmentseed.org/blog/2015/04/14/tracking-osm-metadata/
+  domain: developmentseed.org
+  image: ""
+- curated_id: 7ed7098c3d56f5892bafedc67e276adf
+  item_date: "2015-04-16 00:00:00"
+  title: Get Notified When Someone Posts An Article From Your Domain on Hacker News
+    Using Node.js, Firebase and Twilio
+  url: https://www.twilio.com/blog/2015/04/get-notified-when-someone-posts-an-article-from-your-domain-on-hacker-news-using-node-js-firebase-and-twilio.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: fed28da4ee5951b1bf241bb14e797257
+  item_date: "2015-04-21 00:00:00"
+  title: Publishing Temperature Data in Realtime with Tessel Climate
+  url: http://www.pubnub.com/blog/publishing-temperature-data-realtime-tessel-climate/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: 9b9a25b4d6f4c6bb9307c63b5129ecaf
+  item_date: "2015-04-21 00:00:00"
+  title: Streamdata.io Service Turns APIs from Standard to Streaming
+  url: http://www.programmableweb.com/news/streamdata.io-service-turns-apis-standard-to-streaming/press-release/2015/04/21
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3a991f1c881992a88df9da5b7bfc23dc
+  item_date: "2015-04-23 00:00:00"
+  title: End-to-end Testing with firebase-server
+  url: https://www.firebase.com/blog/2015-04-24-end-to-end-testing-firebase-server.html
+  domain: www.firebase.com
+  image: ""
+- curated_id: beab6898eeb240c792dd5f93469f32f3
+  item_date: "2015-04-24 00:00:00"
+  title: Plotting Realtime Data of Financial Performance with NVD3
+  url: http://www.pubnub.com/blog/plotting-realtime-data-financial-performance-nvd3/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: b69d44a5a340988bec3d91631a558c7c
+  item_date: "2015-04-28 00:00:00"
+  title: 'The Telco industry: how real time data is the future'
+  url: http://blogs.adobe.com/digitaleurope/web-analytics/the-telco-industry-how-real-time-data-is-the-future/
+  domain: blogs.adobe.com
+  image: ""
+- curated_id: 30106a34ec5ae7dcae97638427d165fd
+  item_date: "2015-04-28 08:34:44"
+  title: Announcing The Official Golang Pusher Library
+  url: https://blog.pusher.com/pusher-golang-library/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 19f6713a2820bc4428c3a5ed0d6ee02f
+  item_date: "2015-04-30 00:00:00"
+  title: Google Maps Geolocation Tracking in Realtime with JavaScript
+  url: http://www.pubnub.com/blog/google-maps-geolocation-tracking-in-realtime-with-javascript/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: 1d32a6a8966890c2a4da56390980aea4
+  item_date: "2015-05-07 00:00:00"
+  title: Netty 4.0.28.Final released
+  url: http://netty.io/news/2015/05/07/4-0-28-Final.html
+  domain: netty.io
+  image: ""
+- curated_id: 36e98e5bab12388d93dc88e6a82edb93
+  item_date: "2015-05-11 00:00:00"
+  title: 'Atmel Xplained Pro: Realtime Temperature Sensor'
+  url: http://www.pubnub.com/blog/atmel-xplained-pro-real-time-temperature-sensor/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: da48b64d04d08930eefbc60be855b740
+  item_date: "2015-05-12 08:37:42"
+  title: Announcing v1 of the Python Library - Pusher Blog
+  url: https://blog.pusher.com/announcing-version-1-0-0-of-the-python-library/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 3202b2ec18ed2f2459e446215a37db50
+  item_date: "2015-05-13 00:00:00"
+  title: Realtime Data
+  url: https://blog.octopart.com/archives/2015/05/realtime-data
+  domain: blog.octopart.com
+  image: ""
+- curated_id: 37d6984290ade11b8de8f33e97fbbd0e
+  item_date: "2015-05-13 00:00:00"
+  title: 'A Game Changer for mBaaS: Realtime Arrives in Built.io Backend'
+  url: https://www.built.io/blog/2015/05/a-game-changer-for-mbaas-realtime-arrives-in-built-io-backend/
+  domain: www.built.io
+  image: ""
+- curated_id: f53294323584e4809ab260aaf4e821b5
+  item_date: "2015-05-14 00:00:00"
+  title: Publishing Realtime Location with the Android MapBox API
+  url: http://www.pubnub.com/blog/publishing-realtime-location-with-the-android-mapbox-api/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: b8f14f099f0592928feb951a3c4ba184
+  item_date: "2015-05-15 11:38:27"
+  title: Introducing Firebase Queue - Firebase
+  url: https://www.firebase.com/blog/2015-05-15-introducing-firebase-queue.html
+  domain: www.firebase.com
+  image: ""
+- curated_id: f942f850e9f2b6f0df5baf7bafdebf13
+  item_date: "2015-05-19 00:00:00"
+  title: Real-Time Applications at Terabyte Scale
+  url: http://www.sharethis.com/blog/2015/05/19/real-time-applications-terabyte-scale-2/
+  domain: www.sharethis.com
+  image: ""
+- curated_id: b1620188e15ab68a1d0f4dbb654ae480
+  item_date: "2015-05-19 00:00:00"
+  title: Sending RFID Events in Realtime w/ Tessel RFID Module
+  url: http://www.pubnub.com/blog/sending-rfid-events-in-realtime-w-tessel-rfid-module/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: 75f968043ef2d3cf84239186c00c7408
+  item_date: "2015-05-20 00:00:00"
+  title: Building a realtime API with RethinkDB
+  url: http://blog.fanout.io/2015/05/20/building-a-realtime-api-with-rethinkdb/
+  domain: blog.fanout.io
+  image: ""
+- curated_id: 70b37488578e317f465242fdc95f8fc6
+  item_date: "2015-05-20 00:00:00"
+  title: Connect Everything to Everything Else With Trigger.io and PubNub
+  url: http://trigger.io/cross-platform-application-development-blog/2015/05/20/connect-everything-to-everything-else-with-trigger-io-and-pubnub/
+  domain: trigger.io
+  image: ""
+- curated_id: 57d6b8795479e40e97dadb5452186dcc
+  item_date: "2015-05-29 00:00:00"
+  title: Google?s Firebase backend SDKs get mobile offline support for iOS and Android
+  url: http://venturebeat.com/2015/05/29/googles-firebase-backend-sdks-gets-mobile-offline-support-for-ios-and-android/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 241e7c0f55f24ae6797053d7f0683dc6
+  item_date: "2015-06-02 00:00:00"
+  title: Google Maps adds real-time public transit arrivals in three U.S. cities,
+    UK, Netherlands
+  url: http://venturebeat.com/2015/06/02/google-maps-adds-real-time-public-transit-arrivals-in-three-u-s-cities-uk-netherlands/
+  domain: venturebeat.com
+  image: ""
+- curated_id: cd8c49e105e5685cf62628d2a190b0bc
+  item_date: "2015-06-02 00:00:00"
+  title: Amazon Kinesis Update ? Simplified Capture of Streaming Data
+  url: https://aws.amazon.com/blogs/aws/amazon-kinesis-update-simplified-capture-of-streaming-data/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 28ccdfbcb00a3cb57790da8e2d36fdb7
+  item_date: "2015-06-02 00:00:00"
+  title: Flying faster with Twitter Heron
+  url: https://blog.twitter.com/2015/flying-faster-with-twitter-heron
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 061df4c44de38cbe3dde166d3e56b7a3
+  item_date: "2015-06-02 00:00:00"
+  title: Real-Time payment is different from ?faster? because it changes consumer
+    behavior
+  url: http://bankinnovation.net/2015/06/real-time-payment-is-different-from-faster-because-it-changes-consumer-behavior/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: 8686d4764c8d2f67f75bb0063a0dbe11
+  item_date: "2015-06-02 00:00:00"
+  title: Real-Time Data | Data | Bloomberg Enterprise Solutions
+  url: http://www.bloomberg.com/enterprise/data/real-time-data/
+  domain: www.bloomberg.com
+  image: ""
+- curated_id: f7a3b18dc5b159f0a16e804b3bbba09f
+  item_date: "2015-06-05 00:00:00"
+  title: Aggregate the Los Angeles realtime bus feed
+  url: http://flowingdata.com/2015/06/05/aggregate-the-los-angeles-realtime-bus-feed/
+  domain: flowingdata.com
+  image: ""
+- curated_id: f604948751687bb921bfed72f9d47335
+  item_date: "2015-06-05 00:00:00"
+  title: Attendify#039;s New Open API Features External Source Sync Capability
+  url: http://www.programmableweb.com/news/attendifys-new-open-api-features-external-source-sync-capability/press-release/2015/06/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 74d6577a053bca336d405d97b8123aab
+  item_date: "2015-06-10 00:00:00"
+  title: LinkedIn open-sources its Pinot real-time analytics software
+  url: http://venturebeat.com/2015/06/10/linkedin-open-sources-its-pinot-real-time-analytics-software/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 10d96a095733a7712ec107a7bd48de5a
+  item_date: "2015-06-12 00:00:00"
+  title: Vesigo Studios Adds Webhooks to OnTime API for Real-TIme Communication
+  url: http://www.programmableweb.com/news/vesigo-studios-adds-webhooks-to-ontime-api-real-time-communication/announcement/2015/06/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a018bfad4a9d9e9440137bc799fd7a68
+  item_date: "2015-06-15 00:00:00"
+  title: 'NTS: Real-time Streaming for Test Automation'
+  url: http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html
+  domain: techblog.netflix.com
+  image: ""
+- curated_id: 58146ff97925ec4b16e611ed9cea64cb
+  item_date: "2015-06-18 00:00:00"
+  title: Pushpin a reverse proxy for the realtime web
+  url: http://pushpin.org/about/
+  domain: pushpin.org
+  image: ""
+- curated_id: cabb3ff104ffda4a5c77cd7fcd29d9bd
+  item_date: "2015-06-18 00:00:00"
+  title: The Union of Real-Time and Batch Integration Opens Up New Development Possibilities
+  url: http://www.talend.com/blog/2015/06/18/the-union-of-real-time-and-batch-integration-opens-up-new-development-possibilities
+  domain: www.talend.com
+  image: ""
+- curated_id: 9cc7f470fa5f3dd5e257d92f081d5b6a
+  item_date: "2015-06-19 00:00:00"
+  title: Realtime Technology and the Healthcare Internet of Things
+  url: http://www.pubnub.com/blog/realtime-technology-and-the-healthcare-internet-of-things/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: 48cec8269e2fe96d18d5ef7698bcc878
+  item_date: "2015-06-19 00:00:00"
+  title: DNS Made Easy Releases Real Time Statistics
+  url: http://www.dnsmadeeasy.com/dns-made-easy-releases-real-time-statistics/
+  domain: www.dnsmadeeasy.com
+  image: ""
+- curated_id: d23e8f8ed12a05a9bdd62cbce5dae3cd
+  item_date: "2015-06-23 00:00:00"
+  title: Netty 4.0.29.Final released
+  url: http://netty.io/news/2015/06/23/4-0-29-Final.html
+  domain: netty.io
+  image: ""
+- curated_id: 399cd6d580893122909c65884ab892cc
+  item_date: "2015-06-23 00:00:00"
+  title: Secure Spike Engine Websockets with TLS/SSL
+  url: http://www.codeproject.com/Articles/784424/Secure-Spike-Engine-Websockets-with-TLS-SSL
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 3276c8cbcba83d2e7ea4f8e08d17ef9e
+  item_date: "2015-06-23 11:10:27"
+  title: Connect your API to a whole new world of real-time sources
+  url: http://restlet.com/blog/2015/06/22/connect-your-api-to-a-whole-new-world-of-real-time-sources/
+  domain: restlet.com
+  image: ""
+- curated_id: 67f05314f27a28ec2dcef8c3db521ad1
+  item_date: "2015-06-30 00:00:00"
+  title: Create a Realtime Raspberry Pi Security Camera w/ Parse
+  url: http://www.pubnub.com/blog/create-realtime-raspberry-pi-security-camera-w-parse/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: ffc79acf8f109321fb7a0f34ff90ffc5
+  item_date: "2015-06-30 00:00:00"
+  title: Netty 3.10.4.Final released
+  url: http://netty.io/news/2015/06/30/3-10-4-Final.html
+  domain: netty.io
+  image: ""
+- curated_id: b74a29bef6e7ed14cad81bb900d98034
+  item_date: "2015-07-01 00:00:00"
+  title: 'Realtime iOS Apps: Getting Started with Swift and PubNub'
+  url: http://www.pubnub.com/blog/realtime-ios-apps-getting-started-with-swift-and-pubnub/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: 146a7b3161cf48987d96ece144e4f8a9
+  item_date: "2015-07-06 00:00:00"
+  title: The new world of Push APIs make travel sales a pushover
+  url: http://www.tnooz.com/article/push-API-travel-sales-skyscanner/
+  domain: www.tnooz.com
+  image: ""
+- curated_id: 78921229a7401690df6a13bc10a9c6c1
+  item_date: "2015-07-06 08:07:41"
+  title: 'WebSockets vs REST: Understanding the Difference - PubNub'
+  url: http://www.pubnub.com/blog/websockets-vs-rest-api-understanding-the-difference/#sthash.7jvpwXQx.uxfs&amp;st_refDomain=&amp;st_refQuery=
+  domain: www.pubnub.com
+  image: ""
+- curated_id: ff8dd7ff320fd689690fbbf163830691
+  item_date: "2015-07-07 00:00:00"
+  title: Create a quiz application with Google Sheets, APISpark, Streamdata.io and
+    D3.JS
+  url: http://restlet.com/blog/2015/07/07/create-a-quiz-application-with-google-sheets-apispark-streamdata-io-and-d3-js/
+  domain: restlet.com
+  image: ""
+- curated_id: 28b1227d08e66a98b49872c7e919e0d7
+  item_date: "2015-07-08 00:00:00"
+  title: Restlet and Streamdata.io partner to drastically increase velocity of data
+    for API-based apps
+  url: http://restlet.com/blog/2015/07/08/restlet-and-streamdata-io-partner-to-drastically-increase-velocity-of-data-for-api-based-apps/
+  domain: restlet.com
+  image: ""
+- curated_id: 74a0bacdfb52fe1ec42f260800194374
+  item_date: "2015-07-08 00:00:00"
+  title: WebSocket Support in Java Applications on Bluemix via the Liberty Runtime
+  url: http://heidloff.net/nh/home.nsf/article.xsp
+  domain: heidloff.net
+  image: ""
+- curated_id: a327161247e8165ac2459eb42338fce3
+  item_date: "2015-07-09 00:00:00"
+  title: Restlet and Streamdata.io Partnership Enables Real-Time Data Streaming for
+    RESTful APIs
+  url: http://www.programmableweb.com/news/restlet-and-streamdata.io-partnership-enables-real-time-data-streaming-restful-apis/announcement/2015/07/09
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 1a7118dcd943e955b5ff858324da1d3f
+  item_date: "2015-08-12 00:00:00"
+  title: Announcing General Availability of Google Cloud Dataflow and Cloud Pub/Sub
+  url: http://googlecloudplatform.blogspot.com/2015/08/Announcing-General-Availability-of-Google-Cloud-Dataflow-and-Cloud-Pub-Sub.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: 3eaf3a52c621b5ac38ee874d61fd84fb
+  item_date: "2015-08-14 00:00:00"
+  title: Digium Adds Mobile SDKs for Respoke Real-Time Communications Cloud Service
+  url: http://www.programmableweb.com/news/digium-adds-mobile-sdks-respoke-real-time-communications-cloud-service/2015/08/14
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5ece067500ddaeeaf0a4ef1541640d85
+  item_date: "2015-08-18 00:00:00"
+  title: Google Cloud Dataflow and Cloud Pub/Sub Reach General Availability
+  url: http://www.programmableweb.com/news/google-cloud-dataflow-and-cloud-pubsub-reach-general-availability/2015/08/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: f5cc57f3f730cadd360cae9892649359
+  item_date: "2015-08-20 00:00:00"
+  title: PubNub Adds Real Time Communications Edge to 32-bit PIC Microcontrolle...
+  url: http://www.realtimecommunicationsworld.com/topics/realtimecommunicationsworld/articles/408673-pubnub-adds-real-time-communications-edge-32-bit.htm
+  domain: www.realtimecommunicationsworld.com
+  image: ""
+- curated_id: 02172e8085bdd190ee7bdc0a27173590
+  item_date: "2015-08-21 08:30:09"
+  title: ""
+  url: http://streamdata.io/blog/developing-an-helloworld-kong-plugin/
+  domain: streamdata.io
+  image: ""
+- curated_id: 51c901629288d2e019cbcf4dee18cd43
+  item_date: "2015-08-26 13:40:26"
+  title: This Income Tracking Tool Show How Much Money You Earn in Real-Time
+  url: http://www.citylab.com/work/2015/08/see-how-much-you-earn-in-glorious-real-time/402397/
+  domain: www.citylab.com
+  image: ""
+- curated_id: eec48b03b699734961111d19ba88f351
+  item_date: "2015-08-26 13:46:13"
+  title: Map with bikes  docks available in real-time - bike-sharing
+  url: http://streamdata.io/blog/realtime-bikes-api-with-apitools-streamdata-io/
+  domain: streamdata.io
+  image: ""
+- curated_id: cf7fe1a969f84f7b3846ab6b307fe997
+  item_date: "2015-09-01 00:00:00"
+  title: Realtime SMS notifications with Firebase
+  url: https://www.firebase.com/blog/2015-09-02-realtime-sms-notifications-firebase.html
+  domain: www.firebase.com
+  image: ""
+- curated_id: 75a726dfe0852d5f468254cff058d2f4
+  item_date: "2015-09-02 00:00:00"
+  title: Netty 4.0.31.Final released
+  url: http://netty.io/news/2015/09/02/4-0-31-Final.html
+  domain: netty.io
+  image: ""
+- curated_id: 5d99a0bb893c21b6301ecc2895c88bce
+  item_date: "2015-09-03 00:00:00"
+  title: IBM IoT Real-Time Insights - Analytics designed for the Internet of Things
+  url: https://developer.ibm.com/bluemix/2015/09/03/iot-real-time-insights/
+  domain: developer.ibm.com
+  image: ""
+- curated_id: 948a10f5269e54f3b4578eb72a5f4e0c
+  item_date: "2015-10-18 00:00:00"
+  title: Web API Thoughts 1 of 3 - Data Streaming
+  url: http://www.codeproject.com/Articles/838274/Web-API-Thoughts-of-Data-Streaming
+  domain: www.codeproject.com
+  image: ""
+- curated_id: e0a5546fc89b810c1141ef25cf8885ab
+  item_date: "2015-10-20 00:00:00"
+  title: 'Introducing Runscope Live Traffic Alerts: Catch Failed  Exceptional API
+    Transactions with Real-Time API Monitoring'
+  url: http://blog.runscope.com/posts/introducing-runscope-live-traffic-alerts-catch-failed-and-exceptional-api-transactions-with-real-time-api-monitoring
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 35ed1a2ea39b13f387a456eaf0a8a1f0
+  item_date: "2015-10-27 00:00:00"
+  title: Add backend logic to real-time data with Firebase and Google App Engine
+  url: http://googlecloudplatform.blogspot.com/2015/10/add-backend-logic-to-real-time-data-with-Firebase-and-Google-App-Engine.html
+  domain: googlecloudplatform.blogspot.com
+  image: ""
+- curated_id: b809f117b8175de7cc6a1fbf930a3c37
+  item_date: "2015-11-05 00:00:00"
+  title: 'The Firebase CLI: now with database commands'
+  url: https://www.firebase.com/blog/2015-11-06-firebase-cli-data-commands.html
+  domain: www.firebase.com
+  image: ""
+- curated_id: 7435844cc532a61667c7128c4b02cc32
+  item_date: "2015-11-06 00:00:00"
+  title: Teradata Announces New Software for Real-Time Analysis of Internet of Things
+    Data
+  url: http://www.infoq.com/news/2015/11/teradata-iot-data-analysis
+  domain: www.infoq.com
+  image: ""
+- curated_id: bd1044d2768093772e31e12ce0b3562e
+  item_date: "2015-11-27 00:00:00"
+  title: How Realtime Technology is Changing
+  url: https://www.pubnub.com/blog/2015-11-27-realtime-technology-changing/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: 4331879df72e89819b7e26c2c216981f
+  item_date: "2015-12-10 00:00:00"
+  title: Realtime craze and why you should join the bandwagon.
+  url: http://cbblog.azurewebsites.net/realtime-craze-and-why-you-should-join-the-bandwagon/
+  domain: cbblog.azurewebsites.net
+  image: ""
+- curated_id: b5950a2c033d705922bcda5db2b691ba
+  item_date: "2015-12-15 00:00:00"
+  title: Building Real-Time Apps with AngularJS
+  url: http://blog.backand.com/real-time-apps-with-angularjs/
+  domain: blog.backand.com
+  image: ""
+- curated_id: fccb1c757183de7c7bdf7b41b01eddaf
+  item_date: "2016-01-05 09:57:21"
+  title: Improving Your API Conversations with Hypermedia, ETags, and Real-Time APIs
+  url: http://launchany.com/extending-your-api-conversations/
+  domain: launchany.com
+  image: ""
+- curated_id: 139c6d06813c86fc6be32f8ab76e8174
+  item_date: "2016-01-06 00:00:00"
+  title: BitcoinAverage API
+  url: http://streamdata.io/blog/bitcoinaverage-api/
+  domain: streamdata.io
+  image: ""
+- curated_id: d01848895f6526f1236bb46f89b73d85
+  item_date: "2016-01-07 00:00:00"
+  title: Pusher Expands Free Plan to 1.4 Million Notifications Per Week
+  url: http://www.programmableweb.com/news/pusher-expands-free-plan-to-1.4-million-notifications-week/brief/2016/01/07
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: be57f4fb2ff8c9f9c538b2b0e1cd5db5
+  item_date: "2016-01-10 00:00:00"
+  title: Getting started with NativeScript and Firebase
+  url: https://www.firebase.com/blog/2016-01-11-getting-started-with-nativescript-firebase.html
+  domain: www.firebase.com
+  image: ""
+- curated_id: 9e1231405a1fdb59c8492e467104dae5
+  item_date: "2016-01-11 00:00:00"
+  title: Ford, IBM Use Data Analytics to Find More Efficient Ways to Move; Real-Time
+    Streaming Underpins Mobility Experiments
+  url: 'https://media.ford.com/content/fordmedia/fna/us/en/news/2016/01/11/ford-ibm-use-data-analytics-to-find-more-efficient-ways-to-move.html '
+  domain: media.ford.com
+  image: ""
+- curated_id: a2c5ce5a5dcc142407c0c41b9cce5033
+  item_date: "2016-01-15 00:00:00"
+  title: IBM acquires real-time analytics firm to combat payment fraud
+  url: http://disruptiveviews.com/ibm-acquires-real-time-analytics-firm-to-combat-payment-fraud/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 8ac67afa3e2fa370d27ed0e84e0df44d
+  item_date: "2016-01-18 00:00:00"
+  title: Apache Spark With Air On-Time Performance Data
+  url: https://dzone.com/articles/apache-spark-with-air-ontime-performance-data
+  domain: dzone.com
+  image: ""
+- curated_id: 1ad8acfe291885b33b61ac738cd36e8a
+  item_date: "2016-01-19 00:00:00"
+  title: The beginners guide to React Native and Firebase
+  url: https://www.firebase.com/blog/2016-01-20-tutorial-firebase-react-native.html
+  domain: www.firebase.com
+  image: ""
+- curated_id: 2ab14af525e071c5426a62b2cfdb5714
+  item_date: "2016-01-20 00:00:00"
+  title: Keeping our Promises (and Callbacks)
+  url: https://www.firebase.com/blog/2016-01-21-keeping-our-promises.html
+  domain: www.firebase.com
+  image: ""
+- curated_id: 053b25e4451bf10e14465332bd6533f7
+  item_date: "2016-01-21 00:00:00"
+  title: Reacting to Events in Your Data With MATLAB
+  url: http://community.thingspeak.com/2016/01/reacting-to-events-in-your-data-with-matlab/
+  domain: community.thingspeak.com
+  image: ""
+- curated_id: b84dda93b23f8b4862411336e3350657
+  item_date: "2016-01-22 00:00:00"
+  title: Add compression to Server-Sent events with Undertow
+  url: http://streamdata.io/blog/add-compression-server-sent-events-undertow/
+  domain: streamdata.io
+  image: ""
+- curated_id: 5a9dd5b21986904bfd637ebdf85ddfa4
+  item_date: "2016-01-25 00:00:00"
+  title: How to inject Query Params and HTTP headers
+  url: http://streamdata.io/blog/how-to-inject-query-params-and-http-headers/
+  domain: streamdata.io
+  image: ""
+- curated_id: 411318bc80706a44ac34d90fb1e0e22d
+  item_date: "2016-01-25 00:00:00"
+  title: Netty 4.1.0.CR1 released
+  url: http://localhost:4242/news/2016/01/25/4-1-0-CR1.html
+  domain: localhost
+  image: ""
+- curated_id: db8e9b7c916a31c26262befa28ea628e
+  item_date: "2016-01-26 00:00:00"
+  title: PubNub is Now Available to Twitter Fabric Developers!
+  url: https://www.pubnub.com/blog/2016-01-26-pubnub-now-available-twitter-fabric-developers/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: b511c0257115847ed667c18cf346b7da
+  item_date: "2016-01-29 00:00:00"
+  title: Netty 4.0.34.Final released
+  url: http://localhost:4242/news/2016/01/29/4-0-34-Final.html
+  domain: localhost
+  image: ""
+- curated_id: 823dc961f02815943e7e42be0cad01d7
+  item_date: "2016-01-31 00:00:00"
+  title: Real Time Data Integration Using Salesforce Lightning Connect
+  url: https://dzone.com/articles/real-time-data-integration-using-salesforce-lightn
+  domain: dzone.com
+  image: ""
+- curated_id: c075d80868bc9e345de432ef89721d65
+  item_date: "2016-02-01 00:00:00"
+  title: Real Time Sensor Dashboard Using Google App Engine and Raspberry Pi Zero
+  url: https://dzone.com/articles/real-time-sensor-dashboard-using-google-app-engine
+  domain: dzone.com
+  image: ""
+- curated_id: d29194d24bced7aa049a7fee1e34b122
+  item_date: "2016-02-02 00:00:00"
+  title: 3 Trends Behind the Movement to Real-Time Data
+  url: http://www.talend.com/blog/2016/02/02/3-trends-behind-the-movement-to-real-time-data
+  domain: www.talend.com
+  image: ""
+- curated_id: 7cd2855d45e67c4879eb97e412e85dd9
+  item_date: "2016-02-06 00:00:00"
+  title: Introducing AWS CloudWatch Events
+  url: http://www.infoq.com/news/2016/02/AWS-CloudWatch-Events
+  domain: www.infoq.com
+  image: ""
+- curated_id: e2950d4f43211921d2c360750da6a70f
+  item_date: "2016-02-09 00:00:00"
+  title: ' Xignite CloudAlerts API Lets Fintech Developers Empower Investors with
+    Real-Time Market Event Notifications'
+  url: http://www.bobsguide.com/guide/news/2016/Feb/10/xignite-cloudalerts-api-lets-fintech-developers-empower-investors-with-real-time-market-event-notifications.html
+  domain: www.bobsguide.com
+  image: ""
+- curated_id: 00c86f2f17fc64b0042baff14bb8de5a
+  item_date: "2016-02-10 00:00:00"
+  title: 'Twitter?s real problem: Silicon Valley?s misguided ?real time? fetish'
+  url: http://venturebeat.com/2016/02/10/twitters-real-problem-silicon-valleys-misguided-real-time-fetish/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 6fe499292e511fc659619b4d86577a39
+  item_date: "2016-02-11 00:00:00"
+  title: Creating a Scalable WebSocket Application in an Hour With Scala
+  url: https://dzone.com/articles/creating-a-scalable-websocket-application-in-an-ho
+  domain: dzone.com
+  image: ""
+- curated_id: 86e06c98b0b9dd9a149a43d28d772ac9
+  item_date: "2016-02-15 00:00:00"
+  title: How to Visualize Real-Time Data
+  url: https://dzone.com/articles/how-to-visualize-real-time-data
+  domain: dzone.com
+  image: ""
+- curated_id: 6e6df49fb87c071af169c495ba4232c4
+  item_date: "2016-02-17 00:00:00"
+  title: Approaching Realtime as a Blank Slate
+  url: http://blog.pusher.com/writing-a-new-realtime-javascript-library/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: f2006629b4dc1008ae08caee4834f451
+  item_date: "2016-02-17 00:00:00"
+  title: Approaching Realtime as a Blank Slate
+  url: https://blog.pusher.com/writing-a-new-realtime-javascript-library/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 7d9d804c470a1ed8f4bc92185a81d18d
+  item_date: "2016-02-19 00:00:00"
+  title: Real-time Data Pipelines with Kafka Connect
+  url: https://dzone.com/articles/real-time-data-pipelines-with-kafka-connect
+  domain: dzone.com
+  image: ""
+- curated_id: e16e22f9ec540ea06188683d4edc8e24
+  item_date: "2016-02-19 00:00:00"
+  title: 'There?s an API for That: Building Your Real-time Digital Business Foundation
+    to Thrive and Survive'
+  url: http://www.tibco.com/blog/2016/02/19/theres-an-api-for-that-building-your-real-time-digital-business-foundation-to-thrive-and-survive/
+  domain: www.tibco.com
+  image: ""
+- curated_id: b9036fd8e5604b525bd6ac2ee09ebe5b
+  item_date: "2016-02-25 00:00:00"
+  title: Come join the Firebase Slack community
+  url: https://www.firebase.com/blog/2016-02-26-firebase-slack-community.html
+  domain: www.firebase.com
+  image: ""
+- curated_id: e0a4fcc329c1443c2341650e1027fe7c
+  item_date: "2016-02-25 00:00:00"
+  title: Dynamic Graphs with D3.js
+  url: https://blog.pusher.com/dynamic-graphs-with-d3-js/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: a9a0415334a088949ee1488afecc7793
+  item_date: "2016-02-26 00:00:00"
+  title: Exploring My Thoughts Around API Injection Into Messaging, Voice, and Other
+    Online Experiences
+  url: https://dzone.com/articles/exploring-my-thoughts-around-api-injection-into-me
+  domain: dzone.com
+  image: ""
+- curated_id: 15e0dc4e3a1da00d4ad4960f14045bee
+  item_date: "2016-02-29 00:00:00"
+  title: How ChatOps is going mainstream
+  url: http://www.fiercecio.com/story/how-chatops-going-mainstream/2016-02-29
+  domain: www.fiercecio.com
+  image: ""
+- curated_id: 97a67369905307abe9c7990dea548c9b
+  item_date: "2016-03-01 00:00:00"
+  title: From Zero to Hero With Spring Websocket
+  url: https://dzone.com/articles/from-zero-to-hero-with-spring-websocket
+  domain: dzone.com
+  image: ""
+- curated_id: f24536bd44bda7641b53ae3b1a8b6fa2
+  item_date: "2016-03-03 00:00:00"
+  title: A New Pusher Dashboard
+  url: http://blog.pusher.com/a-new-pusher-dashboard/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 32cb7bd70e09db4a9bb4beb690670a0b
+  item_date: "2016-03-06 00:00:00"
+  title: Surrogate WebSockets Alongside Rails
+  url: https://dzone.com/articles/surrogate-websockets-alongside-rails
+  domain: dzone.com
+  image: ""
+- curated_id: b3a4ccfa574aa1da0764157bb0453de1
+  item_date: "2016-03-09 00:00:00"
+  title: ' A chat about Firebase over Coffee with Googler David East'
+  url: https://developers.googleblog.com/2016/02/a-chat-about-firebase-over-coffee-with.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: 4345b9f780f78bd95d7d6b5c52723cd9
+  item_date: "2016-03-13 00:00:00"
+  title: Moving from Transactions to Streams to Gain Consistency
+  url: http://www.infoq.com/news/2016/03/transactions-streams
+  domain: www.infoq.com
+  image: ""
+- curated_id: d8ba228f320aa541c674e18a55d975f0
+  item_date: "2016-03-14 00:00:00"
+  title: Microservices for a Streaming World
+  url: https://www.infoq.com/news/2016/03/microservices-streams-kafka
+  domain: www.infoq.com
+  image: ""
+- curated_id: 9cc793df54f4e7e33c11c9013c315cba
+  item_date: "2016-03-14 10:18:53"
+  title: 'When to use a HTTP call instead of a WebSocket (or HTTP 2.0) '
+  url: https://blogs.windows.com/buildingapps/2016/03/14/when-to-use-a-http-call-instead-of-a-websocket-or-http-2-0/
+  domain: blogs.windows.com
+  image: ""
+- curated_id: 1e964061d427b4c1153abc0a5c9bdce4
+  item_date: "2016-03-17 00:00:00"
+  title: 'Comparison of Asynchronous Messaging Technologies: JMS, AMQP, and MQTT'
+  url: https://dzone.com/articles/comparison-of-asynchronous-messaging-technologies
+  domain: dzone.com
+  image: ""
+- curated_id: 9aa0b9831d3599ff4e4c256927f7c7a2
+  item_date: "2016-03-17 00:00:00"
+  title: 'Embedded IoT Protocols Guide Part II: The Old Standards of XMPP'
+  url: https://exosite.com/embedded-iot-protocols-guide-part-ii-the-old-standards-of-xmpp/
+  domain: exosite.com
+  image: ""
+- curated_id: d7848a145e22ee0bd448df324ec72dca
+  item_date: "2016-03-18 00:00:00"
+  title: Make Real Time Interactive D3.js
+  url: https://medium.com/@OpenBouquet/make-real-time-interactive-d3-js-4b67e38598a6
+  domain: medium.com
+  image: ""
+- curated_id: e6f1328c3b51310b3c77e158bb3d8abb
+  item_date: "2016-03-21 00:00:00"
+  title: Reduce WebSocket Connections With Shared Workers
+  url: https://blog.pusher.com/reduce-websocket-connections-with-shared-workers/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 76cfaa9ba3871c4dfdb82a0964b4335f
+  item_date: "2016-03-22 00:00:00"
+  title: Stream your AWS API Gateway
+  url: http://streamdata.io/blog/stream-your-aws-api-gateway/
+  domain: streamdata.io
+  image: ""
+- curated_id: 58aa0bde42c4143efd97465eace4b30a
+  item_date: "2016-03-28 00:00:00"
+  title: 'The future of streaming technologies: Apache Flink'
+  url: http://www.gmv.com/blog_gmv/future-streaming-technologies-apache-flink/
+  domain: www.gmv.com
+  image: ""
+- curated_id: 348134b02f2223b2a1c83bc9dde056c0
+  item_date: "2016-03-29 00:00:00"
+  title: 'Article: High Load Trading Transaction Processing with Reveno CQRS/Event
+    Sourcing Framework'
+  url: http://www.infoq.com/articles/High-load-transactions-Reveno-CQRS-Event-sourcing-framework
+  domain: www.infoq.com
+  image: ""
+- curated_id: 846fa40d1d8c63f797bfe5eeb58e54b0
+  item_date: "2016-04-07 00:00:00"
+  title: Building realtime applications with CycleJS and RxJS
+  url: https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 72755ea3301b746f25429834dcf38d94
+  item_date: "2016-04-11 00:00:00"
+  title: Keep track of Pusher usage with updates delivered to your inbox or Slack
+  url: https://blog.pusher.com/keep-track-of-pusher-usage-with-updates-delivered-to-your-inbox-or-slack/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: ff3da2adb901b7001a91441784caea9c
+  item_date: "2016-04-14 00:00:00"
+  title: HTTP Event Collector and sending from the browser
+  url: http://blogs.splunk.com/2016/04/14/http-event-collector-and-sending-from-the-browser/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: 8f8ebbab6a30874ff20465d23ebaeeb7
+  item_date: "2016-04-22 00:00:00"
+  title: Pushwoosh Mac OS X SDK Update
+  url: https://www.pushwoosh.com/pushwoosh-mac-os-x-sdk-update/
+  domain: www.pushwoosh.com
+  image: ""
+- curated_id: 8e2e64b854c24582af976c4800e9b807
+  item_date: "2016-04-26 00:00:00"
+  title: Changes to file events in the Real-Time Messaging API
+  url: https://medium.com/slack-developer-blog/changes-to-file-events-in-the-real-time-messaging-api-5fa75c8c4d99
+  domain: medium.com
+  image: ""
+- curated_id: 71ef6a05677ddfb202c078185c10bb55
+  item_date: "2016-04-27 14:28:01"
+  title: Changes to file events in the Real-Time Messaging API
+  url: https://medium.com/slack-developer-blog/changes-to-file-events-in-the-real-time-messaging-api-5fa75c8c4d99#.osnewregd
+  domain: medium.com
+  image: ""
+- curated_id: 447a4b587cd5c51c22ba5c2451e182cc
+  item_date: "2016-04-28 00:00:00"
+  title: Announcing Support for HTTP/2 Server Push
+  url: https://blog.cloudflare.com/announcing-support-for-http-2-server-push-2/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 57e845e18627dd7a288bfc0b658ed4b6
+  item_date: "2016-04-28 00:00:00"
+  title: Cloudflare launches HTTP/2 Server Push for all customers
+  url: https://pando.com/2016/04/28/cloudflare-launches-http2-server-push-all-customers/
+  domain: pando.com
+  image: ""
+- curated_id: ba5bd8b09674e4f5eace6235bfab185f
+  item_date: "2016-04-28 00:00:00"
+  title: FCC approves real-time text proposal to aid people with disabilities
+  url: http://www.theverge.com/2016/4/28/11534002/fcc-rtt-tty-replacement
+  domain: www.theverge.com
+  image: ""
+- curated_id: 94330daf77e5f53c895f85676db0c3a0
+  item_date: "2016-05-03 14:50:20"
+  title: Creating Real-Time WebGL Visualizations
+  url: https://www.pubnub.com/blog/2014-02-06-creating-real-time-webgl-visualizations/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: 68c6cf635b719eb65ba6dccc1c81ac64
+  item_date: "2016-05-05 00:00:00"
+  title: Everybody gets WebSockets
+  url: https://blog.cloudflare.com/everybody-gets-websockets/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 5cdb8e2ea26a199b93f8021d01ba0146
+  item_date: "2016-05-11 00:00:00"
+  title: 'Announcing PusherJS 3.1: Supporting ReactNative, Service Workers and NodeJS'
+  url: https://blog.pusher.com/announcing-pusherjs-3-1-supporting-reactnative-service-workers-and-nodejs/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: d4c0170cd958692d76e43311237d47cc
+  item_date: "2016-05-12 00:00:00"
+  title: 'Barchart Announces Real-time, Event-based Financial API '
+  url: http://www.programmableweb.com/news/barchart-announces-real-time-event-based-financial-api/brief/2016/05/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 699f3c8ddc3e46429f0b7020e853942b
+  item_date: "2016-05-12 00:00:00"
+  title: 'Low latency, large working set, and GHC?s garbage collector: pick two of
+    three'
+  url: https://blog.pusher.com/latency-working-set-ghc-gc-pick-two/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 14f9c02420b9212d15a6302cf6827e0c
+  item_date: "2016-05-12 00:00:00"
+  title: Twitter and Periscope are working on a real-time livestream scanning algorithm
+  url: http://thenextweb.com/apps/2016/05/12/twitter-periscope-real-time-video-scannning/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 8146406532f75582811a7be68ad0c37d
+  item_date: "2016-05-13 00:00:00"
+  title: Using HTTP/2 Server Push with PHP
+  url: https://blog.cloudflare.com/using-http-2-server-push-with-php/
+  domain: blog.cloudflare.com
+  image: ""
+- curated_id: 6a4e2a98dfa0162ae8db50dfd299b2a9
+  item_date: "2016-05-16 00:00:00"
+  title: Event-Driven Architecture and the Internet of Things
+  url: http://wso2.com/blogs/thesource/2016/05/event-driven-architecture-and-the-internet-of-things/
+  domain: wso2.com
+  image: ""
+- curated_id: 0d1c247d392095078e6abd8822a44608
+  item_date: "2016-05-16 00:00:00"
+  title: 'Real-Time Technology: Moving Beyond Static Apps ? A look at users and technology'
+  url: http://portfolio.openxcell.com/resources/real-time-technology-moving-beyond-static-apps.html
+  domain: portfolio.openxcell.com
+  image: ""
+- curated_id: f28518efb634c75b538d60df1641a0ab
+  item_date: "2016-05-16 00:00:00"
+  title: How to Automatically Tag Amazon EC2 Resources in Response to API Events
+  url: https://blogs.aws.amazon.com/security/post/Tx150Z810KS4ZEC/How-to-Automatically-Tag-Amazon-EC2-Resources-in-Response-to-API-Events
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 6c81b6778e69fb4c06a9a17c6a39c377
+  item_date: "2016-05-18 00:00:00"
+  title: EmberFire 1.5.0
+  url: https://firebase.googleblog.com/2015/07/emberfire-150_87.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: a387fb966223b41d78fc4fbe3837ce7c
+  item_date: "2016-05-18 00:00:00"
+  title: 'Shared, Collaborative and On Demand: The New Digital Economy'
+  url: http://www.pewinternet.org/2016/05/19/the-new-digital-economy/
+  domain: www.pewinternet.org
+  image: ""
+- curated_id: bb1b80fd86bc10216aff3cb748c6f1ce
+  item_date: "2016-05-21 00:00:00"
+  title: 'OpsClarity: Monitoring Real-Time, Fast Data Applications'
+  url: https://dzone.com/articles/opsclarity-monitoring-real-time-fast-data-applicat
+  domain: dzone.com
+  image: ""
+- curated_id: cf862f1a1c5bd69b455195b8f7c031ea
+  item_date: "2016-05-22 00:00:00"
+  title: A Flexible and Scalable Architecture for Real-Time ANT+ Sensor Data Acquisition
+    and NoSQL Storage
+  url: http://www.hindawi.com/journals/ijdsn/2016/3651591/
+  domain: www.hindawi.com
+  image: ""
+- curated_id: bae6be80b811a6941d09b973e6e4c6c9
+  item_date: "2016-05-24 00:00:00"
+  title: A Brief History of Apache Storm
+  url: https://dzone.com/articles/a-brief-history-of-apache-storm
+  domain: dzone.com
+  image: ""
+- curated_id: b7fcce6600c0b871b4386eb6c96f067c
+  item_date: "2016-05-24 00:00:00"
+  title: Configuring Nginx Load Balancer For The HTTP Event Collector
+  url: http://blogs.splunk.com/2016/05/24/configuring-nginx-load-balancer-for-the-http-event-collector/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: f324f2f34f47785291aca2dccb47e4b4
+  item_date: "2016-05-24 00:00:00"
+  title: Stream Processing for Everyone with SQL and Apache Flink
+  url: http://flink.apache.org/news/2016/05/24/stream-sql.html
+  domain: flink.apache.org
+  image: ""
+- curated_id: 4eef00f3005981903ce7c2ead5f92212
+  item_date: "2016-05-25 00:00:00"
+  title: Facebook Launches Continuous Live Video API
+  url: http://www.programmableweb.com/news/facebook-launches-continuous-live-video-api/brief/2016/05/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 23ab9e1d2d0daab3bed526bd91ee45c8
+  item_date: "2016-05-31 00:00:00"
+  title: Google Cloud Messaging and Firebase
+  url: https://developers.googleblog.com/2016/05/google-cloud-messaging-and-firebase.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: c97428a19f3e21289b771c5d49ebff61
+  item_date: "2016-06-01 00:00:00"
+  title: How to Aggregate Clickstream Data with Apache Spark
+  url: http://www.talend.com/blog/2016/06/01/how-to-aggregate-clickstream-data-with-apache-spark
+  domain: www.talend.com
+  image: ""
+- curated_id: 6e1f50887391070239bca801d7017ac3
+  item_date: "2016-06-03 00:00:00"
+  title: AdMob and Firebase have teamed up
+  url: http://googleadsdeveloper.blogspot.com/2016/06/admob-and-firebase-have-teamed-up.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: ca25a5ca936b95820cabd1290176c613
+  item_date: "2016-06-04 00:00:00"
+  title: ' Introducing Firebase Remote Config'
+  url: https://developers.googleblog.com/2016/06/introducing-firebase-remote-config.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: d86dd6b6526665cacaea3ccf3b1951e9
+  item_date: "2016-06-06 00:00:00"
+  title: Building a Real-time Presentation App Using SkyWay and Box Platform
+  url: https://www.box.com/blog/building-real-time-presentation-app-using-skyway-and-box-platform/
+  domain: www.box.com
+  image: ""
+- curated_id: cf539ab0e44778803cad51c4d5270d18
+  item_date: "2016-06-06 00:00:00"
+  title: Real-time In-memory OLTP and Analytics With Apache Ignite on AWS
+  url: https://dzone.com/articles/real-time-in-memory-oltp-and-analytics-with-apache
+  domain: dzone.com
+  image: ""
+- curated_id: 01f60f09fbc1b174704dfab157c65e0f
+  item_date: "2016-06-07 00:00:00"
+  title: Sharing Authentication Between Socket.io and a PHP Frontend (Using JSON Web
+    Tokens)
+  url: https://dzone.com/articles/sharing-authentication-between-socketio-and-a-php
+  domain: dzone.com
+  image: ""
+- curated_id: 15f8a4159db1ed409b0ddfceb5b8cb94
+  item_date: "2016-06-09 00:00:00"
+  title: Data Streaming Architecture with Apache Flink
+  url: https://www.infoq.com/news/2016/06/data-streaming-flink-oscon
+  domain: www.infoq.com
+  image: ""
+- curated_id: e6260405fd6cae6c7b512cd95b779b6f
+  item_date: "2016-06-09 00:00:00"
+  title: EasyIot Cloud MQTT API v.1
+  url: https://dzone.com/articles/easyiot-cloud-mqtt-api-v1
+  domain: dzone.com
+  image: ""
+- curated_id: 5b9f7ffa14499315029fa1927add271b
+  item_date: "2016-06-10 00:00:00"
+  title: Firebase Authentication With the Firebase 3.0 SDK and Auth0 Integration
+  url: https://dzone.com/articles/firebase-authentication-with-the-firebase-30-sdk-a
+  domain: dzone.com
+  image: ""
+- curated_id: d7f2df3d42822ed2940accee9e2fca7f
+  item_date: "2016-06-10 00:00:00"
+  title: PubSub Example Using Mongoose
+  url: https://dzone.com/articles/pubsub-example-mongoose-more-than-an-embedded-web
+  domain: dzone.com
+  image: ""
+- curated_id: 5e9691dc35db8de08b5acd2daf8dac7e
+  item_date: "2016-06-10 00:00:00"
+  title: Introducing Firebase Dynamic Links
+  url: https://firebase.googleblog.com/2016/06/introducing-firebase-dynamic-links.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 17e07dc7e458d759377ca85d94ac02fa
+  item_date: "2016-06-14 00:00:00"
+  title: ' Introducing Firebase Notifications'
+  url: https://firebase.googleblog.com/2016/06/introducing-firebase-notifications.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 2281ecf5625f9ab6f4dde3d93acb88f4
+  item_date: "2016-06-15 00:00:00"
+  title: 'Learning how to ride: an introduction to Cycle.js'
+  url: https://blog.pusher.com/learning-how-to-ride-an-introduction-to-cycle-js/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 14b7b579637ec32fa8f057b935bbd79f
+  item_date: "2016-06-16 00:00:00"
+  title: Writing Realtime apps with Laravel 5 and Pusher
+  url: https://blog.pusher.com/writing-realtime-apps-with-laravel-5-and-pusher/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 8ea34905112a987356af1c01e1df97a9
+  item_date: "2016-06-17 00:00:00"
+  title: Introducing Firebase App Indexing
+  url: https://firebase.googleblog.com/2016/06/introducing-firebase-app-indexing.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 00719917d15643d018ea79a6b606a800
+  item_date: "2016-06-19 00:00:00"
+  title: Open Sourcing Twitter Heron
+  url: https://blog.twitter.com/2016/open-sourcing-twitter-heron
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 9df3a344d0139ca57f0c59c28d69e800
+  item_date: "2016-06-20 00:00:00"
+  title: ""
+  url: https://dzone.com/articles/java-websocket-containers-thepossibilities
+  domain: dzone.com
+  image: ""
+- curated_id: eaa26062410994f78b955cd934b3ed0c
+  item_date: "2016-06-23 00:00:00"
+  title: Revisiting Realtime Angular 2
+  url: https://blog.pusher.com/revisiting-realtime-angular-2/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: afeec947f9c87710b373a63c7029188b
+  item_date: "2016-06-27 00:00:00"
+  title: Asynchronous APIs Using Apache Camel
+  url: https://dzone.com/articles/asynchronous-apis-using-apache-camel-1
+  domain: dzone.com
+  image: ""
+- curated_id: 58cf24df587534cc07cee04a0bc3631a
+  item_date: "2016-07-08 00:00:00"
+  title: Have you met the Realtime Database?
+  url: http://firebase.googleblog.com/2016/07/have-you-met-realtime-database.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 75e5358fe3c7a120bd0754dddbc29f3b
+  item_date: "2016-07-08 00:00:00"
+  title: Real-Time Data Processing With Anypoint Connector for Kafka
+  url: https://dzone.com/articles/real-time-data-processing-with-anypoint-connector
+  domain: dzone.com
+  image: ""
+- curated_id: c256e14b6e304b55f7afc8830d977437
+  item_date: "2016-07-20 00:00:00"
+  title: deepstreamHub Launches deepstream.io, an Open Source Real-Time Server
+  url: https://www.infoq.com/news/2016/07/deepstream-real-time-server
+  domain: www.infoq.com
+  image: ""
+- curated_id: 884d76de00e08de406c9c60d4af14459
+  item_date: "2016-07-21 00:00:00"
+  title: 'MQTT: Real-Time Interaction Between Devices'
+  url: https://dzone.com/articles/mqtt-real-time-interaction-between-the-devices
+  domain: dzone.com
+  image: ""
+- curated_id: 0e57ce9ab6b7fd337e09a90e9d77dbc6
+  item_date: "2016-07-21 00:00:00"
+  title: Real-Time Security Intelligence, the future of security
+  url: http://www.itsecurityguru.org/2016/07/21/real-time-security-intelligence-the-future-of-security/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: 3dcdd5dea5a667e1172b33015d0796a4
+  item_date: "2016-08-01 00:00:00"
+  title: Load Balancing of WebSocket Connections
+  url: http://www.codeproject.com/Articles/1115849/Load-Balancing-of-WebSocket-Connections
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 166b526064af332c0c956f2c935d6914
+  item_date: "2016-08-01 00:00:00"
+  title: Realtime Web Components
+  url: https://blog.pusher.com/realtime-web-components/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: dc42d562e7876ecd85e9839a2e50d70f
+  item_date: "2016-08-02 00:00:00"
+  title: Welcome to Apache Spark 2.0
+  url: https://dzone.com/articles/welcome-to-apache-spark-20
+  domain: dzone.com
+  image: ""
+- curated_id: 672ad0d5d5934bf926e15346244c6310
+  item_date: "2016-08-03 00:00:00"
+  title: 'Monitoring Apache Spark Streaming: Understanding Key Metrics'
+  url: https://dzone.com/articles/monitoring-apache-spark-streaming-understanding-ke-1
+  domain: dzone.com
+  image: ""
+- curated_id: 13da2b7008c59bafce73f502a6f9a3ed
+  item_date: "2016-08-09 00:00:00"
+  title: A WebSocket Chat Microservice in Java
+  url: https://dzone.com/articles/a-microservice-websocket-chat
+  domain: dzone.com
+  image: ""
+- curated_id: 0039514da4f687b041f448dca91c1de4
+  item_date: "2016-08-10 00:00:00"
+  title: Features of Apache Big Data Streaming Frameworks
+  url: https://dzone.com/articles/features-of-apache-big-data-streaming-frameworks
+  domain: dzone.com
+  image: ""
+- curated_id: d06cb675a6be5289a6ae6ac7505b35d0
+  item_date: "2016-08-11 00:00:00"
+  title: Amazon Kinesis Analytics ?  Process Streaming Data in Real Time with SQL
+  url: https://aws.amazon.com/blogs/aws/amazon-kinesis-analytics-process-streaming-data-in-real-time-with-sql/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 7a69722af2ba469959465217f6b622bb
+  item_date: "2016-08-11 00:00:00"
+  title: AWS bolsters cloud platform with real-time analytics, gives more content
+    controls to developers
+  url: http://www.zdnet.com/article/aws-bolsters-cloud-platform-with-real-time-analytics-gives-more-content-controls-to-developers/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: d8f3751a1599d3997fd0942de585620f
+  item_date: "2016-08-22 00:00:00"
+  title: Build IoT devices with Pusher and Lua
+  url: https://blog.pusher.com/building-iot-devices-with-pusher-and-lua/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: e496edbebb2e6a5826bba3b84355acd2
+  item_date: "2016-08-23 00:00:00"
+  title: Work in real-time with presence for documents and spreadsheets
+  url: https://quip.com/blog/presence-for-documents-spreadsheets
+  domain: quip.com
+  image: ""
+- curated_id: 7d61cd3f9799a1486fd69f19b88a8108
+  item_date: "2016-08-24 00:00:00"
+  title: Announcing Real-time Exporting of your Analytics Data into BigQuery
+  url: https://firebase.googleblog.com/2016/08/real-time-exporting-of-analytics-data-into-bigquery.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 081c3a10f3067ac1f621b0460b9b2da7
+  item_date: "2016-08-25 00:00:00"
+  title: React Tools and Libraries
+  url: https://blog.pusher.com/react-tools-and-libraries/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 1cf8187a25031a7f9070f490762f8efc
+  item_date: "2016-08-29 00:00:00"
+  title: Real-Time Search
+  url: http://blog.itrp.com/2016/08/real-time-search.html
+  domain: blog.itrp.com
+  image: ""
+- curated_id: a72f888a387580a283db61a2543e11e6
+  item_date: "2016-09-06 00:00:00"
+  title: Real-Time Analytics With Kafka and MemSQL
+  url: https://dzone.com/articles/real-time-analytics-with-kafka-and-memsql
+  domain: dzone.com
+  image: ""
+- curated_id: 8adf6baa9a4cfb1d3a38a32951d6d7a3
+  item_date: "2016-09-09 00:00:00"
+  title: Streaming historical data
+  url: http://blog.fanout.io/2016/09/10/streaming-historical-data/
+  domain: blog.fanout.io
+  image: ""
+- curated_id: a31505b348e961fb018c320d7be8987c
+  item_date: "2016-09-09 21:40:20"
+  title: 'yahoo/pulsar: Pulsar - distributed pub-sub messaging system'
+  url: https://github.com/yahoo/pulsar
+  domain: github.com
+  image: ""
+- curated_id: 14df4110bffd19e59e5157b4b9ec60b2
+  item_date: "2016-09-10 00:00:00"
+  title: Real-Time Election Day Projections May Upend News Tradition
+  url: http://www.nytimes.com/2016/09/11/us/politics/election-results-voting.html
+  domain: www.nytimes.com
+  image: ""
+- curated_id: 1f1b61a02f997b36b5376e4bcd0f27a4
+  item_date: "2016-09-12 10:26:21"
+  title: PubNub BLOCKS Catalog
+  url: https://www.pubnub.com/blocks-catalog/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: 3406298ea456cc1988aeefdc64ea5c82
+  item_date: "2016-09-12 13:12:09"
+  title: 'uWebSockets/uWebSockets: Highly scalable WebSocket server library'
+  url: https://github.com/uWebSockets/uWebSockets
+  domain: github.com
+  image: ""
+- curated_id: 3644abf1ce8183d217320ac4f77100e8
+  item_date: "2016-09-16 00:00:00"
+  title: Building a Real-Time GitHub Issue Tracker Using Java and Deepstream
+  url: https://dzone.com/articles/building-a-realtime-github-integration-using-java
+  domain: dzone.com
+  image: ""
+- curated_id: f444bc1ef12255f045944aec6cc3f477
+  item_date: "2016-09-21 00:00:00"
+  title: Google Analytics RealTime Integration
+  url: https://www.apicasystem.com/blog/google-analytics-realtime-integration/
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: 9c8bebd850d85ba49d846ff66c8bc92a
+  item_date: "2016-09-26 00:00:00"
+  title: How to View JMeter Test Results in Real-Time
+  url: https://dzone.com/articles/how-to-view-jmeter-test-results-in-real-time
+  domain: dzone.com
+  image: ""
+- curated_id: 355ece868cffe04669ed8826f6c65e92
+  item_date: "2016-09-28 00:00:00"
+  title: Apache Kafka on Heroku is Now Generally Available
+  url: https://blog.heroku.com/kafka-on-heroku-generally-available
+  domain: blog.heroku.com
+  image: ""
+- curated_id: 9118df515b24bb8e51ae4d2dcfab0522
+  item_date: "2016-09-28 00:00:00"
+  title: 'Article: Traffic Data Monitoring Using IoT, Kafka and Spark Streaming'
+  url: https://www.infoq.com/articles/traffic-data-monitoring-iot-kafka-and-spark-streaming
+  domain: www.infoq.com
+  image: ""
+- curated_id: bc6d5e65877c32145e287c5420305ee7
+  item_date: "2016-09-28 00:00:00"
+  title: 'Introducing Apache Kafka on Heroku: Event-Driven Architecture for the Cloud
+    Era'
+  url: https://developer.salesforce.com/blogs/developer-relations/2016/09/introducing-apache-kafka-heroku-event-driven-architecture-cloud-era.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: 382dd6d0f692c95d088b280e18999f3e
+  item_date: "2016-09-29 00:00:00"
+  title: Serverless WebSocket chat
+  url: http://blog.fanout.io/2016/09/29/serverless-websocket-chat/
+  domain: blog.fanout.io
+  image: ""
+- curated_id: 3c143332466b7db59dd326a91b0b9756
+  item_date: "2016-09-29 00:00:00"
+  title: Twitter Open Sources Stream Processing Engine Heron
+  url: https://www.infoq.com/news/2016/09/twitter-opensources-heron
+  domain: www.infoq.com
+  image: ""
+- curated_id: 486f4842a2fb1e3bd9b2fcd67ac3e48b
+  item_date: "2016-10-04 00:00:00"
+  title: Netflix Zuul Gets a Makeover to a Asynchronous and Non-Blocking Architecture
+  url: https://www.infoq.com/news/2016/10/netflix-zuul-asynch-nonblocking
+  domain: www.infoq.com
+  image: ""
+- curated_id: cc7855e1d348e7e025c1b0ddd67e48a2
+  item_date: "2016-10-07 08:15:17"
+  title: 'Tweet: WebSockets, Reactive APIs and Microservices https://t.co/DO3F8d0aDG'
+  url: https://twitter.com/datawireio/statuses/784411785025708032
+  domain: twitter.com
+  image: ""
+- curated_id: 57a6b689e770a7821b9211c8ccb6d48c
+  item_date: "2016-10-17 00:00:00"
+  title: Announcing Firebase Cloud Messaging for Web
+  url: https://firebase.googleblog.com/2016/10/announcing-firebase-cloud-messaging-for.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 5801a00c7078555b065c6974671dbbc5
+  item_date: "2016-10-21 00:00:00"
+  title: Persistent Connections With Node.js and Socket.io
+  url: https://dzone.com/articles/persistent-connections-with-nodejs-and-socketio
+  domain: dzone.com
+  image: ""
+- curated_id: daa9c527b2a6033c18563d3f73c0bcca
+  item_date: "2016-10-31 00:00:00"
+  title: Microservices and Stream Processing Architecture at Zalando Using Apache
+    Flink
+  url: https://www.infoq.com/news/2016/10/zalando-stream-processing-flink
+  domain: www.infoq.com
+  image: ""
+- curated_id: 1238c92be1b2c18da69f2f80258f59dc
+  item_date: "2016-11-02 00:00:00"
+  title: 'PubSub: A Short Introduction'
+  url: http://dret.typepad.com/dretblog/2016/11/pubsub-a-short-introduction.html
+  domain: dret.typepad.com
+  image: ""
+- curated_id: cdfcac31354423a28663ccc58ec15fe3
+  item_date: "2016-11-06 00:00:00"
+  title: Configuring WebSocket Server Endpoints
+  url: https://dzone.com/articles/configuring-websocket-servernbspendpoints
+  domain: dzone.com
+  image: ""
+- curated_id: c4e54c5aec2a7df9ae339a00dd9a331e
+  item_date: "2016-11-10 00:00:00"
+  title: Redis PubSub, Node, and Socket.io
+  url: https://www.compose.com/articles/redis-pubsub-node-and-socket-io/
+  domain: www.compose.com
+  image: ""
+- curated_id: 637ff3739475f8901a3d093c74fea7f0
+  item_date: "2016-12-16 00:00:00"
+  title: Spring Boot Web-Socket Integration Without STOMP
+  url: https://dzone.com/articles/spring-boot-web-socket-integration-without-stomp
+  domain: dzone.com
+  image: ""
+- curated_id: 1c5a0123f482b9e8545c996b9193bee0
+  item_date: "2017-01-30 00:00:00"
+  title: Netty 4.0.44.Final and 4.1.8.Final released
+  url: http://netty.io/news/2017/01/30/4-0-44-Final-4-1-8-Final.html
+  domain: netty.io
+  image: ""
+- curated_id: 7235a9a5aeddfc35f76b9fd3984ac0fc
+  item_date: "2017-02-01 00:00:00"
+  title: Real-Time Security for AWS
+  url: https://dzone.com/articles/real-time-security-for-aws
+  domain: dzone.com
+  image: ""
+- curated_id: 599ad81154bfbc3cef8e278be4f7191a
+  item_date: "2017-02-02 00:00:00"
+  title: Microsoft Commits to Real-Time Communications with WebRTC 1.0 API Release
+  url: https://www.programmableweb.com/news/microsoft-commits-to-real-time-communications-webrtc-10-api-release/brief/2017/02/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 179b86d3a4ec35763fa8a1110c80a663
+  item_date: "2017-02-04 10:09:02"
+  title: Goodbye Channel API, Hello PubNub
+  url: https://medium.com/data-in-motion/goodbye-channel-api-hello-pubnub-284f0b749f3e#.axjfla9qa
+  domain: medium.com
+  image: ""
+- curated_id: e3b0c568a25c6d76477d05aa43bd0c44
+  item_date: "2017-02-06 00:00:00"
+  title: Announcing Apache Flink 1.2.0
+  url: http://flink.apache.org/news/2017/02/06/release-1.2.0.html
+  domain: flink.apache.org
+  image: ""
+- curated_id: f9a403200975f8b081b540d796d1dc89
+  item_date: "2017-02-14 00:00:00"
+  title: Build an Android Realtime Feed with Pusher
+  url: https://blog.pusher.com/build-an-android-realtime-feed-with-pusher/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 348310babdc103a8766c4ac7d20cf101
+  item_date: "2017-02-22 00:00:00"
+  title: "Enhancing Slack\u2019s Events API"
+  url: https://medium.com/slack-developer-blog/enhancing-slacks-events-api-7535827829ab
+  domain: medium.com
+  image: ""
+- curated_id: 25ed14ef518c2f31538905994051402f
+  item_date: "2017-02-22 00:00:00"
+  title: 'Firebase: Real-Time Database Using AngularJS'
+  url: https://dzone.com/articles/firebase-real-time-database-using-angularjs
+  domain: dzone.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2017-02-25 00:00:00"
+  title: REST over WebSockets instead of HTTP
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 1e7ec33b98983eadcc96aa5cf03f6f21
+  item_date: "2017-02-28 05:01:09"
+  title: 'Tweet: Asynchronous REST Services with JAX-RS and CompletableFuture middot;
+    https://t.co/3Awb0JHzn7 https://t.co/iFDejqD9Ic'
+  url: https://twitter.com/datawireio/statuses/836561880302907392
+  domain: twitter.com
+  image: ""
+- curated_id: 34dca324797801d4afa9a8cba727e34a
+  item_date: "2017-03-02 00:00:00"
+  title: Create a Docker dashboard with TypeScript, React and Socket.io
+  url: https://auth0.com/blog/docker-dashboard-with-react-typescript-socketio/
+  domain: auth0.com
+  image: ""
+- curated_id: 697a0dc57e0ebecc477009c15b1547a9
+  item_date: "2017-03-10 00:00:00"
+  title: Introducing real-time monitoring for Pusher
+  url: https://www.datadoghq.com/blog/pusher-monitoring/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: ac0658dcf3e2cbfa4d18baebaa7bccad
+  item_date: "2017-03-15 00:00:00"
+  title: Profiling your Realtime Database Performance
+  url: https://firebase.googleblog.com/2017/03/profiling-your-realtime-database.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: d9577f962936bc023de20d339c5e4f11
+  item_date: "2017-03-16 00:00:00"
+  title: How to build a photo feed in Android with Pusher
+  url: https://blog.pusher.com/build-photo-feed-android-pusher/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 28e3030304f65e8947a27bbd383a3182
+  item_date: "2017-03-24 00:00:00"
+  title: How to build a realtime table using Laravel and Pusher
+  url: https://blog.pusher.com/build-a-realtime-table-using-laravel-and-pusher/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: c767c84e855c5ec881ad2ffa463f5fe1
+  item_date: "2017-04-05 00:00:00"
+  title: Bringing Firebase Admin To Python
+  url: https://firebase.googleblog.com/2017/04/bringing-firebase-admin-to-python.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 39fa2bfd94a3ba33b4521ca41785511c
+  item_date: "2017-04-06 12:07:02"
+  title: Learn how to fanout S3 event notifications to multiple endpoints with Amazon
+    SNS pub/sub messaging
+  url: https://aws.amazon.com/blogs/compute/fanout-s3-event-notifications-to-multiple-endpoints/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 4d3ed95b64abae032ffdbd50ec800421
+  item_date: "2017-04-12 00:00:00"
+  title: How to build a realtime chart using Laravel and Pusher
+  url: https://blog.pusher.com/build-realtime-chart-using-laravel-pusher/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 89447eb54b552b4e934ea02708980f94
+  item_date: "2017-04-14 00:00:00"
+  title: How to create web notifications using Laravel and Pusher
+  url: https://blog.pusher.com/create-web-notifications-using-laravel-pusher/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: c48e42db18ddc4d662ccac992a317f0f
+  item_date: "2017-04-21 00:00:00"
+  title: How to build a live commenting feature in iOS using Pusher
+  url: https://blog.pusher.com/build-live-commenting-feature-ios-using-pusher/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 141a39600c99617d49e6d380cb7e2f3e
+  item_date: "2017-04-27 00:00:00"
+  title: "Improving Customer\u2019s App Experiences in Realtime"
+  url: https://blog.pusher.com/improving-customers-app-experiences-realtime/
+  domain: blog.pusher.com
+  image: ""
+- curated_id: 911025eb0a8642dfe91e3642798a631e
+  item_date: "2017-05-01 08:22:00"
+  title: Streaming Realtime Analytics with Keen IO and PubNub
+  url: https://www.pubnub.com/blog/streaming-realtime-analytics-with-keen-io-and-pubnub/
+  domain: www.pubnub.com
+  image: ""
+- curated_id: 63a20dfaf881125ef66eb07cacfe5d67
+  item_date: "2017-05-04 00:00:00"
+  title: Create a to-do iOS and Android app with Ionic  Angular
+  url: https://blog.pusher.com/create-to-do-ios-android-app-ionic-angular/
+  domain: blog.pusher.com
+  image: ""
 ...
