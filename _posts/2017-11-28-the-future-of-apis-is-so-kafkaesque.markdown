@@ -1,0 +1,30 @@
+---
+published: true
+layout: post
+title: The Future Of APIs Is So Kafkaesque
+date: 2017-11-28T11:00:00.000Z
+tags:
+  - API Evangelist
+  - Messaging
+  - Real Time
+  - Queues
+  - Politics of APIs
+image: 'https://s3.amazonaws.com/kinlane-productions/kafkaesque.jpg'
+---
+<p><a href="https://www.youtube.com/watch?v=wkPR4Rcf4ww"><img src="https://s3.amazonaws.com/kinlane-productions/kafkaesque.jpg" align="right" width="45%" style="padding: 15px;"></a></p>I'm regularly spending time test driving new technologies, and staying in tune with where the API space is headed. This involves understanding the latest tools in the toolbox like GraphQL, Kafka, gRPC, and others. While reviewing each fork in the road, I'm trying to understand where things might be headed, the viability of taking this path, and whether or not I should be helping convince folks they might want to consider walking down any particular path. I can't predict the future, but after seven years of studying APIs, and a thirty year career in technology, I have some experience in trying to reading the tea leaves. My goal isn't to convince people of the latest trend, it is to try and help them make sensible decision about how technology might work for them, or just become the next layer of technical debt.
+
+As the API Evangelist I am a storyteller in the tech sector, so names, brands, and the words we use are important to me. Not just for helping people understand what is going on, but actually setting the tone for the conversation. While studying a product, service, or tool I try and do some research into its origins, and understand how it came to be. I was doing this research with Kafka, and find myself confounded regarding why the platform creator(s) chose such a name, especially for a piece of messaging and queuing technology. I'm not up to speed on all of Franz Kafka's work, but I am aware of the way his name is used, which according to the Merriam Webster dictionary (which I'm not going to link to cause their page keeps crashing in my browser):
+
+_of, relating to, or suggestive of Franz Kafka or his writings; especially : having a nightmarishly complex, bizarre, or illogical quality ~ Kafkaesque bureaucratic delays_
+
+Yeah, plug that shit into my company right now! I know that engineers aren't good at thinking about marketing, and the branding around their tools, but c'mon? People are saying Kafka is the next evolution in the world of APIs, as we enter into a more real-time, evented realm of moving our bitz and bytes around the web. In all fairness, [according to the Wikipedia entry](https://en.wikipedia.org/wiki/Apache_Kafka), the history of Kafka says:
+
+_Apache Kafka was originally developed by LinkedIn, and was subsequently open sourced in early 2011. Graduation from the Apache Incubator occurred on 23 October 2012. In November 2014, several engineers who worked on Kafka at LinkedIn created a new company named Confluent with a focus on Kafka. According to a Quora post from 2014, Jay Kreps seems to have named it after the author Franz Kafka. Kreps chose to name the system after an author because it is "a system optimized for writing", and he liked Kafka's work._
+
+I'm guessing Jay Kreps didn't really think about the branding and marketing implications of his tool being Kafkaesque, and how people who are new to the product would interpret it. I'm guessing in engineering circles this won't be a problem, but that really gets at my concern here. I'm looking at Kafka as one possible path I might want to help my readers consider for evolving their technology platform. Aside from the name implying "having a nightmarishly complex, bizarre, or illogical quality" or "bureaucratic delays", I'm concerned about the technical complexity of Kafka over the simplicity of web APIs, which have contributed significantly to their success--despite the opinions of many engineers.
+
+I regularly battle with tech folks about why web APIs have worked (or have not worked). Simplicity is in the top five reasons why it is working, and has received more traction than it's predecessors like SOAP ever did. I have to consider these aspects of technological adoption as we look at whats next, and frankly I get why GraphQL, Kafka, and gRPC works for engineers, and technically minded folks. I'm not convinced that I can sell these solutions to the masses. Ok, I know that many of you think this shouldn't be how things get done, and that these aspects of doing things should remain in the hands of the technically elite, but that is your hand-crafted world, and belief system. It doesn't reflect how business gets done across all of the companies, organizations, institutions, and government agencies I'm talking to on a regular basis.
+
+As we make decisions around what is next for the tech space we have to ask ourselves, do we want things to be "nightmarishly complex, bizarre, or illogical quality"? I'm not saying Kafka is this. I am just saying it doesn't seem as simple as web APIs, and it is something that could contribute signficiantly to technical debt, and technology induced "bureaucratic delays". I know this stuff might make sense in your head, but I spend my days studying technology and how people adopt or do not adopt it. I'm just saying we aren't putting as much thought into how this stuff will pencil out at a larger scale...or, maybe we have, and the objective isn't simplicity, and everyone being able to understanding what is going on, and keeping things within the control of an elite few, who understand how it all works.
+
+My guess, is that we aren't doing much in the way of deep thinking around why we name things the way we do, why we build technology the way we do, and why we adopt each wave of technology. I'm increasingly convinced that simple web APIs were purely an accident, and something that will be forgotten pretty soon.
