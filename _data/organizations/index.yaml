@@ -1,310 +1,226 @@
----
-- slug: aws-kinesis-firehose
-  name: AWS Kinesis Firehose
-  description: Amazon Kinesis Firehose is the easiest way to load&nbsp;streaming data&nbsp;into
-    AWS. It can capture, transform,&nbsp;and load streaming data into&nbsp;Amazon
-    Kinesis Analytics,&nbsp;Amazon S3,&nbsp;Amazon Redshift, and&nbsp;Amazon Elasticsearch
-    Service, enabling near real-time analytics with existing business intelligence
-    tools and dashboards you&rsquo;re already using today. It is a fully managed service
-    that automatically scales to match the throughput of your data and requires no
-    ongoing administration. It can also batch, compress, and encrypt the data before
-    loading it, minimizing the amount of storage used at the destination and increasing
-    security. You can easily create a Firehose delivery stream from the&nbsp;AWS Management
-    Console, configure it with a few clicks, and start sending data to the stream
-    from hundreds of thousands of data sources to be loaded continuously to AWS &ndash;
-    all in just a few minutes. With Amazon Kinesis Firehose, you only pay for the
-    amount of data you transmit through the service. There is no minimum fee or setup
-    cost.
-  url: https://aws.amazon.com/kinesis/firehose/
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
-  tags: Amazon Web Services,Real Time,Database,Data
-- slug: apache-apollo
-  name: Apache Apollo
-  description: ActiveMQ Apollo is a faster, more reliable, easier to maintain messaging
-    broker built from the foundations of the original ActiveMQ. It accomplishes this
-    using a radically different threading and message dispatching architecture. Like
-    ActiveMQ, Apollo is a multi-protocol broker and supports STOMP, AMQP, MQTT, Openwire,
-    SSL, and WebSockets.
-  url: http://activemq.apache.org/apollo/
-  shorturl: ""
-  twitter: ""
-  blog: http://activemq.apache.org/apollo/blog/index.html
-  blogrss: http://activemq.apache.org/apollo/blog/index.rss
-  github: https://github.com/apache/activemq-apollo
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-apollo-logo.png
-  tags: Apache,Real Time
-- slug: treaty
-  name: Treaty
-  description: Treaty is a realtime collaborative text editor that makes it easy to
-    add document collaboration to your web application. A few simple lines of Javascript,
-    and your customers will be able to collaborate on their work like never before!
-    Best of all, your customers stay on your site and don't even need to know they're
-    using a third-party application.
-  url: https://treatytime.com/developers
-  shorturl: ""
-  twitter: https://twitter.com/treatytime
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/treaty-logo.png
-  tags: Collaboration,Real Time
-- slug: logmatic
-  name: Logmatic
-  description: Funnel all logs, metrics, and machine events into a single hub. Get
-    a clear overview of what is happening across your distributed environments, and
-    spot the needle in the haystack in no time. We believe that with the right information,
-    driving your business to success is much easier. Machine data is that kind of
-    incredibly valuable information, coming from the very core of your business operations.
-    So we created Logmatic.io; a friendly platform continuously evolving to make your
-    life simpler.
-  url: http://logmatic.io/
-  shorturl: ""
-  twitter: https://twitter.com/logmatic_
-  blog: http://logmatic.io/blog/
-  blogrss: ""
-  github: https://github.com/logmatic
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Logmatic-io-Logo.png
-  tags: Data,Real Time,Logging
-- slug: zeit
-  name: Zeit
-  description: Make cloud computing as easy and accessible as mobile computing. To
-    be truly easy, cloud computing should be as easy as a tap or command. To connect
-    everyone, applications have to be fast from every geographical point. To be accessible,
-    great care has to go into the user experience and design. We build products for
-    developers and designers. And those who aspire to become one.
-  url: https://zeit.co/
-  shorturl: ""
-  twitter: https://twitter.com/zeithq
-  blog: https://zeit.co/blog
-  blogrss: ""
-  github: https://github.com/zeit/
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2017-01-11 at 10.19.30 PM.png
-  tags: Deployment,Real Time
-- slug: firebase
-  name: Firebase
-  description: Firebase is a mobile platform that helps you quickly&nbsp;develop&nbsp;high-quality
-    apps,&nbsp;grow&nbsp;your user base, and&nbsp;earn&nbsp;more money. Firebase is
-    made up of complementary features that you can mix-and-match to fit your needs.
-  url: https://firebase.google.com/
-  shorturl: ""
-  twitter: https://twitter.com/firebase
-  blog: https://firebase.googleblog.com/
-  blogrss: http://firebase.googleblog.com/feeds/posts/default?alt=rss
-  github: https://github.com/firebase
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png
-  tags: Real Time,API LIfeycle,Database,Command Line Interface,Links,Google APIs,Security,Testing,Virtualization
-- slug: pusher
-  name: Pusher
-  description: Pusher is a hosted service that allows developers to quickly and easily
-    add realtime functionality into their web and mobile applications. Our goal is
-    to take away the management and operations of a company's realtime infrastructure,
-    so that developers can focus energy on the features of their product that make
-    them unique.
-  url: http://pusher.com/
-  shorturl: ""
-  twitter: https://twitter.com/pusher
-  blog: http://blog.pusher.com/
-  blogrss: http://feeds.feedburner.com/pusherb
-  github: https://github.com/pusher
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/pusher-logo.png
-  tags: HTML5,Infrastructure,WebSockets,API United Kingdom,Real Time,API LIfeycle
-- slug: matrix
-  name: Matrix
-  description: Matrix is an open standard for decentralised communication, providing
-    simple HTTP APIs and open source reference implementations for securely distributing
-    and persisting JSON over an open federation of servers.
-  url: http://matrix.org/
-  shorturl: ""
-  twitter: https://twitter.com/matrixdotorg
-  blog: http://matrix.org/blog/posts/
-  blogrss: http://matrix.org/blog/comments/feed/
-  github: https://github.com/matrix-org
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/matrix.png
-  tags: Messaging,Real Time
-- slug: google-cloud-pub/sub
-  name: Google Cloud Pub/Sub
-  description: Cloud Pub/Sub is a fully-managed real-time messaging service that allows
-    you to send and receive messages between independent applications. You can leverage
-    Cloud Pub/Sub&rsquo;s flexibility to decouple systems and components hosted on
-    Google Cloud Platform or elsewhere on the Internet. By building on the same technology
-    Google uses, Cloud Pub/Sub is designed to provide &ldquo;at least once&rdquo;
-    delivery at low latency with on-demand scalability to 1 million messages per second
-    (and beyond).
-  url: https://cloud.google.com/pubsub/docs/
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-pub-sub-middleware.png
-  tags: Messaging,Real Time,Google APIs,Internet of Things
-- slug: pushwoosh
-  name: Pushwoosh
-  description: Explore our brilliant service with the free Pushwoosh account and send
-    unlimited push notifications to up to one million devices! Engage your users,
-    stay in touch with your customers, and push up your sales with a single easy-to-use
-    service.
-  url: http://www.pushwoosh.com/
-  shorturl: ""
-  twitter: https://twitter.com/Pushwoosh
-  blog: http://www.pushwoosh.com/blog/
-  blogrss: http://www.pushwoosh.com/feed/
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/push-woosh-logo.png
-  tags: Push Notifications,Real Time
-- slug: apache-flink
-  name: Apache Flink
-  description: Flink&rsquo;s core is a streaming dataflow engine that provides data
-    distribution, communication, and fault tolerance for distributed computations
-    over data streams. Flink includes several APIs for creating applications that
-    use the Flink engine. You can integrate Flink easily with other well-known open
-    source systems both for data input and output as well as deployment.
-  url: https://flink.apache.org/
-  shorturl: ""
-  twitter: ""
-  blog: https://flink.apache.org/blog/
-  blogrss: https://flink.apache.org/blog/feed.xml
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-fink.jpeg
-  tags: Real Time
-- slug: fanout
-  name: Fanout
-  description: Fanout offers software and cloud services that assist with implementing
-    and scaling real-time functionality in websites, apps, and APIs. Add realtime
-    push to your apps and services. Realtime updates get pushed to your app or website
-    without an explicit refresh. It's great for notifications, gaming, chat programs,
-    and more!
-  url: https://fanout.io/
-  shorturl: ""
-  twitter: https://twitter.com/fanout
-  blog: http://blog.fanout.io/
-  blogrss: http://blog.fanout.io/feed/
-  github: https://github.com/fanout
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fanout-io-logo.png
-  tags: Real Time
-- slug: heartbeat
-  name: Heartbeat
-  description: Heartbeat tranforms REST endpoints into streaming APIs painlessly,
-    with zero lines of code. Heartbeat transformed streams are accessible from the
-    dashboard, or universally via Javascript and REST based APIs. With the flick of
-    a switch, heartbeat can store updates for up to six hours. It also provides an
-    API and a data view for visually accessing historical data.
-  url: https://heartbeat.appbase.io/
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Heartbeat-Logo.png
-  tags: Real Time
-- slug: realtime.co
-  name: Realtime.co
-  description: Realtime is a technology that comes to life via 4 products that allow
-    website visitors to interact in real time with the website server. So whether
-    they are shopping online, visiting a newspaper site or just browsing, they can
-    receive dedicated information, be offered products based on a truly individual
-    profile that can be updated second by second, or receive special ad contents pushed
-    to the browser.
-  url: http://www.realtime.co/
-  shorturl: ""
-  twitter: https://twitter.com/RTWworld
-  blog: ""
-  blogrss: ""
-  github: https://github.com/RTWWorld
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2182_logo.png
-  tags: Real Time
-- slug: superfeedr
-  name: superfeedr
-  description: Superfeedr fetches and parses RSS or Atom feeds on behalf of its users
-    and then pushes them the new entries in these feeds. Superfeedr implements most
-    of the current Real-time technologies and guarantees an entry detection time inferior
-    to 15 min. Superfeedr has both an XMPP and a PubSubHubbub API.
-  url: https://superfeedr.com/
-  shorturl: ""
-  twitter: https://twitter.com/superfeedr
-  blog: http://blog.superfeedr.com/
-  blogrss: http://blog.superfeedr.com/atom.xml
-  github: https://github.com/superfeedr
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/superfeedr-logo.png
-  tags: Real Time
-- slug: the-netty-project
-  name: The Netty project
-  description: Netty is an asynchronous event-driven network application framework
-    for rapid development of maintainable high performance protocol servers &amp;
-    clients. Netty is a NIO client server framework which enables quick and easy development
-    of network applications such as protocol servers and clients. It greatly simplifies
-    and streamlines network programming such as TCP and UDP socket server.
-  url: http://netty.io/
-  shorturl: ""
-  twitter: https://twitter.com/netty_project
-  blog: ""
-  blogrss: http://feeds.feedburner.com/netty_project
-  github: https://github.com/netty/
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/netty-project.png
-  tags: Real Time
-- slug: pubnub
-  name: PubNub
-  description: PubNub is a blazingly fast cloud-hosted messaging service for building
-    real-time web and mobile apps. Hundreds of apps and thousands of developers rely
-    on PubNub for delivering &ldquo;human-perceptive&rdquo; real-time experiences
-    that scale to millions of users worldwide. PubNub delivers the infrastructure
-    needed to build amazing MMO games, social apps, business collaborative solutions,
-    and more.
-  url: http://pubnub.com
-  shorturl: ""
-  twitter: https://twitter.com/pubnub
-  blog: http://blog.pubnub.com
-  blogrss: http://blog.pubnub.com/feed/
-  github: https://github.com/pubnub
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/pubnub-large.png
-  tags: Real Time,API LIfeycle
-- slug: cloudboost.io
-  name: CloudBoost.io
-  description: CloudBoost can power your app's backend, including data storage, user
-    authentication, real-time notifications, search and more. Focus on creating extraordinary
-    user experiences for your users. We'll take care of the rest.&nbsp;
-  url: https://www.cloudboost.io/
-  shorturl: ""
-  twitter: https://twitter.com/cloudboostio
-  blog: https://blog.cloudboost.io/
-  blogrss: http://cbblog.azurewebsites.net/rss/
-  github: https://github.com/cloudboost
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cloudboost-logo.png
-  tags: Real Time,BaaS
-- slug: streamdataio
-  name: StreamdataIO
-  description: 'streamdata.io is a real-time cache proxy allowing you to poll standard
-    public REST APIs and push updates to clients. But wait, there is more : streamdata.io
-    keeps a history of modifications that occur on the data between two pollings!
-    This way, streamdata.io is able to give you the list of modifications which happened
-    since last time you fetched the data.'
-  url: http://streamdata.io/
-  shorturl: ""
-  twitter: https://twitter.com/StreamdataIO
-  blog: http://streamdata.io/blog/
-  blogrss: http://streamdata.io/feed/
-  github: https://github.com/streamdataio
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/streamdata-io-logo.png
-  tags: Real Time,Deployment
-- slug: beaconpush
-  name: Beaconpush
-  description: Beaconpush is a push service for creating real-time web apps using
-    HTML5 WebSockets and Comet. Beaconpush changes the traditional request-response
-    flow of the web by creating a persistent real-time message stream to each of your
-    visitors. Enabling you to reach your visitors without requiring them to constantly
-    poll your website.
-  url: http://beaconpush.com
-  shorturl: ""
-  twitter: https://twitter.com/beaconpush
-  blog: ""
-  blogrss: http://pushingtheweb.com/feed/
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/beacon-push.png
-  tags: Realtime,Messaging,Notifications,Real Time Dead
-...
+- slug: apache-avro
+  name: Apache Avro
+  description: >-
+    Apache Avro is a data serialization system. Avro relies on schemas. When
+    Avro data is read, the schema used when writing it is always present. This
+    permits each datum to be written with no per-value overheads, making
+    serialization both fast and small. This also facilitates use with dynamic,
+    scripting languages, since data, together with its schema, is fully
+    self-describing.
+  url: 'https://avro.apache.org/docs/current/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-avro.png
+  tags: Definitions
+- slug: api-blueprint
+  name: API Blueprint
+  description: >-
+    API Blueprint is a documentation-oriented API description language. A couple
+    of semantic assumptions over the plain Markdown. API Blueprint is perfect
+    for designing your Web API and its comprehensive documentation but also for
+    quick prototyping and collaboration. It is easy to learn and even easier to
+    read &ndash; after all it is just a form of plain text.
+  url: 'https://apiblueprint.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/apiblueprint'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/apiaryio/api-blueprint'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiblueprint-logo-2.png
+  tags: Definitions
+- slug: api-transformer
+  name: API Transformer
+  description: >-
+    Transform API Descriptions from/to various formats e.g., Swagger, API
+    Blueprint, RAML, WADL, Google Discovery, I/O Docs. Please contact us for
+    production and high volume usage.
+  url: 'https://apitransformer.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-transformer-screenshot.png
+  tags: 'Definitions,Conversion,My API Stack'
+- slug: elastic-path
+  name: Elastic Path
+  description: >-
+    Elastic Path builds commerce software that powers the next generation of
+    digital experiences, helping businesses generate more revenue from their
+    goods, services, and content. Our products, including Commerce Engine,
+    Cortex, and Subscriptions, enable companies to unite discovery, buying, and
+    consumption into outstanding customer experiences that drive more engagement
+    and conversion.
+  url: 'http://www.elasticpath.com'
+  short_url: ''
+  twitter: 'https://twitter.com/elasticpath'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/elasticpath'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/elastic-path.jpeg
+  tags: 'Enterprise,Retail,Commerce,Hypermedia,API LIfeycle,Definitions'
+- slug: frictionless-data
+  name: Frictionless Data
+  description: >-
+    Data Packages are a lightweight containerization format for data. They
+    provide the foundation for frictionless data transport.&nbsp;Tools and
+    integrations to make it easy to integrate Data Packages into your data
+    processing and publishing workflows.&nbsp;Learn how to get started using and
+    developing with Data Packages through our guides, tutorials and
+    documentation.
+  url: 'http://specs.frictionlessdata.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/frictionlessdata'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frictionlessdata-logo.png
+  tags: 'Data,Schema,Definitions'
+- slug: postman
+  name: Postman
+  description: >-
+    Postman on Chrome is the most efficient way to test, develop and document
+    APIs. Create complex requests, go back in time and view results in a
+    beautiful way. Postman has more than 80 features to help you at every
+    step.&nbsp;Our user base is growing rapidly and with more tools in the
+    pipeline, Postman aims to provide the most comprehensive API development and
+    testing solution to developers.
+  url: 'http://www.getpostman.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/postmanclient'
+  blog: 'http://blog.getpostman.com/'
+  blog_rss: 'http://blog.getpostman.com/index.php/feed/'
+  github: 'https://github.com/postmanlabs'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png
+  tags: 'Clients, Testing, Definitions'
+- slug: google-api-discovery-service
+  name: Google API Discovery Service
+  description: >-
+    You can use the Google API Discovery Service to build client libraries, IDE
+    plugins, and other tools that interact with Google APIs. It provides a
+    lightweight, JSON-based API that exposes machine-readable metadata about
+    Google APIs.
+  url: 'https://developers.google.com/discovery/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2017-03-16 at 9.06.47 PM.png
+  tags: 'Discovery,Google APIs,Definitions'
+- slug: odata.org
+  name: OData
+  description: >-
+    OData (Open Data Protocol) is an OASIS standard that defines the best
+    practice for building and consuming RESTful APIs. OData helps you focus on
+    your business logic while building RESTful APIs without having to worry
+    about the approaches to define request and response headers, status codes,
+    HTTP methods, URL conventions, media types, payload formats and query
+    options etc.
+  url: 'http://www.odata.org/'
+  short_url: 'http://apis.how/byirz5zgt7'
+  twitter: 'https://twitter.com/odataorg'
+  blog: 'http://www.odata.org/blog/'
+  blog_rss: ''
+  github: 'https://github.com/odata'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/odata-logo.png
+  tags: Definitions
+- slug: openapi-spec
+  name: OpenAPIs
+  description: >-
+    The Open API Initiative (OAI) was created by a consortium of forward-looking
+    industry experts who recognize the immense value of standardizing on how
+    REST APIs are described. As an open governance structure under the Linux
+    Foundation, the OAI is focused on creating, evolving and promoting a vendor
+    neutral description format. SmartBear Software is donating the Swagger
+    Specification directly to the OAI as the basis of this Open Specification.
+    &nbsp;
+  url: 'https://openapis.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/openapispec'
+  blog: 'https://openapis.org/news-faq/blog'
+  blog_rss: 'https://www.openapis.org/feed'
+  github: 'https://github.com/OAI'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oai-logo.png
+  tags: Definitions
+- slug: raml
+  name: RAML
+  description: >-
+    RESTful API Modeling Language (RAML) is a simple and succinct way of
+    describing practically-RESTful APIs. It encourages reuse, enables discovery
+    and pattern-sharing, and aims for merit-based emergence of best practices.
+    The goal is to help our current API ecosystem by solving immediate problems
+    and then encourage ever-better API patterns. RAML is built on broadly-used
+    standards such as YAML and JSON and is a non-proprietary, vendor-neutral
+    open spec.
+  url: 'http://raml.org/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://open-raml.blogspot.com/'
+  blog_rss: 'http://open-raml.blogspot.com/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/raml-logo.jpg
+  tags: Definitions
+- slug: ''
+  name: RESTdesc
+  description: >-
+    Semantic descriptions for hypermedia APIs. RESTdesc allows you to capture
+    the functionality of hypermedia APIs, so automated agents can use them.
+    Despite their powerful capabilities, RESTdesc descriptions are easy to
+    master. Description is not a goal in itself: you want your API to be used.
+    See how RESTdesc opens up your API for discovery, based on its functional
+    characteristics.
+  url: 'http://restdesc.org/'
+  short_url: 'http://apis.how/vymksgxgfl'
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restdesc-logo.png
+  tags: Definitions
+- slug: schema.org
+  name: Schema.org
+  description: >-
+    Schema.org is a collaborative, community activity with a mission to create,
+    maintain, and promote schemas for structured data on the Internet, on web
+    pages, in email messages, and beyond. Schema.org vocabulary can be used with
+    many different encodings, including RDFa, Microdata and JSON-LD.&nbsp;
+  url: 'http://schema.org'
+  short_url: ''
+  twitter: ''
+  blog: 'http://blog.schema.org/'
+  blog_rss: 'http://blog.schema.org/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/schema-org-logo.jpeg
+  tags: 'Definitions, Schema'
+- slug: u.s.-data-federation
+  name: U.S. Data Federation
+  description: >-
+    The U.S. Data Federation supports data interoperability and harmonization
+    across Federal, state, and local government agencies by highlighting common
+    data formats, API specifications, and metadata vocabularies.
+  url: 'http://federation.data.gov/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usdf-logo.png
+  tags: 'Federal Government,Definitions'
